@@ -64,3 +64,78 @@ gastrectomia con linfoadenectomia estesa (D2-D3) è il nuovo standard di riferim
 chemioterapia in ipertermia dura 4-18 ore, variano i chemioterapici in base alla profondità di infusione
 
 l'analisi dell'andamento temporale degli indicatori epidemiologici permette di valutarelgi effetti degli intervanti sanitari intrapresi
+
+Malattie funzionali dell'esofago - De Stefano
+----
+
+Funzionali vs Anatomici
+
+esofago a coda di topo o a becco d'uccello (mi rifiuto di seguire più di così)
+
+lamina del Bertelli (la scuola di anatomia senese ha fatto scuola cit. De Stefano)
+
+linea z???
+
+incoordinazione sfinteriale - problema neurologico da anatomia reoglare
+
+#####Ernie Iatali
+
+Allison-1951 (descrizione della Fionda di Allison)
+
++ ernia iatale da scivolamento o assiale
++ ernia iatale paraesofagea o da rotazione
+
+Ackerlund-1926
+
++ tipo I - con brachiesofago
++ tipo II - paraesofagea
++ tipo III - esofago-gastrica
+
+#####Malattia da reflusso
+
+la causa principale responsabile di reflusso gastroesofageo dipende dall'inefficacia del LES
+
+Terapia per rapido controllo dei sintomi
+
+pazienti trattati empiricamente / endoscopia negativa / esofagite lieve → H<sub>2</sub> RA → sintomi persistenti → PPI 2-4 settimane → PPIx2 1-2 settimane
+
+se persiste si va a endoscopia / pHmetria / rivalutazione dei sintomi
+
+cioccolata / finocchio / menta → inibiscono l'attività sfinteriale
+
+######Esofago di Barrett
+
+condizione patologica caratterizzata dalla sostituzione del normale epitelio squamoso esofageo con un epitelio colonnare sede di metaplasia intestinale.
+la mucosa esofagea assume una colorazione rossastra dal punto di vista endoscopico molto vicina a quella dello stomaco
+
+studiato per la prima volta nel brachiesofago (condizione pediatrica)
+
+secondo alcuni solo la metaplasia e non la displasia rientra nella definizione di "Esofago di Barrett"
+
+short vs long Barrett
+
+metaplasia vs displasia
+
+[classificazione Savary-Miller](http://onlinelibrary.wiley.com/doi/10.1111/j.1442-2050.2010.01092.x/full)
+
+precanceroso (metaplasia) vs cancerizzabile (displasia) - la prima presenta un aumento del rischio di adenocarcinoma esofageo la seconda da una condizione già cancerosa
+
+disfagia differenziazione dei sintomi - possibile distinzione della disfagia per solidi e liquidi
+
+disfagia paradossa nell'acalasia, non si presenta per i solidi ma per i liquidi
+
+disfagia lusoria - alterazioni vascolari del collo con compressione dell'esofago
+
+disfagia dolorosa (associata ad odinofagia)
+
+#####Trattamento
+
+Fundoplicatio sec. Nissen - sezione dei vasi brevi e l'esofago viene compreso nel punto di plastica
+
+sali di bismuto o liquirizia, effetto tampone (etichetta antiacidi)
+
+PPI
+
+H<sub>2</sub>-RA
+
+domperidone - effetto contrario, procinetico, DA-antagonist periferico
