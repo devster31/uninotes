@@ -103,7 +103,7 @@ se persiste si va a endoscopia / pHmetria / rivalutazione dei sintomi
 
 cioccolata / finocchio / menta → inibiscono l'attività sfinteriale
 
-######Esofago di Barrett
+#####Esofago di Barrett
 
 condizione patologica caratterizzata dalla sostituzione del normale epitelio squamoso esofageo con un epitelio colonnare sede di metaplasia intestinale.
 la mucosa esofagea assume una colorazione rossastra dal punto di vista endoscopico molto vicina a quella dello stomaco
