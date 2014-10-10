@@ -435,7 +435,7 @@ esame obbiettivo deve comprendere le solite robe (comprende esplorazione retto-v
 
 classificazione topografica chirurgica del dolore per restringere le possibili zone d'origine
 
-++ epigastrio
++ epigastrio
    + gastroduodenite
    + ulgera e perforazione gastroduodenale
    + pancreatite acuta
@@ -481,3 +481,5 @@ classificazione topografica chirurgica del dolore per restringere le possibili z
   + patologia urologica
      + calcolosi ureterale
      + necrosi neoplasie renali
+
+video e presentazione (link missing)
