@@ -12,7 +12,7 @@ instabilità placca
 trombe murale unstable o non q wave
 trombo occlusivo elevated St mi
 aumento lattato diminuzione contrattilità
-irradiazione dolore jaw back epigastrium 
+irradiazione dolore jaw back epigastrium
 donne anziani diabetici hanno presentazione particolari
 
 rule in and rule out per la decisione di diagnosi
@@ -28,7 +28,7 @@ levels of evidence A/B/C con A come massimo e livelli di raccomandazioni con cla
 
 terapia pain reliefe con nitroglicerina o morfina
 antipiastrine e antiaggreganti aspirina
-PCI o trombolisi se non si arriva 
+PCI o trombolisi se non si arriva
 P2Y<sub>12</sub> inhibitor e PPI interaction
 ticagrelol reversibile e senza effetto di primo passaggio
 dosi di aspirina
@@ -42,7 +42,7 @@ possibili svantaggi per la terapia medica antiaggregante per 1 anno
 
 assolutamente da fare la doppia terapia antiaggregante con PCI si sale a 3
 GP IIb/IIIa viene fatto intra procedura per lo stent
-va aggiunto un anticoagulante (enoxiparina, fondaparinux) 
+va aggiunto un anticoagulante (enoxiparina, fondaparinux)
 
 se non è disponibile una sala emodicamica immediatamente
 trombolisi e stabilizzazione
@@ -243,9 +243,9 @@ le macchine da anestesia sono color-coded universalmente
   + giallo = sevoflurano
 + flussimetri - pallina galleggiante per valutazione dei litri di ossigeno
   + ossigeno - freddo e secco, va umidificato e riscaldato (gorgogliatore)
-  + aria ambiente 
+  + aria ambiente
 
-##Monitoraggio in anestesia
+#####Monitoraggio in anestesia
 
 + routine o di base
   + ECG D2 per i non cardiopatici altrimenti D2 e V5 per i cardiopatici
@@ -255,23 +255,23 @@ le macchine da anestesia sono color-coded universalmente
 + specializzato
 + avanzato
 
-#Valutazione della profondità dell'anestesia
+######Valutazione della profondità dell'anestesia
 
 CF, BP, sudorazione, lacrimazione, movimenti oculari
 
 BIS - bispectral index, neuromonitoraggio dello stato di attività cerebrale rimanente 0-coma 100-svegli 50-anestesia
 
-#monitoraggio neuromuscolare 
+#####monitoraggio neuromuscolare
 
 elettrodi sulla tempia e sull'occhio per valutare la risposta alla curarizzazione
 
-#monitoraggio respiratorio 
+#####monitoraggio respiratorio
 
 + pulsossimetria, valutazione indiretta delle aritmie non condotte
 + spesso incorporato uno spirometro che valuta le curve respiratorie
 + completato da ET CO<sub>2</sub> (end tidal CO<sub>2</sub>) la curva può scomparire in embolia per mancanza di eliminazione di CO<sub>2</sub>
 
-#monitoraggio della pressione con sistema invasivo
+#####monitoraggio della pressione con sistema invasivo
 
 spesso viene utilizzata l'arteria radiale per farmaci a rapidissimo effetto d'azione o alta potenza
 
@@ -358,3 +358,126 @@ trattamento dell'ipertensione endocranica
 intervallo lucido - cono di pressione o cuneo o ernie cerebrali interne
 
 lobo temporale (uncus) → 3° nervo cranico → tronco encefalico
+
+Lezione 5 - Chirurgia - Addome Acuto
+----
+
+dolore = reazione a danno tissutale finalizzato a rendere il soggetto cosciente di un processo patologico
+
+Soglia del dolore aumenta con anestetici locali e centrali
+
+meccanismi chimici meccanici o entrambi i tipi
+
+dolore parietale - stimolo algogeno sulle terminazioni parietali → epicritico molto intenso inizialmente ben localizzato, contrattura della parete, iperalgesia ed ileo paralitico riflesso
+
+dolore viscerale puro - protopatico, scarsamente localizzato
+
+viscero-parietale - territorio muscolo-cutaneo, zona di Head (anche distante dalla sede dello stimolo), convergenza a livello midollare delle afferenze viscerali con i neuroni responsabili della sensibilità dolorosa superficiale
+
+peritonite con disturbi funzionali intestinali - difesa inizialmente localizzata nella zona di malattia poi diffusa a tutta la parete addominale, conseguenza di una eccitazione dovuta all'irritazione peritoneale sulle branche afferente somato-sensitiva e motoria dell'arco diastaltico
+
+addome acuto medico - patologie mediche che simulano l'addome chirurgico (ddx fatta con i sintomi e l'esame obbiettivo che presentano raramente ileo paralitico o reazione di difesa)
+
++ patologie extra-addominali
+  + polmonite
+  + pleurite
+  + infarto polmonare
+  + pericardite con versamento
+  + infarto miocardico
+  + aneurisma dissecante
++ alterazione del microcircolo addominale
+  + collagenopatie
+     + febbre reumatica
+     + lupus
+     + poliarterite nodosa
+     + porpora shoenlein-henoch
+  + malattie emopoietiche
+     + anemia drepanocitica
+     + emoglobinuria parossistica notturna
+     + coagulopatie
+     + leucemia acuta
+  + malattie da tossici
+     + metalli pesanti
+     + intossicazioni da funghi
+     + tossine staffilococciche
+     + botulismo
+     + anticoagulanti
+     + sospensine narcotici
+  + ereditarie
++ patologia internistica di orgnani addominali
+  + distensione acuta glissoniana (scompenso cardiaco, epatite acuta)
+  + enterocolite
+  + patologia renale
++ patologie sistema nervoso
+  + zooster
+  + artrite
+  + sifilide
+  + ernia discale
+  + tumori vertebrali
+  + meningiti
++ endocrinopatie
+  + chetoacidosi diabetica
+  + crisi addisoniana
+  + ipertiroidismo
+  + iperparatiroidismo
+
+sintomatologia associata
+
++ vomito
+  + riflesso
+  + da intossicazione
+  + ostruttivo
++ funzionalità intestinale
++ ciclo mestruale
++ febbre
+
+esame obbiettivo deve comprendere le solite robe (comprende esplorazione retto-vaginale)
+
+classificazione topografica chirurgica del dolore per restringere le possibili zone d'origine
+
+++ epigastrio
+   + gastroduodenite
+   + ulgera e perforazione gastroduodenale
+   + pancreatite acuta
+   + aneurisma dissecante aorta
++ ipocondrio dx
+  + patologia biliare
+     + colica
+     + colecistite
+     + colangite
+  + duodenite acuta ulcera e perforazione duodenale
+  + patologia epatica
+     + ascesso (o cisti da echinococco)
+     + distensione acuta glissoniana
+     + rottura traumatica
+  + ascesso subfrenico o sottoepatico (anche intraepatico)
+  + patologia grosso intestino
+     + necrosi o perforazione di neoplasia della flessura epatica
+     + appendicolite sottoepatica
+  + perforazione del diaframma (associata ad ascesso polmonare)
++ mesogastrio
+  + infarto intestinale
+  + aneurisma aortico in rottura
+  + endometriosi ombelicale
++ ipogastrio
+  + patologia urologica
+     + ritensione acuta urina
+     + cistite
+     + neoplasie vescicali
+     + prostatite
+  + pelviperitonite
+  + appendicite ed annessite
+  + colica uterina
++ fianco e fossa iliaca dx
+  + appendicite acuta
+  + diverticolo Meckel
+  + ileite acuta
+  + riacutizzazione Crohn
+  + necrosi o perforazione neoplasia ileocecale
+  + patologia ginecologica
+     + salpingite acuta
+     + torsione cisti ovarica
+     + gravidanza tubarica
+  + patologia urologica
+     + calcolosi ureterale
+     + necrosi neoplasie renali
