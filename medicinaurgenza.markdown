@@ -359,6 +359,85 @@ intervallo lucido - cono di pressione o cuneo o ernie cerebrali interne
 
 lobo temporale (uncus) → 3° nervo cranico → tronco encefalico
 
+Lezione 4 - Volterrani - Trauma
+----
+
+nuovi criteri per trauma maggiore, New Injury Severity Score > 15 (NISS), i punteggi sono dati in base alla gravità delle lesioni
+nelle differenti parti del corpo
+
+indicatori obbiettivabili di trauma ad alta energia
+
+codice rosso vs codice giallo - cambia l'avvertimento per i chirurghi ma spesso muoiono più codici gialli che rossi
+
+contenimento delle fratture del bacino per rischio di sanguinamento (grado 1B)
+
+ecofast - bassa sensibilità → quasi sempre TC di routine
+
+la TC di routine va fatta in fase unica arteriosa con gradiente A/V di 150 HU, se necessario con MDC o fase tardica
+se è presente sanguinamento va sempre fatta una fase venosa tardiva
+
+traumi isolati | traumi complessi
+--- | ---
+bassa energia | alta energia
+RX / tomosintesi | TCMS
+
+####Traumi del massiccio facciale
+
+le zone interessate sono spesso una combinazione di ZHC / NOE / Frontale e Mandibolare
+
+per le fratture di mandibola bisogna stare attenti alla ricomposizione delle fratture che comprendono
+l'articolazione temporo-mandibolare
+
+####Trauma Toracico
+
+emorragia vs contusione - cambia il meccanismo traumatico in base a quale struttura ha assorbito la forza dell'impatto
+
+flail chest
+
+interpretazione dei linfonodi spesso utile anche nel trauma??
+
+normalmente non vanno drenate le emorragie di una cavità chiusa (cambiamento di pressione e impossibilità di formazione del coagulo)
+
+lacerazione polmonare → trattamento conservativo (risoluzione spontanea)
+
+traumi vascolari → quasi sempre dell'aorta, quasi sempre nell'istmo (legamento - punto di fissità), il 70% muoiono sul colpo
+
+####Traumi Addominali
+
+15% muore in ospedale
+
+milza vs bacino - la priorità va al bacino per rischio di emorragia letale (embolizzazione angiografica)
+
+rotture intestinali → stomaco (molto gravi e spesso mortali)
+
+per fegato e milza ci sono gradazioni da 1 a 5 e differenziazione tra ematoma e lacerazione (mancanza di emorragia attiva),
+viene usato l'AAST injury scale
+
+(in america occlusione intestinale) <!--- no idea perchè ce l'ho messo -->
+
+aumento della prevalenza del trattamento conservativo di milza
+
+dato importante nel sanguinamento splenico è sotto / sopracapsulare o infrasplenico
+
++ addome non stabile → E-FAST → intervento e stabilizzazione
++ trauma toraco-addominale non stabile → stabilizzazione → TC
++ trauma toracico → bassa energia → RX
++ trauma toracico → alta energia → TC
++ stato soporoso → TC Total Body
+
+####Trauma UT
+
+intra o extraperitoneale
+
+spesso non viene trattato, si tratta in caso di rottura del parenchima con emorragia
+
+straddle injury → trauma diretto perineale (zona membranosa)
+
+trauma iatrogeno
+
+globo vescicale → va sempre controllato lo stato dell'uretra e non solo della vescica in quanto spesso associato
+a trauma ureterale
+
 Lezione 5 - Chirurgia - Addome Acuto
 ----
 
