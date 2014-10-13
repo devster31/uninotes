@@ -115,3 +115,50 @@ terapia
   + prostaciclina
 
 iloprost + bosentan molto efficaci nei problemi di ischemia distale
+
+Lezione x - argomento tromboembolismo venoso
+----
+
+anticoagulanti - eparina, lmwh, vs, fondaparinux, warfarin
+
+antiaggreganti - inhibitors Cox 1
+
+inibitori recettoriali Adp tido clopi IIb IIIa
+
+trombolitici - streptochinasi / urochinasi / rt-PA
+
+fibrinolitici - defibrotide mesoglicano
+
+nuovi anticolagulanti
+
+orali
+
+dabigatran - antitrombinico
+
+rivaroxaban apixaban e altri bloccano fattore Xa
+
+usati nell'ictus cardioembolico per fibrillazione atriale (prevenzione)
+
+trattamento e prevenzione del tromboembolismo venoso
+
+non hanno la necessità di monitoraggio dell'INR
+
+#####Profilassi e terapia
+
+score di Wells per TVP
+
+valutazione conclusiva
+
++ alta
++ media
++ bassa probabilità
+
+non esiste più l'emofilia C, deficit di fattore XI
+
+filtri cavali temporanei o fissi - ci sono situazioni in cui si possono impiegare
+
+utilizzabili in gravidanza, eccetto warfarin (teratogeno nel primo trimestre), non ci sono dati per i nuovi
+
+eparina non frazionata endovenosa da usare sempre meno nel futuro
+
+evidenza di grado a per LMWH
