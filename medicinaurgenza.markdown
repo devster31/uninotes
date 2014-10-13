@@ -562,3 +562,47 @@ classificazione topografica chirurgica del dolore per restringere le possibili z
      + necrosi neoplasie renali
 
 video e presentazione (link missing)
+
+Lezione 6 - Carli - Concetti generali sul trauma e le ferite
+----
+
+####Trauma Cranioencefalico
+
+meccanismi che producono un T.C.
+
++ accelerazione
++ decelerazione
++ contraccolpo
++ missile (oggetti ad alta velocità e ridotta sezione con grande capacità penetranti
+
+stocazzo de glasgow di nuovo
+
+ESA-t - emorragia sub-aracnoidea (t ignoto) <!--- chiunque lo sappia aggiunga --> vs ematomi vs petecchie
+
+contusione cerebrale o danno assonale diffuso sul parenchima cerebrale
+
++ linear non displaced
++ depressed
++
++
+
+fratture chiuse o esposte
+
++ emorragia extradurale o epidurale - lente biconvessa, raccolta ematica da vasi arteriosi meningei, espansiva
++ emorragia sottodurale o sub durale - vene spesso, in generale vene a ponte
++ emorragia subaracnoidea
++ emorragia intraparenchimale
+
+compressione III nervo cranico → erniazione cerebrale (la pupilla dilatata è un segno chiaro di sofferenza neurologica)
+
+costante di Monroe-Kelly
+
+PIC = pressione intracranica - < 15 mmHg
+
+####Traumi vertebro-midollari
+
+fratture esplosive delle vertebre
+
+frattura dell'epistrofeo può causare sequele molto noiose
+
+sequele dei traumatizzati - anticomiziali e antiepilettici ad un anno di distanza dal trauma, rischio limitato nel tempo
