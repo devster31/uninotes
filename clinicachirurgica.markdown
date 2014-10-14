@@ -139,3 +139,70 @@ PPI
 H<sub>2</sub>-RA
 
 domperidone - effetto contrario, procinetico, DA-antagonist periferico
+
+intervento in generale non deve essere demolitivo ma funzionale per modificare l'alterata fisiologia dell'organo
+
++ Fundoplicatio sec. Nissen - sezione dei vasi brevi e l'esofago viene compreso nel punto di plastica
++ Fundoplicatio sec. Rossetti - non vengono sezionati i vasi brevi, l'esofago non è compreso nei punti della plastica;
+si ha la presenza di un punto gastro-gastrico per evitare il fenomeno di telescopage
++ plastica antireflusso su sonda calibrande endoesofagea da 50 French serve per evitare accumulo di aria nello stomaco,
+la protesi aiuta a mantenere la dimensione dello stomaco senza aver paura che il laccio stenotizzi lo stomaco
++ emifundoplicatio anteriore sec. Dor - fundoplicatio a 180 gradi, lo stomaco viene attaccato sul margine dx dell'esofago e suturato
++ emifundoplicatio posteriore sec. Toupe
++ Iatoplastica posteriore - protesi che viene fissata con agraffe ai pliastri, alla crus e al diaframma; sagomata ad U,
+rinforzo dei pilastri diaframmatici di grosse ernie iatali o di pilastri flaccidi
+
+trattamento per ipertonia sfintere esofageo inferiore
+
++ cardiotomia sec. Heller - miotomia lunga o corta
++ dilatazione forzata con palloncino - lesione dei muscoli
+
+spesso questi interventi sono associati a un tipo di fundoplicatio
+
+#####Diverticoli
+
++ Zenker
++ epifrenici
++ iuxtabronchiali
+
+trattamento diverticulectomia con suturatrice meccanica
+
+Tumori dell'esofago
+----
+
+Neoplasie Benigne
+
++ leiomioma
++ tumori neurogeni
++ polipo
+  + adenoma
+  + fibroma
+  + lipoma
++ papilloma simile al polipo ma con asse stromale e villosità
+
+Neoplasie Maligne
+
++ forme epiteliali
+  + carcinoma squamocellulare
+  + adenocarcinoma
++ forme stromali
+  + sarcomi
+
+cancerogeni tipici (fumo, alcol, caustici, dieta → squamocellulare
+
+malattia da reflussso → barrett → adenocarcinoma
+
+↓ incidenza squamocellulare accompagnata da ↑ adenocarcinoma
+
+Precancerosi
+
++ tylosis
++ leucoplachia
++ plummer-vinson - donne post menopausa con anemia glossite e disfagia
++ esofago barrett - da identificare fin dalla metaplasia prima della comprarsa di displasia
+
+Diagnosi
+
++ rx esofago con bario
++ esofagoscopia con biopsia
++ TC (stadiazione)
