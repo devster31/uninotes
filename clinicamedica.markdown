@@ -162,3 +162,100 @@ utilizzabili in gravidanza, eccetto warfarin (teratogeno nel primo trimestre), n
 eparina non frazionata endovenosa da usare sempre meno nel futuro
 
 evidenza di grado a per LMWH
+
+score di Padova, accettato da ACCP nelle linee guida per paziente non chirurgico
+
+trombofilia nota viene considerata - difetti AT, Proteina C o S, FV Leiden, variante protrombinica 20210, LAC/APA
+
+in paziente TVP (anche distale o delle gemellari) va sempre trattato, anche solo con terapia eparinica iniziale (sempre LMWH)
+
+in casi non profilattici non si adatta il dosaggio in base al peso, si adattano per <50 o >100 Kg nella profilassi
+
+terapia di durata 3-6 mesi e dopo i 6 mesi senza nessuna ripresa dei sintomi si più passare
+all'anticoagulazione orale soprattutto nei pazienti neoplastici
+
+range INR da 2 a 3, mantenuto con anticoagulanti orali dopo 2-3 giorni di stabilità con eparina non frazionata;
+vantaggio di LMWH già in seconda giornata si piò assciare warfarin e sospendere LMWH dopo 2 giorni consecutivi
+di INR nel range terapeutico
+
+nella sindrome da anticorpi antifosfolipidi leggermente più alti, 2.5-3.5
+
+nelle protesi valvolari metalliche circa 4
+
++ basso rischio - fattore rimovibile - 3 mesi
++ medio rischio - fattore rimovibile - 3-6 mesi (?)
++ alto rischio - 1 anno fino a tempo indeterminato
++ trombofilia - 1 anno fino a tempo indeterminato
+
+si sta valutando la possibilità di inserire una valutazione della trombosi residua prima della sospensione della terapia,
+soprattutto nel TEV idiopatico con un controllo CUS (sonda ultrasonica a compressione); la determinazione
+del D dimero dopo 1 mese dalla sospensioen della terapia potrebbe avere valore predittivo del rischio di recidiva
+e quindi indurre a prolungare la terapia - tutto non ancora confermato
+
+#####embolia polmonare
+
+stabile (come TEV)
+
+instabile - si usa rt-PA da infondere in 120 minuti in rapporto al peso dopo un bolo di 10 mg
+
+filtri cavali per controindicazione assoluta ad anticoagulazione
+
+trombolisi in casi selezionati estensione cavale, soprattutto gangrena venosa
+
+elastocompressione indicazione ubiquitaria per la prevenzione di sindrome post-flebicitca, controindicazione
+a terapia farmacologica, in genere il gambaletto non serve a molto
+
+effetti collaterali (sanguinamento)
+
++ eparina - dopo max 7 gg di trattamento può comparire una HIT piastrinopenia da eparina con sindrome trombotica ingravescente,
+difficile trattamento, alta mortalità in fase acuta, l'incidenza diminuisce con LMWH ed è quasi nulla con fondaparinux (Vs);
+assomiglia ad una CID da eparina, sindrome simile a quella da consumo
++ warfarin - necrosi cutanea, alopecia
++ antiaggreganti - peggior profilo di tollerabilità di ticlopidina (pancitopenia, colestasi, porpora trombotica trombocitopenica)
+
+[TTP or Moschcowitz syndrome](http://en.wikipedia.org/wiki/Thrombotic_thrombocytopenic_purpura) e promielocitica sono le due uniche emergenze ematologiche
+
+#####come gestire i sanguinamenti
+
++ eparina - solfato di protamina soprattutto non frazionata (critica ai nuovi anticoagulanti orali che non hanno antidoti)
++ INR > 4,5 senza emorragie - sospensione o riduzione di TAO e vitamina K in bassissime dosi per OS
++ INR > 4,5 con emorragie minori - ricerca di cause locali come priorità poi sospensione di TAO e bassissimi dosaggi vit. K
++ emorragie maggiori - sospensione TAO, concentrato protrombinico (o plasma fresco congelato, o concentrato di FVII) e vit. K in dosi maggiori
++ nuovi anticoagulanti orali - poca evidence ma rarissime le complicanze, sare concentrato protrombinico o plasma fresco congelato
+
+#####trattamento della trombocitopenia da eparina
+
+continuare con solo anticoagulanti orali se è già stato raggiunto il range terapeurico, in caso contrario rimandere l'inizio della terapia
+
++ irudina
++ danaparoid
++ dermatansolfato
++ fondaparinux (confermato 2011) a 2,5 mg dose non confermata
+
+posizionre filtro cavale (?)
+
+#####controindicazioni alla terapia
+
++ assolute
+  + grave episodio emorragico in atto
+  + recente intervento neurochirurgico maggiore e/o recente emorragia a carico del sistema nervoso centrale
+  + grave diatesi emorragica congenita o acquisita (piastrinopenia < 50.000/mmc)
++ relative
+  + ipertensione arteriosa di grado elevato resistente alla terapia
+  + trauma cranico recente
+  + endocardite batterica
+  + recenti episodi di sanguinamento GI
+  + retinopatia proliferativa diabetica
+  + piastrinopenia con conta < 70.000/mmc
+
+lista infinita per gli anticoagulanti orali
+
+malattia di von Willebrand, molto comune nella popolazione
+
+tips
+
++ LMWH più tollerabile di ENF e.v. o s.c.
++ LMWH con cautela con creatinina > 2 mg/dl
++ fondaparinux leggermente aumentato come rischio sanguinamento intraoperatorio
++ in pazienti dializzati scompaiono le controindicazioni
++ LMWH in pazienti oncologici più a lungo possibile
