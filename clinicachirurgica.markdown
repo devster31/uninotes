@@ -196,7 +196,7 @@ malattia da reflussso → barrett → adenocarcinoma
 
 Precancerosi
 
-+ tylosis
++ tylosis  o [Howel-Evans Syndrome](http://en.wikipedia.org/wiki/Howel%E2%80%93Evans_syndrome)
 + leucoplachia
 + plummer-vinson - donne post menopausa con anemia glossite e disfagia
 + esofago barrett - da identificare fin dalla metaplasia prima della comprarsa di displasia
