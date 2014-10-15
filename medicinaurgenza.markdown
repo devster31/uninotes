@@ -606,3 +606,75 @@ fratture esplosive delle vertebre
 frattura dell'epistrofeo può causare sequele molto noiose
 
 sequele dei traumatizzati - anticomiziali e antiepilettici ad un anno di distanza dal trauma, rischio limitato nel tempo
+
+####Traumi del Torace
+
+25% dei decessi per trauma per cause toraciche - soprattutto ARDS
+
++ accelerazione-decelerazione
++ compressione, più frequente
++ taglienti o arma da fuoco
+
+criteri di impatto violento
+
++ caduta da 6 metri o più
++ velocità di 30 km/h o più - passeggero o investito
++ deformazione del veicolo di 20 cm o più
++ eiezione passeggero o impatto con ciclista o moto
++ arrotamento
++ morte passeggero
+
+i criteri sono cambiati in quanto i nuovi materiali sono più deformabili ma anche più assorbenti e come tale meno
+pericolosi, soprattutto la deformazione è molto meno efficace come criterio
+
+mortalità globale circa 10% - le cause
+
++ lesioni scheletriche
++ lembo mobile
++ pneumo/emotorace
++ contusione polmonare
++ contusione cardiaca
++ lesione diaframma
++ rottura cuore/vasi
++ rottura trachea/bronchi
++ rottura esofago
+
++ morte immediata - lesioni cuore e/o grossi vasi
++ morte precoce (3 ore) - instabilità cardiorespiratoria, ostruzione vie aeree, pnx iperteso, tamponamento cardiaco
++ morte tardiva - ARDS o infezioni da patogeni multiresistenti
+
+altissima percentuale di lesioni associate soprattutto scheletriche ma anche cranio-encefalico;
+meno frequenti le lesioni addominali, nella stragrande maggioranza dei casi di Fegato e/o milza seguite da reni e vie urinarie
+
+condizioni patologiche più frequenti nel trauma toracico
+
++ insufficienza respiratoria
++ shock ipovolemico
++ pnx iperteso o aperto
++ tamponamento cardiaco
+
+richiedono provvedimenti immediati di rianimazione cardiopolmonare
+
++ embolia gassosa
++ ferita penetrante nel cuore con arresto cardiaco
+
+richiedono un trattamento chirurgico immediato
+
++ fratture costali multiple (respiro paradosso)
++ pneumotorace (enfisema sottocutaneo o mediastinico
++ emotorace
++ rottura del diaframma
++ rottura dei grossi vasi
++ contusione cardiaca o polmonare
+
+#####Fisiopatologia
+
++ sindrome restrittiva - occupazione del cavo pleurico con aria sangue o entrambi, in rari casi occupatoda visceri addominali
++
++
++ pneumotorace
+
+dolore esacerbato con atti respiratori in caso di frattura costale ovviamente (dura 5-7 gg) sovrapponibile alla contusione senza frattura;
+per attutire dolore serve un supporto rigido e non elastico, per limitare il range dei movimenti
+
+traumatopnea, respiro superficiale per il dolore, l'analgesia risolve almeno in parte il problema
