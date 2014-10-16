@@ -259,3 +259,66 @@ tips
 + fondaparinux leggermente aumentato come rischio sanguinamento intraoperatorio
 + in pazienti dializzati scompaiono le controindicazioni
 + LMWH in pazienti oncologici più a lungo possibile
+
+Caso Clinico - caucasica 24 anni modella
+----
+
+dispnea ingravescente da 1h con dolore toracico anteriore, cardiopalmo e agitazione (ingresso in PS)
+
+familiare positiva per neoplasie pancreatiche, lasix 25mg 1cp al bisogno (riduzione ritenzione idrica) e benzodiazepine nei periodi di stress
+
+non fumatrice, BMI 19 circonferenza vita 56cm
+
+non cianosi 100/60 mmHg, 114 polso, 86% saturazione, F.R. 21/min
+
+broncostenosi apicale con riduzione globale nei restanti campi, cardiaca apparentemente con pause libere, altre obbiettività normali
+
+le aritmie più gravi non hanno il paziente vigile, fibrillazioni ventricolari, torsade e altre
+
+durante ECG ed emogas va in arresto con fibrillazione ventricolare, ACLS con successo alla prima defibrillazione e va
+in firbillazione atriale con risposta ventricolare a 124 battiti al minuti, stessi parametri dopo la rianimazione
+
+blocco branca dx dopo ECG (post-rianimazione), frequente in embolia polmonare (S1, Q3, T3 - prominenza dell’onda S
+nella derivazione I, dell’onda Q nella derivazione III e inversione dell’onda T nella derivazione III), inversione dell’onda T
+nelle derivazioni precordiali da V1 a V4, emogas (post-rianimazione) con pH 7.39, pO<sub>2</sub> a 71%, PCO<sub>2</sub>
+a 34%, non metabolico, con 12 L O<sub>2</sub>
+
+il sospetto principale è embolia polmonare, come esami ematochimici si fa D-Dimero con prelievo all'accesso, troponina,
+ecocuore (solo se non ci sono segni chiari di infarto, come sopralivellamento ST o onda T negativa isolata in V2 e V3),
+rx torace, alterazioni ombra cardiaca e altre diagnosi alternative, emocromo, eco vasi arti inferiori, angioTC o angiografia polmonare
+sono i gold standard per l'embolia polmonare, l'esame attualmente utilizzato è l'HRTC, senza MdC in prima battuta
+
+prima distinzione dell'embolia polmonare è se la paziente è stabile o instabile
+
+va ricercata subito la TVP, o idiopatica delle iliache profonde, o di altra causa
+
+terapia - trombolisi immediata, con rt-PA, e si segue con LMWH o eparina endovenosa per qualche giorno (controllo emocromo
+per la piastrinopenia)
+
+da ecodoppler viene fuori una trombosi dell'asse iliaco e delle vene gemellari (classificazione dubbia tra superficiale e profondo,
+basso rischio embolizzazione??), senza estensione femorale e non provocata
+
+in followup valutazione dell'assetto coagulativo e valutazione di malattia autoimmune, possibile causa neoplastica, ma secondaria in base all'età,
+PT, PTT, fibrinogeno, iperfibrinogenemia (da valutare, garba all'Auteri), test resistenza alla Proteina C attivata (APCR) (screening per FV Leiden),
+mutazione Protrombina, le mutazioni ci interessano principalmente in omozigosi. omocisteina (contano solo livelli di omocisteina),
+anticorpi ANA, antifosfolipidi e anti ENA e anticardiolipina, rischio collegato con policistosi ovarica, valutazione anemia, eco addome
+
+per omo e eterozigoti ugualmente si deve individuare la presenza di questi fattori di rischio
+
+da distinguere sempre trombosi venosa o arteriosa, tanti dei fattori sopraelencati sono per trombosi venosa
+
+omocistinuria - rischio trombotico infantile DDx con omocisteina nell'adulto
+
+diagnosi alternativa
+
++ pericardite, ma avremmo avuto obbiettività cardiaca rilevante
++ miocardite
++ endocardite, poco probabile per la febbre bassa e assenza soffi
++ ipertiroidismo, con aritmia importante (TSH)
++ abuso farmaci
++ psicologica o psichiatrica, simulazione
+
+risultati
+
+sindrome da anticorpi antifosfolipidi primitiva - va mantenuta l'anticoagulazione e va programmata la gravidanza per il kumadin,
+in caso di gravidanza va fatta eparina + aspirina, per il basso rischio arterioso
