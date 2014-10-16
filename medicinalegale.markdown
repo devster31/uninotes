@@ -90,7 +90,7 @@ Reati contro la persona:
 + Perdita dellla capacità di proceare - lesione personali gravissime
 + Perdita o indebolimento gravissimo della favella
 
-1. perseguibilità ad ufficio - per lesione dolosa 
+1. perseguibilità ad ufficio - per lesione dolosa
   + lievi - a meno che la malattia non termini entro 20 giorni
   + per le gravi e gravissime sempre
 2. perseguibilità a querela di parte - per lesione colposa (a partire dagli anni 80)
@@ -238,3 +238,41 @@ colpa grave in ambito civilistico esiste ma solo se imperito (definizione imperi
 la colpa grave viene accertata dalla corte dei conti
 
 assicurazione obbligatoria per legge
+
+Lezione 5 - Responsabilità continua
+----
+
+tutte queste certezze sono in crisi dalla Legge Balduzzi anno 2013 - quella della colpa grave
+
+risponde comunque ai sensi dell'art. 2043 dell'articolo civile - solo sotto responsabilità extracontrattuale e non contrattuale art. 1128
+
+più favorevole per la parte lesa è la responsabilità contrattuale
+
+in ambito sanitario ci si rifà alle tabelle di valutazione del danno biologico esistenti indicativamente per circolazione stradale
+
+rivalsa nelle assicurazioni - intossicazione acuta da alcol
+
+risposta per atti che possono o non possono derivare da un reato
+
+illecito amministrativo previsto dal contratto di lavoro
+
+dirigenti primo e secondo livello hanno un obbligo contrattuale speciale
+
+ordine di servizio - sanzione amministrativa prevista per i medici ad ogni livello, compresi dirigenti
+
++ ammonizione
++ censura scritta o orale
++ sospensione dello stipendio
++ licenziamento
+
+responsabilità erariale - tasse, possibile danno erariale, comportano una spesa diretta per l'ospedale o un danno d'immagine
+
+risarcimento per apertura sala operatoria, garze e altro per un caso di garze in addome, in attesa di determinare la colpa grave
+
+in caso di repsonsabilità di qualcuno c'è la possibilità di rivalsa (da parte dell'assicurazione o del danneggiato)
+
+ospedale su agente causa del danno o assicurazione su assicurato (corte dei conti decide sulla possibilità di rivalsa)
+
+la complicazione più grossa è la colpa grave
+
+sanzioni per responsabilità di amministrativa
