@@ -322,3 +322,37 @@ risultati
 
 sindrome da anticorpi antifosfolipidi primitiva - va mantenuta l'anticoagulazione e va programmata la gravidanza per il kumadin,
 in caso di gravidanza va fatta eparina + aspirina, per il basso rischio arterioso
+
+numero lezione ignoto, continua il vecchio decrepito vestito come Alfred di Batman con gli occhialoni scuri da donna
+----
+
+strategia terapeutica per neutropenico o non → antibioticoterapia empirica vs accertamenti microbiologici mirati e
+antibioticoterapia selezionata e terapia antiepiretica o altro
+
+paracetamolo o metamizolo → indometacina → cortisonici → possibile ipertermia maligna
+
+epatotossicità del paracetamolo o sconsigliato in certe virosi (varicella)
+
+antibioticoterapia per cocchi e bacilli gram-positivi e gram-negativi, riferimento a Goodman e Gilman per la scelta del giusto chemioterapico
+
+caso clinico
+----
+
+febbre cefalea pulsante sudorazione notturna da circa 2 mesi, odore di stalla (caratteristica), sintomatologia controllata da terapia steroidea orale
+
+diverticolosi intestinale con accesso recente in PS per colica addominale, ipertrofia prostatica benigna
+
+nient'altro di rilevante in anamnesi
+
+tutto nella norma, fegato ok, rene ok, diverticolosi ok, capillaroscopia aspecifica, dosaggi marker negativi escluso PSA
+visita urologica + eco transrettale e biopsia prostatica confermano IPB, aumento catene leggere lambda, neutrofilia aspecifica
+
+biopsia osteomidollare per patologia ematologica sospetta o aspirato midollare
+
+beta2-microglobulina in mieloma e qualche linfoma, aumenta nell'insufficienza renale
+
+il rapporto tra catene leggere kappa/lambda sono un indice accuratissimo per mieloma o gammopatia monoclonale
+
+neutrofili segmentati, epo aumentata, mielodisplasia sospetta
+
+diagnosi di mieloma multiplo in stadio IIA
