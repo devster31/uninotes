@@ -206,3 +206,106 @@ Diagnosi
 + rx esofago con bario
 + esofagoscopia con biopsia
 + TC (stadiazione)
+
+Continua Chirurgia Esofagea
+----
+
+Tumori e Chirurgia dello Stomaco
+----
+
+#####Interventi Minori
+
++ Diverticulectomia
++ Gastrotomia
+  + ricerca corpi estranei
+  + asportazione di piccole lesioni tumorali
+  + esplorazione della cavità gastrica
+  + test di chimismo intraoperatorio
++ Gastrostomia
+  + alimentare
+  + di scarico
++ Gastropessia
++ Resezioni Atipiche
+  + resezione a cuneo - asportazione su un solo versante dello stomaco, una sola delle 2 curve
++ Pilorotomia - Piloroplastica
+  + stenosi ipertrofica congenita - piloromiotomia, solo per rimuovere parte del muscolo, con ricostruzione
+trasversale dopo taglio longitudinale
+  + drenaggio vagotomico - completa gli interventi di vagotomia
++ Gastro-Entero Stomia (o anastomosi) - stenosi non altrimenti risolvibili tipo tumore inoperabile
+  + trattamento palliativo
+  + trattamento complementare
++ Duodenotomia - dai 2 cm dallo stomaco, quindi prevalentemente nel bulbo
+
+#####Ulcera Peptica
+
+soluzione di continuo senza tendenza alla guarigione di area circoscrita dello stomaco o della prima porzione
+duodenale causata dalla digestione peptica, le localizzazioni sono duodenali e gastriche principalmente ma possono
+anche essere esofagee, come complicanza su esofago di Barrett, altre 2 possibilità più rare sono le localizzazioni diverticolari
+e ulcere su resezioni insufficienti o anastomosi
+
+concetto di resezione gastrica adeguata
+
+differenza di ghiandole gastriche tra fondo e antro - patogenesi endocrina della secrezione gastrica (vedi Farmaco)
+
+classificazione Johnson delle ulcere gastriche
+
++ tipo I - iposecrezione
++ tipo II-III - ipersecrezione
++ tipo IV - iposecrezione
+
+nelle ulcere duodenali ipersecrezione sempre
+
+Sindrome di Zollinger-Ellison
+
++ malattia ulcerosa
++ ipergastrinemia
++ gastrinoma - cellule α<sub>1</sub> pancreatiche
+
+Ulcera
+
++ complicata
+  + emorragia
+  + perforazione
+  + penetrante - senza andare in cavità libera ma incontrando un organo parenchimatoso
+  + stenosi
+  + cancerizzazione ??
++ non complicata
+
+#####Terapia (1974-1976)
+
++ antiacidi
++ protettori della mucosa
+
+effetto benefuco sull'ulcera ma inefficace sulla malattia ulcerosa
+
++ inibitori della secrezione acida
++ antibiotico terapia
+
+terapia chirurgica → nei casi di terapia medica efficace e nei casi di ulcera complicata
+
+terapia medica
+
++ antiacidi
+  + diretti - bicarbonato di sodio, idrossido di alluminio e magnesio
+  + anticolinergici - muscarinici (atropina, pirenzepina)
+  + H<sub>2</sub>-antagonisti (cimetidina o ranitidina)
+  + inibitori di pompa protonica (omeprazolo)
++ protettori della mucosa (carbenoxolone, sali colloidali di bismuto, prostaglandine)
++ antibiotici (claritromicina + amoxicillina o metronidazolo)
+
+terapia medica come primo presidio di lunga durata(3-6 mesi) e controllo endoscopico di conferma
+
+terapia chirurgica
+
++ eliminazione delle zone deputate alla secrezione acida
++ interruzione delle afferenze nervose alla mucosa gastrica
+
+resezione gastrica Billroth
+
+#####Diagnosi
+
+RX TD con gastrografin - segni diretti con plus radiografico, segni indiretti on fenomeni discinetici
+
+ricerca del sangue occulto fecale
+
+ricerca dell'HP, con test rapido e anticorpi nel sangue
