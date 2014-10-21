@@ -356,3 +356,30 @@ il rapporto tra catene leggere kappa/lambda sono un indice accuratissimo per mie
 neutrofili segmentati, epo aumentata, mielodisplasia sospetta
 
 diagnosi di mieloma multiplo in stadio IIA
+
+considerazioni aggiuntive:
+
+probabilmente era da fare una immunofissazione molto prima, soprattutto in uomo di 74 anni, mentre uno dei primi esami
+era stato l'autoanticorpalità, che poteva anche essere stato falsato da terapia cortisonica; nelle linee guida veniva utilizzata
+scintigrafia con leucociti marcati, oggi sostituita dalla PET; la febbre non è un segno comune di insorgenza nel mieloma
+multiplo, e spesso non c'è nemmeno nella malattia definita
+
+esempio di oggi: gammopatia policlonale con fibrosi polmonare (sospetto da saldatore); il sospetto dovrebbe essere di malattia autoimmune
+
+Concetti base della Terapia Antibiotica
+----
+
+antibiotici vs chemioterapici antibatterici
+
+tempo-dipendente o concentrazione-dipendente e batteriostatico vs battericida
+
++ appropriato prelievo batteriologico
++ analisi critica del campione
++ correlazione plausibile tra clinica e germe
+
+per la terapia empirica, norme generali
+
++ sede
++ dati epidemiologici
++ esperienza personale
++ conoscenza paziente
