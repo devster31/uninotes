@@ -678,3 +678,100 @@ dolore esacerbato con atti respiratori in caso di frattura costale ovviamente (d
 per attutire dolore serve un supporto rigido e non elastico, per limitare il range dei movimenti
 
 traumatopnea, respiro superficiale per il dolore, l'analgesia risolve almeno in parte il problema
+
+Lezione 7 - Politraumatizzato e Ferite di arma da fuoco
+----
+
+politrauma determina uno o più focolai di frattura in associazione ad una lesione che interessa addome cranio o torace
+
++ incidente stradale
++ incidenti sul lavoro
++ ambiente domestico
++ attività sportiva
+
+trauma è una grossa causa di morte negli under-40
+
+2/3 dei decessi avvengono in fase iniziale e possono essere ridotti con una buona organizzazione della medicina d'emergenza
+
+3 fasi di mortalità:
+
++ primo picco entro minuti o secondi dal trauma, per lesioni gravissime di encefalo, midollo alto, cuore e vasi
++ secondo picco, entro le prime 2 ore per ematomi intracranici, emo-pneumotorace, emoperitoneo da lesione di
+organi parenchimatosi o vasi, fratture multipla con emorragia
++ terzo picco, a distanza di giorni per sepsi o MOF
+
+la frequenza di morte è decrescente per i 3 picchi
+
+#####Priorità terapeutiche
+
+1. extraospedaliero o PS → stabilizzazione funzioni vitali, inquadramento diagnostico
+2. completamendo diagnosi e chirurgia d'urgenza, Damage Control Surgery
+3. terapia intensiva, chirurgia d'elezione, riabilitazione
+
+Funzione Cardiocircolatoria
+
++ HR - frequenza cardiaca
++ SAP - pressione sistolica
++ DIFF - pressione differenziale
++ RR - frequenza respiratoria
++ alterazione stato mentale
+
+Shock Cardiogeno Post-Traumatico
+
++ PNX Iperteso - assenza unilaterale di ventilazione, ipotensione, cianosi, turgore giugulari → drenaggio unidirezionale
++ PNX Aperto - ferita soffiante → chiudere
++ Tamponamento cardiaco - shock, tensione delle giugulari, non segni auscultatori di PNX → liquidi rapidi
+(si cerca di forzare l'ostacolo al riempimento); altrimenti pericardiocentesi
+
+Decompressione di PNX iperteso
+
+ago di grosso calibro nel secondo spazio intercostale seguendo la tecnica della puntura esplorativa
+
+i PNX impiegano molto tempo a riassorbirsi, spesso non vengono drenati
+
+per lo shock ipovolemico le linee guida dicono di non fare un accesso venoso centrale sul territorio,
+vanno invece prese 1 o 2 vie venose periferiche con aghi-cannula 14-16G
+
+torniquet e lacci emostatici possono provocare danni nervosi ai tronchi degli arti se troppo stretti per troppo tempo
+
+Revised Trauma Score - RTS (Champion)
+
+revisione includendo frequenza respiratoria, pressione sistolica e Glasgow Coma Scale con un punteggio fino 12
+
+Ricerca di Foci Occulti di Emorragia
+
+l'instabilità emodinamica deve far ricercare foci emorragici, secondo ordine preciso
+
+1. torace → rx standard → TC torace
+2. addome → ECT → TC addome
+3. pelvi → TC pelvi
+4. retroperitoneo → TC addome RTP
+5. arti → ECT-TC-Angiografia
+
+ex. frattura di femore con perdita di 1,5 lt di sangue per trauma osteomuscolare
+
+approccio terapeutico
+
++ emotorace > 300 ml/hr → toracotomia
++ emoperitoneo → valutazione clinico-strumentale
++ emoretroperitoneo → arteriografia
+
+particolarmente problematici sono i traumi del bacino, che possono essere irrisolvibili e massivi, possono includere
+lesioni della vescica, fino all'esplosione della vescica
+
+valutazione delle emorragie dalla quantità di sangue nel Douglas - la dinamica dei movimenti peritoneali muove
+i liquidi in addome e il cavo ne raccoglie spesso la maggioranza
+
+#####Ricerca di Lesioni Viscerali
+
+seguono sempre lesioni espansive endocraniche e emorragie
+
++ Trauma Toracico → rottura esofago, rottura diaframma, lacerazione polmonare, ampia ferita pleurica → toracotomia
++ Trauma Addominale → aria libera, liquido libero (ECT, sondaggio) → Laparotomia
+
+spazio di Morrison, recesso dove si deposita tipicamente il liquido
+
+lacerazione del pancreas spesso dovuta al contraccolpo sulla colonna vertebrale, il trauma generalmente è epigastrico
+
+Lezione 8 - Ustioni - lezione futura
+----
