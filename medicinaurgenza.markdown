@@ -679,7 +679,7 @@ per attutire dolore serve un supporto rigido e non elastico, per limitare il ran
 
 traumatopnea, respiro superficiale per il dolore, l'analgesia risolve almeno in parte il problema
 
-Lezione 7 - Politraumatizzato e Ferite di arma da fuoco
+Lezione 7 - Politraumatizzato
 ----
 
 politrauma determina uno o più focolai di frattura in associazione ad una lesione che interessa addome cranio o torace
@@ -773,5 +773,132 @@ spazio di Morrison, recesso dove si deposita tipicamente il liquido
 
 lacerazione del pancreas spesso dovuta al contraccolpo sulla colonna vertebrale, il trauma generalmente è epigastrico
 
-Lezione 8 - Ustioni - lezione futura
+Lezione 8 - Ferite di arma da fuoco
 ----
+
+lesioni interne vs esterne, alcune lesioni si fermano a cute e sottocute (pallettoni o punta cava)
+
+cambia in base a penetrazione e stopping power del proiettile
+
+contusioni; ecchimosi sulla cute, variabili a secondaa della traiettoria e della distanza dello sparo
+
+sono un aspetto vitale, cioè indizio che la persona era ancora viva, al contrario nei colpi sparai post-mortem
+si noterà che in alcune ferite mancano le contusioni
+
+ferite penetranti - rappresentano il traitto del proiettile nel corpo
+
++ a fondo cieco - senza foro d'uscita
++ trapassanti - foro entrata, tramite complet, foro di uscita
+
+lesioni da scoppio - non si limitano a penetrare nel tessuto ma ne provocano la dilatazione, si osservano negli organi cavi e pieni
+
++ colpi a distanza
++ colpi a contatto
++ colpo sparato da vicino
+
++ orletto di detersione - cercine nerastro e untuoso dovuto al depositarsi sui margini della ferita di
+materiale dovuto allo scoppio
++ orletto di escoriazione - dovuto al proiettile che introflette la cute a dito di guanto prima di perforarla
+ed esercita un'azione di compressione-contusione
+
+quello che interessa è il foro di uscita - margine estroflesso e normalmente di dimensione maggiore della lesione di
+entrata da scoppio, normalmente la traiettoria viene deviata nel percorso dentro il corpo soprattutto dall'impatto
+con ossa e muscoli
+
+danno inferto dal proiettile in funzione di:
+
++ energia cinetica ceduta all'impatto, minore per proiettili molto penetranti
++ resistenza delle strutture interessate dall'impatto
++ potenzialità settica secondaria al danno (diretto e indiretto) e devitalizzazione dell'organo o struttura colpita
++ contaminazione da materiale estraneo
+
+oggi si tende ad avere una minore dimensione dei proiettili ma una maggiore forza di propulsione, l'energia
+cinetica media dei proiettili è aumentata negli anni (misurazione in Joule)
+
+vari fattori influenzano la lesività dell'arma da fuoco, ormai oggi non ci sono più incidenti per la caccia
+
+velocità e massa del proiettile
+
++ < 500 m/s - bassa velocità
++ > 1000 m/s - alta velocità
+
+massa compresa tra 70 e 750 grammi, da considerare a parte lesioni da schegge e frammenti ad alta velocità
+
+lesioni diverse dipendentemente dagli organi incontrati
+
+a distanza molto ravvicinata i margini possono essere sfrangiati per sollevazione e scollamento da
+parte dei gas di scoppio che si espandono nel sottocute
+
+spesso le ferite da proiettili multipli sono meno gravi e non trattate, il piombo è molto ben tollerato dai tessuti molli,
+altrimenti si ha un microascesso ed espulsione dopo poco tempo
+
+molto mal tollerato invece il legno, sempre ascesso
+
+guaina di nickel-cromo - sono i nuovi proiettili luccicanti (shiny), non tollerati
+
+l'eccezione sono le cavità sierose, dove molti materiali non tollerati a livello sottocutanei sono invece inerti
+
+non tutti i pazienti con ferite di arma da fuoco vanno operati, soprattutto in posizioni molto rischiose come vicino a
+grossi vasi o cervello
+
+mortalità elevatissima per ferite al colon, sepsi
+
+Ustioni
+----
+
+dermatologo vs chirurgo plastico
+
+traumi cutanei complessi causati da insulto termico di varia natura (meno di 1s di esposizione a 70 ℃)
+
+causticazioni ormai rare, escluso negli organi interni (scopo suicidario)
+
+causticazione = agente chimico vs ustione = agente fisico
+
+superficie corporea circa 2 m<sup>2</sup>
+
+calcolo dell'estensione fatto con punteggi per zone del corpo, approssimativo ma efficace in prima battuta (regola del 9)
+
+servono
+
++ estensione
++ profondità
++ età
++ sede anatomica
++ condizioni generali
++ modalità → danni da inalazione
+
++ I - eritema doloroso
++ II - flittene è l'elemento caratteristico, il derma è ancora roseo e vitale
+  + dermiche superficiali - normalmente la superficie sotto la flittene è rossa
+  + dermiche profonde - la superficie sotto la flittene è biancastra, la sensibilità nocicettiva è compromessa
++ III - cute a tutto spessore e ipoderma, il tessuto è esangue, contratto, ruvido, duro e insensibile, si trasforma in escara nell'arco di 48h
++ IV - piani muscolari, ossa, tendini, nervi e vasi (carbonizzazione)
+
+oggi la mortalità prevalente è per insufficienza renale o shock settico
+
+anziani e bambini hanno prognosi più severa (superficie ridotta e tessuti molto morbidi per il bambino,
+disidratazione e meccanismi di compenso insufficienti per l'anziano)
+
+danni funzionali
+
++ gomito/poplite
++ collo (viso)
++ perineo e genitali (colonizzazione batterica)
++ mani e piedi (limitazione funzionale
+
+lesioni circonferenziali - possono causare soffocamento per restrizione dei movimenti e impossibilità di espansione
+di torace/altro compartimento provocate da retrazione cicatriziale
+
+trattameno con Escarotomia
+
+le condizioni generali sono le più influenti sulla prognosi dell'ustionato grave, soprattutto elettroliti e infezioni
+
+le ustioni più severe sono da olio, plastica o metalli fusi, sia per trasmissione di maggior calore, sia per danno biologico diretto
+
+#####Terapia
+
+lavaggio del paziente ustionato
+
+varie formule fisiologiche dipendenti dallo stato del paziente
+
+centro grandi ustionati, problemi di trasporto e di segnalazione
