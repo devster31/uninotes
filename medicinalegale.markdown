@@ -276,3 +276,91 @@ ospedale su agente causa del danno o assicurazione su assicurato (corte dei cont
 la complicazione più grossa è la colpa grave
 
 sanzioni per responsabilità di amministrativa
+
+Lezione 6 - Informazione e consenso
+----
+
+art.42 costituzione
+
+gerarchia delle forme - la scala di importanza di leggi e regolamenti statali
+
+carta di Nizza e convenzione di Orviedo (art.5)
+
+atto legittimo vs atto lecito
+
+il consenso è revocabile in qualunque momento
+
+titolo 3 capo IV articolo 33 del codice di deontologia medica
+
+il medico deve fornire al paziente idonea informazione su:
+
++ diagnosi
++ prognosi
++ prospettive ed eventuali alternative diagnostico-terapeutiche
++ prevedibili conseguenze di scelte operate
+
+va tenuto conto della capacità di comprensione
+
++ promovere la massima partecipazione alle scelte decisionali
++ adesione alle proposte diagnostico-terapeutiche
++ soddisfare ulteriori domande del pazinete
++ richieste in tema di prevenzione
+
++ le informazioni riguardanti prognosi gravi o infauste devono essere fornite con prudenza
++ la documentata volontà della persona assistita di non essere informata o di delegare ad un altro soggetto l'informazione
+deve essere rispettata
+
+art.34 - informazione a terzi
+
+l'informazione a terzi presuppone un consenso esplicitamente espresso
+
+l'informazione deve essere
+
++ onesta
++ veritiera
++ completa
+
+il consenso deve avere validità giuridica
+
++ consenso fino a 7 anni - impossibile in autonomia
++ consenso dai 7 ai 14 anni - combinato dei genitori e del bambino
++ consenso oltre i 14 anni - da valutare ma generalmente prioritario il consenso del minore
+
+soggetti che devono prestare il consenso nella routine e nell'emergenza
+
++ maggiorenne
++ maggiorenne incosciente
++ minore
++ paziente inabilitato e interdetto
+
+il consenso è essenziale e imprescindibile legittimazione dell'atto medico, altrimenti passibile di reato
+
+il consenso è espresso in forma scritta in alcuni casi
+
++ previsto per legge
++ donazione di sangue
++ trasfusione di sangue
+  + in caso di minore è necessario il doppio consenso o giudice tutelare
++ donazione di rene o fegato tra viventi
+
+requisiti obbligatori
+
+1. non condizionabilità
+2. revocabilità
+
+casi di obbligatorietà di consenso informato scritto
+
+1.
+2.
+3.
+4.
+5. sperimentazione clinica di farmaci
+
+rifiuto di cure ai testimoni di Geova - escamotage giuridica con rimozione della patria potestà dal giudice al medico
+
+autorevole dottrina giuridica (Mantovani, 2000)
+
+Art. 35 - acquisizione del consenso
+
+non ogni trattamento medico diventa lecito per la sola richiesta del paziente, il medico ha il dovere di praticare il trattamento
+con la maggiore idoneità
