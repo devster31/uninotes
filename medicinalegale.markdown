@@ -364,3 +364,25 @@ Art. 35 - acquisizione del consenso
 
 non ogni trattamento medico diventa lecito per la sola richiesta del paziente, il medico ha il dovere di praticare il trattamento
 con la maggiore idoneità
+
+Lezione 7 - Continua Consenso
+----
+
+lezione controversa su eutanasia, accanimento terapeutico ed assistenza d'urgenza
+
+il medico deve attivarsi per assicurare l'assistenza indispensabile in condizioni d'urgenza
+
+in condizione d'emergenza il consenso presunto è del medico, nemmeno i familiari possono opporsi
+
+problema delle direttive anticipate
+
+tutto nelle slides
+
+i reati connessi alla mancanza di consenso sono all'articolo 610 del codice penale, violenza privata
+
+la corte di cassazione è abbastanza tollerante con la mancanza di consenso in assenza di diretta volontà lesiva
+in quanto giustifica spesso la mancanza di consenso con una chiara necessità medica o emergenza
+
+#####Eutanasia
+
+morte biologica / morte clinica / morte sociale
