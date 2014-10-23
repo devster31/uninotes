@@ -383,3 +383,19 @@ per la terapia empirica, norme generali
 + dati epidemiologici
 + esperienza personale
 + conoscenza paziente
+
+Lezione - Auteri - Cirrosi Epatica
+----
+
+varie cause cirrosi
+
++ alcol
++ epatite acuta e cronica
++ stasi biliare (cirrosi biliare)
++ cause circolatorie
++ cause metaboliche
++ cause non identificate (cirrosi criptogenetica)
+
+disordine architetturale + tessuto connettivo fibroso con sostituzione delle aree parenchimali
+
+sovvertimento dell'architettura epatica
