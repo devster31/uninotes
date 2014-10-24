@@ -309,3 +309,42 @@ RX TD con gastrografin - segni diretti con plus radiografico, segni indiretti on
 ricerca del sangue occulto fecale
 
 ricerca dell'HP, con test rapido e anticorpi nel sangue
+
+Ipertensione Portale e Cirrosi Epatica
+----
+
+si realizza con > di 12 mmHg, complicanze ascite, emorragia, varici
+
+Complicanze Emorragiche - trattamento in emergenza
+
+endoscopia e scleroterapia - cianoacrilato
+
+legatura endoscopica - sonda di Sengstaken-Blakemore o Minnesota
+
+trasfusione, ripristino volemico, vitK o PFC
+
+vasocostrittori splancnica
+
++ somatostatina o ocreotide
++ vasopressina + nitroglicerina
++ terlipressina
+
+TIPS - Trans-Jugular Portosystemic Shunt
+
+profilassi primaria
+
++ betabloccanti - propanololo e nadololo, non riducono la mortalità ma non il sanguinamento
++ vasodilatatori - isosorbide mononitrato
++ terapia di combinazione non superiore a betabloccanti
++ endoscopia operativa - scleroterapia senza vantaggi ad alte complicanze
+  + EVL indicata in pazienti ad altissimo rischio o in seconda linea dopo betabloccante
+
+Shunt Porto-Sistemici
+
+graft di 8 mm, che limitano una eccessiva perdita di flusso tra porta e cava
+
+Spleno-renale distale sec. Warren
+
+Splenectomia - comparsa di ascite e 20% di trombosi portale abbandonato
+
+soluzione è il trapianto di fegato, risolutiva
