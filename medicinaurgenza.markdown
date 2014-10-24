@@ -902,3 +902,208 @@ lavaggio del paziente ustionato
 varie formule fisiologiche dipendenti dallo stato del paziente
 
 centro grandi ustionati, problemi di trasporto e di segnalazione
+
+Lezione 9 - Anestesia
+----
+
+###corso METal - Medical Emergency Team alert
+
+criteri per l'attivazione delle emergenze, corsi dell'IRC, insieme al BLS-D, rivolto molto alle infermiere e meno i medici
+
+il BLS è da paziente già in arresto cardiocircolatorio, il MET inizia prima
+
+#####Epidemiologia dell'ACC e delle emergenze con polso
+
+relativamente poco frequente sul territorio ma la gravità giustifica il sistema di intervento che vogliamo mettere in atto
+
+nel 70% dei casi i ritmi tachicardia o fibrillazione ventricolare - suscettibili di defibrillazione elettrica
+
+in ospedale l'incidenza non è mai stata studiata in maniera accurata 0,175 / posto letto
+
+la differenza tra arresto extraospedaliero vs intraospedaliero è che intra i due ritmi che si presentano in ospedale sono
+PEA (dissociazione elettro-meccanica) e asistolia, non suscettibili di cardioversione elettrica, con prognosi peggiore
+
+ROSC sono i segni di circolo
+
+educazione di tutti per far tenere d'occhio quei 10 segni che indicano rischio d'arresto
+
+rapid response system è organizzato in braccio afferente, braccio efferente, raccolta dati e prevenzione, altro
+
+medical emergency team + operatori di reparto "formati"
+
+######parametri al ricovero
+
++ livello di coscienza
++ frequenza respiratoria
++ saturazione dell'ossigeno
++ frequenza cardiaca
++ pressione arteriosa
++ temperatura
+
+piano di monitoraggio (scheda apposita)
+
++ intervallo modulabile non superiore alle 12h
++ integrazione con laboratoristica o strumentale
++ durata fino alla fine del ricovero
+
+schema ABCDE
+
++ criteri MUSE??
++ valutazione dell'ambiente (sicurezza della scena)
++ utilizzate i DPI
+
+A. proteggere rachide cervicale, coscienza, pervietà vie aeree, ossigeno alla più elevata FiO2 possibile
+
+B. pulsossimetria, FC
+
+C. polso radiale e carotideo, pressione, tracciato, HR, accesso venoso (solo se presente)
+
+D. orientato, disorientato, agitato, soporoso (ODAS), AVPU alternativo
+
+E. scoprire paziente, osservare, drenaggi, urine, escoriazioni, protezione termica (cianosi temperatura emorragia)
+
+#####Criteri di allertamento e intervento del MET
+
+criteri coerenti con valutazione ABCDE
+
+A. rossi - assenza di coscienza, vie aeree ostruite o ad elevato rischio ostruzione
+
+B. rossi - arresto respiratorio, gialli - distress respiratorio, frequenza superiore o inferiore al valore soglia, desaturazione inferiore al valore soglia
+
+il distress è l'angoscia che dovrebbe avere il paziente
+
+C. rossi - arresto cardiaco, gialli - frequenza al di fuori della soglia, caduta improvvisa della pressione
+
+D. gialli - deterioramento stato coscienza, almeno 2 punti ODAS(AVPU)
+
+E. gialli - sanguinamenti da drenaggi o ferite, cianosi diffusa o saturazione normale, temperatura
+
+i criteri spesso sono variazioni improvvise più che valori soglia assoluti
+
+valgono 1 criterio rosso o 2 criteri giallli per la chiamata giustificata al team MET (numero dedicato)
+
+mentre si aspetta si prepara la scena
+
++ medico MET - vie aeree
++ infermiere MET - defibrillatore, MCE,
++ infermiere di reparto - integra MET, vene e farmaci, MCE
++ medico di reparto - supporto clinico ed anamnestico
+
+seguita dall'intervento del MET si fanno interventi diagnostici, terapeutici o trasferimento in rianimazione
+
+###Ventilazione non invasiva
+
+Insufficienza respiratoria
+
++ Failure Pump - pompare aria (BPCO) → ipoventilazione alveolare con ipossia e ipercapnia
++ Failure Lung - scambiare gas (EPA) → deficit di scambio gassoso normalmente ipossia ma normo o ipocapnia
+(iperventilazione + vasocostrizione ipossica) → l'iperventilazione compensatoria si scompensa e porta ad ipercapnia
+da fallimento dei musocli respiratori accessori
+
+partial pressure - pao2 = fio2 * 713 - paco2 / RQ
+
+in ipoventilazione paco2 = vco2 / VA* K
+
+paco2 approssimabile al sangue
+
++ riduzione FiO2
++ ipoventilazione
++ diffusione
++ alterato V/Q
++ shunt
+
+NIMV - Non Invasive Mechanical Ventilation
+
+il primo requisito vero è che deve avere deglutizione e tosse inalterati e funzionanti
+
+metodica di ventilazione a pressione positiva o negativa in cui il paziente NON viene intubato o tracheostomizzato
+ma ventilato con l'ausilio di maschere facciali o nasali o scafandro
+
+evitare complicanze legate alla IOT
+
++ disconfort
++ sedazione
++ vap
++ lesioni tracheali
++ sinusiti e otiti
++ perdita mecc. di difesa vie aeree
+
+Lavoro Respiratorio - pressione sviluppata per ottenere il volume corrente necessario alla normocapnia
+
+macchina → modalità controllate (CMV, PCV) → invasiva
+macchina / paziente → modalità di supporto (ACV, PCV, SIMV, PS, BILIVEL) → invasiva e non
+paziente → CPAP → non invasiva
+
+nella CPAP non si aiuta nel lavoro ventilatorio, aiuta nella pressione di ventilazione
+
++ modalità volumetrica
+
++ modalità pressometrica
+
+TV = variabile indipendente - P = variabile indipendente
+
+presidi per NIMV
+
++ ventilatori a turbina (non aria compressa)
++ ventilatori da rianimazione
++ flussimetri ad alto flusso
+
++ maschere
++ scafandri
++ altre interfacce
+
++ valvola PEEP - permette di far uscire la pressione positiva in eccesso e mantenere un equilibrio
+Positive End Expiration Pressure
+
+il ventilatore può essere opzionale
+
++ livello 1
+  + NI-PSV → BPCO riacutizzata
+  + CPAP → EPA cardiogeno
++ livello 2a
+  + CPAP → BPCO riacutizzato
+  + NI-PSV → EPA cardiogeno, sindromi restrittive
++ livello 2b
+
+i parametri sono fondamentali, ci ha rimandato a leggerle sul libro
+
+####CPAP
+
+non è mai il sostituto del farmaco
+
+modalità pressoria regolata dalla valvola PEEP - le pressioni sono regolate in cm di acqua per ragioni storiche
+
+accanto alla valvola PEEP c'è un manometro che misura la pressione, varia in base alla fase respiratoria, devo
+prendere come misurazione la più bassa
+
+mai meno di 40 lt/min di gas fresco, perchè devo lavare via la CO2 espiratoria
+
+1. diminuzione volume polmonare (edema, addensamento)
+  + ↑ FRC, ↑ PO2
+2. ostruzione bronchiale (rimane normalmente una PEEP intrinseca nel polmone)
+  + ↓ carico soglia, ↑ PO2, bilancio la PEEP intrinseca
+
+####PSV
+
+flusso inspiratorio continuato fino al 20% del flusso iniziale, segue la FR del paziente
+
+settaggio - PS, FiO2 (drive ipossico, si parte non > 35%, limite di saturazione 96-98%), PEEP,
+allarme apnea e limite inf.di volume, trigger
+
+monitoraggio - vol.min per rischio ipoventilazione o iperventilazione, FR per rischio di tachipnea (bassa) o bradipnea (alta)
+
+target - saturazione di ossigeno per FiO2 (emogas o saturazione in continuo) e CO2 per la ventilazione (emogas o rilevatore)
+
+regolazione di
+
++ PEEP - 0 cmH2O - incrementi graduali fino a 3-5 cm H2O (8-10 negli ipossiemici)
++ PSV - 10 cmH2O -
++ Trigger I e Trigger E - a flusso e a pressione - 5% e 45%
+
+la pressione positiva è antifisiologica, le regolazioni pressorie influiscono sulle pressioni di circolazione polmonare
+(ritorno venoso) e pressioni intratoraciche polmonari, aumento il postcarico per cuore di dx e riduco precarico e stroke
+volume nel cuore sx (compensabile con aumento precarico di dx, aumento volemia)
+
+nelle emergenze la parte di ventilazione più difficile da correggere e compensare è quella cardiaca
+
+Pierpaolo GIomarelli
