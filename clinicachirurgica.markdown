@@ -302,6 +302,49 @@ terapia chirurgica
 
 resezione gastrica Billroth
 
+la resezione gastrica può essere tipica o escludente
+
+posso lasciare l'ulcera, la cosa importante da togliere è la parte secernente succo gastrico
+
+sono tutte resezioni tipiche, vanno da una curva all'altra
+
++ gastrectomia subtotale - il limite inferiore generalmente rimane sempre uguale, il limite superiore invece cambia
+  + gastrectomia polare inferiore
+  + gastrectomia polare superiore - molto rara, si preferisce la totale
+  + parziale - 1/2
+  + subtotale - 3/4
++ gastrectomia totale
+
+i vasi si inosculano dalla gastroepiploica di dx e sx cambiano direzione nella grande curvatura, dove formano un angolo;
+questo punto si chiama punto di Van Boiten
+
+per mantenere la continuità digestiva si utilizza una tecnica ricostruttiva, molti interventi non sono applicabili alle ulcere
+nel fondo dello stomaco, alcune possono essere scambiate per lesioni precancerose
+
++ Billroth I - anastomosi diretta tra inizio del duodeno e stomaco, complicanza reflusso bilio-pancreatico (assenza piloro)
++ Billroth II - anastomosi (orale totale o parziale) con la prima ansa digiunale e stomaco (dopo Treiz), parziale reflusso,
+carenze assorbimento elettrolitico, soprattutto Fe e Ca; antecolica, antiperistaltica se l'afferente va nella piccola e l'efferente nella grande
+
+ricostruzione esofago-digiunale - nel caso di gastrectomia totale
+
++ con ansa ad omega ed entero-anastomosi sec. Braun - stenosi su filo o anastomosi secondaria in basso
++ con ansa a Y sec. Roux
+
+#####Vagotomia
+
+sezione del vago o pneumogastrico
+
+tronco comune (tronculare - colecistectomia e piloroplastica) diviso in
+
++ branca epatica - attività biliopancreatica
++ branca gastrica (n. di Latarjet) (selettiva - piloroplastica) - motilità e secrezione gastrica (superselettiva - antrectomia??)
++ branca celiaca - attività intestinale
+
+la teoria è che dovrebbe rimuovere lo stimolo per la produzione di gastrina, come effetto collaterale blocco anche la motilità
+
+resezione vs vagotomia hanno opposte incidenza di sequele e recidive, la tecnica migliore è la vagotomia, ma la resezione
+ha un miglior follow-up, a partire dagli anni 80 c'è stata una rivalutazione negativa della vagotomia e positiva della gastroresezione
+
 #####Diagnosi
 
 RX TD con gastrografin - segni diretti con plus radiografico, segni indiretti on fenomeni discinetici
@@ -348,3 +391,13 @@ Spleno-renale distale sec. Warren
 Splenectomia - comparsa di ascite e 20% di trombosi portale abbandonato
 
 soluzione è il trapianto di fegato, risolutiva
+
+Emorragia del tratto digestivo superiore
+----
+
+classificazione delle emorragie dell'ulcera peptica secondo Forrest (endoscopia o esame arteriografico)
+
++ Ia - in atto, arteriosa, zampillante
++ Ib - in atto, stillicidio
++ II - arrestato con presenza di anomalia, coagulo alla base, vaso beante visibile
++ III - arrestato, senza evidenti anomalie, nessun segno recente
