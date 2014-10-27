@@ -399,3 +399,15 @@ varie cause cirrosi
 disordine architetturale + tessuto connettivo fibroso con sostituzione delle aree parenchimali
 
 sovvertimento dell'architettura epatica
+
+#####Cirrosi Biliare
+
+malattia cronica progressiva instaurata per la difficoltà di deflusso della bile - caratterizzata da distruzione dei dotti biliari,
+infiammazione portale e fibrosi progressiva, non rara.
+
+"colangite sclerosante non suppurativa" nel passato, adesso distinta in PBC (femmine 9:1) and SSC
+
+DDx con epatite cronica, la distuzione dei duttuli cambia localizzazione e meccanismo patogenetico
+
+Anticorpi anti-mitocondrio nella PBC, iperbilirubinemia diretta (nella cirrosi classica è di tipo misto), ipercolesterolemia,
+anticorpi anti-tiroide e anti-piastrine
