@@ -1107,3 +1107,177 @@ volume nel cuore sx (compensabile con aumento precarico di dx, aumento volemia)
 nelle emergenze la parte di ventilazione più difficile da correggere e compensare è quella cardiaca
 
 Pierpaolo GIomarelli
+
+Lezione 10 - Anestesia - Scolletta - Lo Shock
+----
+
+shock - insufficienza di perfusione, quale che sia la causa
+
+vari meccanismi di controllo della pressione arteriosa. in generale si controlla lo stato emodinamico, non in particolare la pressione
+
+i principale segni di shock
+
++ ipotensione arteriosa
++ stato mentale alterato
++ oliguria
++ iperlattatemia (-lattacidemia) ( > 2 mEq / L )
++ cute marezzata
+
+1. ipovolemico
+  + sanguinamento
+  + disidratazione
+2. cardiogeno
+  + miocardite
+  + rottura valvolare o insufficienza
+  + tachicardia ventricolare
+  + cardiopatia
+3. ostruttivo
+  + tamponamento cardiaco
+  + embolia polmonare
+4. distributivo (settico)
+  + infiammazione (SIRS, sepsi, pancreatite)
+  + anafilassi
+  + neurogeno
+
+gli altri che conoscevamo sono compresi nelle 4 definizioni soprastanti
+
+ipoperfusione no - ipotensione cronica o sincope
+
+sì - lattati superiori a 2 - circolatorio - catere arterioso + CVC
+
+lattati inferiori a 1.5
+
+monitoraggio continuo di pressione arteriosa e venosa - monitoraggio in continuo di pressione arteriosa e pressione
+venosa centrale (misurata in cava prima dell'ingresso in atrio)
+
+Ecofast come secondo controllo dopo la pressione in monitoraggio - screening rapido di malfunzioni grossolane cardiache
+
+risposta ai fluidi dopo somministrazione (PPV, CVP)
+
+challenge fluidico - misura della CVP e stroke volume (pressione arteriosa quando non monitorabile) = 200-250 ml di colloidi,
+valutazione a 5 minuti e continuare la terapia con incrementi di CVP < 3 mmHg o osservazione in caso contrario, la somministrazione
+riprende quando lo stroke volume si riduce
+
+il carico fluidico esclude l'ipovolemia ma non permette la diagnosi di shock
+
+ipotensione arteriosa inaspettata → cardiac output
+
++ alto - shock distributivo → esclude severa anemia o ipossiemia
++ basso - pressione polmonare (catetere di Swan-Ganz)
+  + alta - PAOP (pulmunary artery occlusion pressure - incuneamento polmonare) sì = insufficienza cardiaca, tamponamento / no = embolia polmonare
+  + bassa - ipovolemia
+
+cardiac output = stroke volume x heart rate  
+mentre il cardiac output è variabile in base alla superficie corporea, il Cardiac Index è stadardizzato  
+come valutazione della superficie corporea si prende il B.S.A. (ref)  
+quindi il CI si calcola come Cardiac Index = Cardiac Output / B.S.A.  
+di regola l'indice è circa la metà dell'output, sono tutte stime queste, non ci sono calcoli specifici
+
+dal CO possiamo stimare il DO<sub>2</sub>, il delivery di ossigeno ai tessuti, dipendente anche da CaO<sub>2</sub>, a sua volta dipendente da
+SaO<sub>2</sub> e Hb  
+DO<sub>2</sub> = CO x (SaO<sub>2</sub> x 1.34 [capacità di trasporto di 1 gr di Hb] x Hb) + (0.0031 [numero di solubilità di un gas nel sangue] x PaO<sub>2</sub>)
+
+il numero che viene fuori dalla PaO<sub>2</sub> è quasi irrilevante e devo cercare di agire sulle altre componenti
+
+Stroke Volume è dipendente da Preload, Contractility e Afterload (a sua volta dipendente da SVR [Systemic Vascular Resistances])
+
+Insufficienza Cardiaca vs Insufficienza Circolatoria
+
+Consumo di Ossigeno  
+VO<sub>2</sub> = Cardiac Output x (CaO<sub>2</sub> - CvO<sub>2</sub>)  
+dipendente da SaO<sub>2</sub>, Hb e SvO<sub>2</sub>
+
+Estrazione di Ossigeno
+O<sub>2</sub>ER = VO<sub>2</sub> / DO<sub>2</sub>  
+O<sub>2</sub>ER = CO x (CaO<sub>2</sub> - CvO<sub>2</sub>) / (CO x CaO<sub>2</sub>)  
+O<sub>2</sub>ER = (CaO<sub>2</sub> - CvO<sub>2</sub>) / Ca O<sub>2</sub>  
+O<sub>2</sub>ER = (SaO<sub>2</sub> - SvO<sub>2</sub>) / SaO<sub>2</sub>
+
+valori normali di estrazione a riposo sono circa il 30% quindi SvO<sub>2</sub> è circa 60-70%
+
+Relazione tra VO<sub>2</sub> e DO<sub>2</sub>  
+la indipendente è il consumo, la dipendente è il delivery, a bassi valori di trasporto il consumo è dipendente dal supply,
+a mano a mano che il trasporto aumenta si raggiunge un plateau stabile di indipendenza dal supply, ovviamente la soglia
+di dipendenza aumenta all'aumentare dell'attività dell'organismo, variabile in base allo stato di attivazione dell'organismo.  
+la curva sulla quale si sposta varia in base allo stato di attivazione  
+il lattato è un buon indicatore dello stato di perfusione dei tessuti
+
+rapporto lattato / piruvato > 25:1
+
+al di sotto del punto critico che definisce lo stato di dipendenza dal trasporto si instaura o shock circolatorio
+
+il punto limite è per DO<sub>2</sub> = 330 ml/min/m<sup>2</sup>
+
+normale DO<sub>2</sub> >= a 600 ml/min/m<sup>2</sup>
+
+DO<sub>2</sub> = CI x CaO<sub>2</sub> x 10 = CI x Hb x SaO<sub>2</sub> x 13.9
+
++ in caso di anemia si compensa con l'aumento dell'indice cardiaco  
++ in caso di ipossiemia si compensa di nuovo con l'aumento dell'indice cardiaco  
++ in caso di basso CO non ci sono validi meccanismi di compenso
+
+l'indice cardiaco rappresenta l'unico parametro di riserva oltre all'estrazione cellulare di O<sub>2</sub>
+
+i due meccanismi sono aumentato CO e aumentato O<sub>2</sub>ER
+
+possiamo agire sul CO con vari farmaci in base alla zona di azione:
+
++ preload - fluids, diuretics
++ contractility - dobutamine, dopamine
++ HR - isoproterenol, pacemaker, b-blocker
++ afterload - vasodilators, vasoconstrictor
+
+####Strumenti per il Monitoraggio del CO
+
+informazioni per l'impostazione della terapia derivate dal monitoraggio del CO in paziente critico, il monitoraggio continuo
+ci permette l'adattamento rapido della terapia
+
+funzionamento del catetere di Swan-Ganz - PAOP o Wedge Pressure, che è equivalente alla LVEDP (Left Ventricular End Diastolic Pressure)
+
+#####Termodiluizione
+
+per valutare il CO si vaulta con l'inverso dell'area sotto la curva della differenza di temperatura che avviene ad ogni sistole - termodiluizione
+a boli con catetere di Swan-Ganz, ci sono varie e infinite complicanze per questa procedura
+
+per monitorare la progressione del catetere vado a guardare le onde pressorie lungo il tragitto
+
+area sotto la curva della fase sistolica sarebbe teoricamente approssimabile allo Stroke Volume in ml  
+CO = SV x HR (L/min), ma è comunque una approssimazione derivata dall'approssimazione sullo SV
+
+#####Doppler
+
++ doppler esofageo
++ doppler soprasternale - aortic access - left sided CO
++ doppler parasternale - right sided CO
+
+#####Principio di Fick
+
+invertendo la formula posso calcolare la CO in base al consumo di ossigeno, inoltre posso
+
+CO<sub>2</sub> prodotta rispetto all'O<sub>2</sub> consumato è il Quoziente Respiratorio
+
+QR = VCO<sub>2</sub> / VO<sub>2</sub>  
+sempre inferiore a 1 in condizioni di aerobiosi
+
+posso sostituire a VO<sub>2</sub> nella formula inversa il VCO<sub>2</sub> x 0.9 che rende più facile il calcolo
+
+#####Bioimpedenza Toracica (TEB)
+
+sensori elettrici che valutano la differenza di impedenza elettrica intratoracica, questi valori possono valutare il CO
+
+#####Valutazione delle pressioni
+
++ LVEDV - compliance ventr sx
++ LVEDP - patologie mitraliche
++ LAP - patologie veno-occlusive
++ PAOP - Ipertensione Polmonare
++ PAPd - compliance ventr dx o patologie tricuspidaliche
++ CVP (PVC) - embolia polmonare
+
+le tre zone polmonari di WEST
+
+1. Ppa < Palv > Ppv
+2. Ppa > Palv > Ppv
+3. Ppa > Palv < Ppv
+
+la posizione della punta del catetere incide sulla corretta misura della PAOP e PCWP / durante la VM aggressiva la PAOP = PEEP
