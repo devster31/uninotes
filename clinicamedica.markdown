@@ -411,3 +411,58 @@ DDx con epatite cronica, la distuzione dei duttuli cambia localizzazione e mecca
 
 Anticorpi anti-mitocondrio nella PBC, iperbilirubinemia diretta (nella cirrosi classica è di tipo misto), ipercolesterolemia,
 anticorpi anti-tiroide e anti-piastrine
+
+Lezione Antibioticoterapia
+----
+
+Linee guida Gold, abbastanza datate ma le uniche disponibili ref. [PDF](http://www.goldcopd.it/materiale/2014/GOLD%20slide%20set%20italy%202014.pdf)
+
+BPCO - patologia speciale con trattamenti adattati specifici
+
+antibiotico inizia subito dall'inizio della ventilazione meccanica
+
+#####UTI
+
++ batteriuria asintomatica - trattamento non indicato nella maggior parte dei casi  
++ cistite acuta - linee guida contrastanti
+  + primo episodio → nitrofurantoina / chinolone / bactrim / amox+clav / (norfluoxacina) / cotrimossazolo / fosfomicina / cotrimossazolo / fosfomicina
+  + recidiva → mirata su urinocoltura + valutazione di fattori predisponenti
++ prostatite - bactrim / fluorochinolonico o in cronico stessi farmaci ma 1 mesi per chinoloni e 3 per bactrim (TMP+SMX)
++ renale - chinolonico di vario tipo è la prima scelta / cefalosporina o ampicillina nel paziente ospedalizzato / ceftriaxone in gravidanza
++ complicata - piperacillina/tazobactam o meropenem
++ ascesso perirenale - come sopra
++ ascesso perirenale associato a staffilococco - MSSA / MRSA
+
+altre <!---incompleto--->
+
+#####Infezioni Addominali
+
++ peritonite batterica primitiva
+  + cefrtiaxone
+  + piperacillina/tazobactam
+  + carbapenemi
++ peritonite post-chirurgica
+  + piperacillina/tazobactam
+  + carbapenemi
+  + metronidazolo in associazione
++ colecistite
+  + ampicillina/sulbactam endovena
+  + piperacillina/tazobactam
+  + imipenem
++ colangite
++ diverticolite
+  + TMP/SMX
+  + ciprofloxacina + metronidazolo
+
+Colpire forte e duro è la regola principale
+
+#####farmaci speciali
+
+Tigeciclina - infezioni complicate della cute e dei tessuti molli escluse le infezioni del piede diabetico / infezioni complicate intra-addominali  
+Linezolid - polmonite nosocomiale / infezioni complicate di cute e tessuti molli  
+Daptomicina - Gram + su cSSTI / RIE (Right Infective Endocarditis) da Staph Aureus / SAB (Staphilococcus Associated Endocarditis)
+
+www.antibioticoresponsabile.it
+
+TBC
+----
