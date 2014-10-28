@@ -401,3 +401,81 @@ classificazione delle emorragie dell'ulcera peptica secondo Forrest (endoscopia 
 + Ib - in atto, stillicidio
 + II - arrestato con presenza di anomalia, coagulo alla base, vaso beante visibile
 + III - arrestato, senza evidenti anomalie, nessun segno recente
+
+manifestazioni con
+
++ ematemesi (100%)
++ melena (90%)
++ ematochezia (60%)
+
+localizzazione prevalente
+
++ esofago, stomaco e duodeno - 80%
+
+trattamento delle emorrgie da ulcera peptica
+
++ conservativo, non endoscopico
+  + lavaggi con H2O ghiacciata - non confermata
+  + vasocostrittori - limitata
+  + antiacidi - non confermata
+  + H2-antagonisti - non confermata
+  + secretina - confermata
+  + somatostatina - confermata
++ endoscopico
+  + sonda elettroidrotermica - confermata
+  + sonda bicap - confermata
+  + laserterapia - confermata
+  + terapia sclerosante - confermata
+  + altri (graffe emostatiche, adesivi tissutali, emostatici, vasocostrittori) - non confermata
+
+colata acida, per perforazione di ulcera peptica, determina punto doloroso in appendice
+
+#####Perforazione Gastroduodenale
+
++ sutura
+  + intervento tardivo
+  + condizioni generali scadenti
+
+utilità dell'omento, aiuto del chirurgo, serve per tantissimi motivi tra cui aggiungere stabilità, suturare meglio e toppa naturale
+
+indicazioni assolute alla terapia chirurgica
+
++ emorragie gravi, persistenti o recidivanti
++ perforazione
++ stenosi
++ sospetto carcinoma ulcerato
+
+indicazioni relative
+
++ piccole emorragie recidivanti
++ substenosi
+
+#####Sindrome Post-Gastrectomia
+
++ dumping syndrome
++ diarrea
++ sindrome dell'ansa afferente - solo per problema tecnico
++ sindrome dell'ansa efferente - problema tecnico o normale deflusso rapido
++ reflusso alcalino
++ alterazioni elettrolitiche (Ca, Fe)
+
+possibili problemi di ipoglicemia da sindrome dell'ansa efferente con eccesso di flusso
+
+dumping - svuotamento rapido con richiamo di liquidi e diminuzione del volume vascolare, liberazione di glucagone dall'intestino,
+ma stimolazione sul pancreas con liberazione di insulina e ipoglicemia  
+possiamo provare a diminuire l'apporto di carboidrati o usare l'octreotide acetato che mette "a riposo" il pancreas  
+risoluzione definitiva - chirurgia di riconversione Billroth da 2 a 1 semplice o con ansa interposta (doppia anastomosi con altro pezzo intestino)  
+l'ansa interposta può essere peristaltica o antiperistaltica
+
+per risolvere l'ansa afferente basta una Roux o omega
+
+Reflusso Alcalino
+
++ trattamento medico
+  + colesterinamina
+  + metoclopramide
++ endoscopia
+  + follow-up della gastrite
++ chirurgia
+  + conversione in Roux
+  + degastrogastrectomia
