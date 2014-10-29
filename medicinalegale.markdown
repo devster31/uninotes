@@ -386,3 +386,37 @@ in quanto giustifica spesso la mancanza di consenso con una chiara necessità me
 #####Eutanasia
 
 morte biologica / morte clinica / morte sociale
+
+Lezione 8 - Segreto Professionale
+----
+
++ codice penale - art. 622 (segreto professionale), art. 326
++ codice procedura penale - art. 200
++ codice deontologico - art. 10, 11, 12
+
+art. 622 - comprende stato (famiglia, studente o specializzando) e ufficio  
+art. 326 - segreti d'ufficio per pubblico ufficiale, più grave, colposa o volontaria  
+art. 200 - testimonianza in ambito processuale, non può essere obbligata la testimonianza di alcuni argomenti conosciuti in
+base ala professione salvo casi in cui ci sia l'obbligo di rapporto e referto  
+art. 10 - la morte del paziente non esime dall'obbligo del segreto
+
+esenzione da giuste cause
+
++
++ norme scriminanti o permissive
+
+una questione dottrinaria - informazione anche contro la volontà del paziente in caso il collettivo sia in pericolo
+
++ principio di semplificazione
++ principio di effettiva necessità
+
+Lezione 8 - Violenza Sessuale
+----
+
+stupro non è un termine da utilizzare, non più definito giuridicamente
+
+legge 66/1996 - violenza sessuale, reato contro la persona, reato di vuolenza di gruppo, obbligo per l'imputato anche non
+consenziente di sottoporsi nelle forme della perizia ad accertamenti per individuare l'esistenza di patologie sessualmente
+trasmissibili se le modalità del fatto prospettano rischio di trasmissione
+
+violenza domestica e violenza maschile
