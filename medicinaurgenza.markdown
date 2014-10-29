@@ -1281,3 +1281,147 @@ le tre zone polmonari di WEST
 3. Ppa > Palv < Ppv
 
 la posizione della punta del catetere incide sulla corretta misura della PAOP e PCWP / durante la VM aggressiva la PAOP = PEEP
+
+Lezione 11 - Anestesia - Scolletta - Casi Clinici e definizione del quadro emodinamico
+----
+
+categoria di performance cardiovascolare - emodinamica
+
++ ottimale
+  + estremità calde
+  + colorito roseo
+  + polsi tra 3 e 4 in scala da 1 a 4
+  + CI > 2-2.2-2.4 L/min/m<sup>2</sup>
+  + PvO<sub>2</sub> > 28 mmHg [questo parametro stima sia la saturazione originale sia l'estrazione di ossigeno nel circolo venoso]
+(differenza con PaO<sub>2</sub> circa 70 mmHg)
+  + SvO<sub>2</sub> circa 70%
+  + PA media ≥ al v.n. stabilito per età [viene utilizzata la media perchè è la pressione di perfusione d'organo]
+(dobbiamo avere un'idea della perfusione dei vari distretti - la PA media si calcola) MAP = Diastolic Pressure + (Differential Pressure / 3)
+  + clinicamente non sono necessari CI e PvO<sub>2</sub> per la definizione di ottimale
++ adeguata ma marginale
++ inadeguata
+
+Equazione di Stewart-Hamilton - condizioni da rispettare per il calcolo accurato  
+la termodiluizione è il gold standard, ma normalmente non usato per la complessità di procedura
+
++ mixing completo tra indicatore e sangue
++ nessuna perdita dell'indicatore tra sito di iniezione e di rilevazione
++ flusso ematico costante durante il tempo di diluizione
+
+il CO è stimato e non misurato, ed è comunque preferibile la misurazione continua invece della misurazione a bolo come
+
+PCM - pulse contour methods  
+CCO - continuous cardiac output (con termodiluizione modificata), ma il generatore è random e non in funzione del polso
+
+oltre al CO posso valutare anche la frazione di eiezione del ventricolo dx
+
+l'inserimento di un PAC è accettabile solo se vengono considerate le altre variabili nel complesso, il CO da solo non è sufficiente per
+l'impostazione di una terapia efficace e funzionale
+
+alcuni dei parametri come PPV, SVV, CVP, PAOP, segni clinici, HR, ABP, ECG, EDV, EF, RAP, Hb, PAP, EVLW, lactate and microcirculation
+
+il parametro chiave è l'SvO<sub>2</sub>, misurato con uno strumento in continuo (con catetere a fibre ottiche) simile all'EGA  
+indice indiretto del CO, aiuta la comprensione dello stato fisiopatologico e guida nella gestione del paz. critico  
+Early Goal Directed Therapy
+
+l'SvO<sub>2</sub> stima il consumo tissutale periferico di ossigeno, il parametro rappresenta la saturazione venosa "mista"
+senza informazioni sulla perfusione regionale  
+l'SvO<sub>2</sub> è un indice diretto di ossigenazione globale che valuta VO<sub>2</sub> (consumo di ossigeno) e
+DO<sub>2</sub> (delivery di ossigeno), valuta quindi il metabolismo sistemico in maniera abbastanza realistica
+
+CO, Hb, Ossigenazione sono dipendenti da DO<sub>2</sub> e le richieste metaboliche da VO<sub>2</sub>  
+CO a sua volta valuta HR e SV, Hb valuta l'ematocrito/emodiluizione, l'ossigenazione valuta SaO<sub>2</sub>, FiO<sub>2</sub> e ventilazione
+
+SvO<sub>2</sub> = SaO<sub>2</sub> - VO<sub>2</sub> / (CO x Hb)
+
+SaO<sub>2</sub> - ventilazione, FiO<sub>2</sub> o PEEP  
+VO<sub>2</sub> - esercizio, dolore, febbre  
+CO - insufficienza cardiaca, ipovolemia, vasocostrizione  
+Hb - alterazioni sanguigne varie  
+SvO<sub>2</sub> normale è circa 70-80%  
+con SvO<sub>2</sub> > 85% o < 65% la mortalità aumenta, nel caso di valori elevati diminuisce l'estrazione periferica
+
+l'algoritmo
+
++ SvO<sub>2</sub>
+  + ≥ 70% - niente
+  + < 70% - valutazione di SaO<sub>2</sub>
++ SaO<sub>2</sub>
+  + low (hypoxemia) - oxygen therapy, increase PEEP
+  + normal > 95% - increased O<sub>2</sub>ER
++ saturazione normale → valutazione CO
+  + high ( > 2.5 L/min/m<sup>2</sup> ) valutazione Hb
+  + low ( < 2 L/min/m<sup>2</sup>) valutazione PAOP o PVC
++ Hb
+  + < 8 g/dL - trasfusione
+  + > 8 g/dl - stress, anxiety, pain (high VO<sub>2</sub>) - analgesia or sedation
++ PAOP (tra 12 e 18 mmHg)
+  + < 18 mmHg, hypovolemia - fluid challenge
+  + > 18 mmHg, myocardial dysfunction - dobutamine (il problema è un problema di pompa)
+
+in caso di Shock vanno considerati 2 parametri differenti
+
++ perfusione sistemica - DO<sub>2</sub> = CO x CaO<sub>2</sub>
++ perfusione periferica - va valutata con lo studio del microcircolo
+
+MODS - multi organ dysfunction syndrome - a cui segue la MOF conclamata
+
+microcircolo riferito a vasi con calibro inferiore a 100 micron
+
++ sito primario di scambio gas e nutrienti - adattamento a ipossia e esercizio (l'adattamento all'ipossia cronica avviene
+con l'aumento della densità capillare)
++ estensione endoteliale molto ampia
++ controllo del flusso sanguigno dipende da 2 set di variabili molto diverse tra macrocircolo e microcircolo
+  + emoreologia
+  + controllo neurormonale
+  + fattori metabolici
+  + fattori miogenici
++ effetto Fahræus-Lindqvist - l'ematocrito è ridotto nei piccoli vasi dipendente sia dal calibro sia dall'angolazione tra i vasi
++ la PaO<sub>2</sub> è più bassa in vicinanza della parete dei vasi - ipossia citopatica, problema mitocondriale con basso O<sub>2</sub>
++ l'impatto della vasocostrizione incrementa moltissimo l'effetto di redistrubuzione della PaO<sub>2</sub>, mentre
+con un vasodilatatore in teoria inverto l'effetto, ma usando un farmaco vasodilatatore posso indurre un effetto di "furto capillare"
+con aumento del danno da ipoperfusione
+
+per la valutazione del microcircolo usiamo un algoritmo
+
++ nello shock circolatorio il sangue viene centralizzato e con il monitoraggio degli organi "meno" vitali posso valutare precocemente
+segni di ischemia o ipossia tissutale
+
+microscopia intravitale, WTF - transilluminazione / non applicabile nell'uomo per vari motivi
+
+NIRS - near infrared spectroscopy - valuta circolazione e perfusione dei vasi muscolari con diametro < 1 mm, non necessita di polso  
+valutando il muscolo si valuta al 75% il sangue venoso qui si valuta la StO<sub>2</sub> (saturazione tissutale ossigeno)  
+i valori critici sono circa il 75%  
+VOT - vascular occlusion test, con lo sfigmomanometro devo occludere l'arteria a 50 mmHg sopra la PA sistolica per 3 minuti  
+la rate of decrease valuta la mVO<sub>2</sub> (muscle oxygen consumption), nel momento in cui lo slaccio improvvisamente l'NO
+accumulato durante il test c'è un picco di max StO<sub>2</sub> superiore all'originale, la slope nuova è l'abilità del tessuto
+di adattare l'O<sub>2</sub>ER al DO<sub>2</sub> con il reclutamento capillare, indirettamente valuto la responsività alla terapia
+
+le due possibili cause di riduzione di mVO<sub>2</sub>
+
++ ipossia ipossica - la prima ad instaurarsi
++ ipossia citopatica - conseguente spesso alla prima, valutabile dall'incremento Lattato/Piruvato
+
+la NIRS non valuta il flusso sanguigno del microcircolo
+
+SDF - Sidestream Dark Field - visualizzazione diretta del microcircolo (spesso valutata dalla lingua), questo strumento non valuta
+la parete dei vasi nè altre componenti  
+l'omogeneità della perfusione è più importante della velocità per assicurare l'ossigenazione tissutale
+
+conseguenze dello shock solite
+
+nel cuore intatto il LVEDV (volume telediastolico) viene accettato come misura del precarico ventricolare
+
++ preload dependence - curva di starling
+
++ indici statici di precarico - pressioni e volumi
++ indici dinamici di F.R - fluid responsiveness
+
+sono dinamici se variano dopo challenge fluidico
+
+test di Allen - 3-5 secondi prima della valutazione della pressione arteriosa invasiva
+
+PPV è uno dei fattori da valutare per la fluid challenge
+
+Passive Leg Raising - si recupera circa il 20% del volume circolante, si valutano MAP, HR, PPV e CO  
+altrimenti posso usare segni ecocardiografici (test dinamico) EDA e IVC
