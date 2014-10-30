@@ -466,3 +466,115 @@ www.antibioticoresponsabile.it
 
 TBC
 ----
+
+Caso Clinico - Linfoma/Epatopatia/malasanità
+----
+
+69 anni, ex dirigente statale, da 1 mese astenia progressiva con talvolta dispnea da sforzo che ri risolve con il riposo, 2 episodi di
+fibrillazione atriali cardiovertite farmacologicamente 2 anni prima, ipertensione arteriosa da 10 anni, ipertrofia prostatica benigna.  
+familiarità per ipertensione arteriosa, emorragie cerebrali fatali da ramo paterno, neoplasie gastriche da sorella minore e madre.  
+ex fumatore da 15 anni, astemio
+
++ amiodarone 200 mg x 2/die
++ cardioaspirina 100 mg 1 cp dopo pranzo
++ ramipril + idroclorotiazide 10 / 25 mg/die
++ prostaplant 1 cp/die
+
+PA 150/90, FC 80/min, FR 15/min, 111 kg con BMI 28.9, vita 109 cm, SaO2 94%, ronchi isolati in torace, epatosplenomegalia
+
+emocromo - Hb 12.1, al limite inferiore, PLT 118, piastrinopenia confermate, MCV 100, lievemente aumentato
+
+glicemia 118, aumentata, AST 40, ALT 46, gamma-GT 76
+
+rx-torace - lieve ingrandimento di ombra cardiaca, segni iniziali di BPCO
+
+eco addome completo - epatomegalia con steatosi diffusa di grado III, non lesioni focali, pancreas nella norma, non linfoadenopatie
+splenomegalia omogenea 16 cm, iniziale dilatazione della vena porta senza segni di trombosi endoluminale
+
+sospetti clinici
+
++ anemie emolitiche croniche (compatibile con 100 MCV, da usare aptoglobina)
++ altre anemie croniche
++ ipertensione portale
++ scompenso cardiaco congestizio
++ infettive/parassitarie
++ autoimmuni
++ dismetaboliche (Gaucher, Wilson)
++ sarcoidosi
+
+striscio periferico - alcune LGL, parvovirus da considerare, NASH, immunotipizzazione - sindrome linfoproliferativa cronica B linfoma NH,
+AM+BOM minima (< 20%) infiltrazione di elementi linfoidi B (CD20+), conferma immunofenotipo, LDH nei limiti, TC isolate linfoadenopatie
+paraaortiche addominali, max 1 cm, IgG, M e A e beta2-microglobulinemia nei limiti
+
+#####Riassunto
+
+il paziente ha verosimilmente un linfoma indolente con epatopatia da sindrome metabolica associata, la splenomegalia potrebbe essere il
+risultato combinato di epatopatia e linfoma
+
+1. classificazione REAL
+2. in base alle caratteristiche cliniche (aggressivi o indolenti)
+
+la diagnosi si fa con l'esportazione del linfonodo aggredibile e biopsia, nei linfomi non aggredibili biopsia
+
++ frequente coinvolgimento multiplo all'esordio
++ extranodali coinvolte 20-30% dei casi all'esordio
++ disseminazione favorita dalla localizzazione sottodiaframmatica
++ 20-30% è sintomatico (prurito scomparso dalle linee guida)
++ relazione inversa tra aggressività e diffusione
+  + basso grado - 60-80% di infiltrazione midollare
+  + alto grado - 20-30% in staido I e II
+
+assenza di masse bulky in addome e torace è un buon segno prognostico in genere
+
+modalità indolendi di esordio
+
++ linfoadenomegalia isolata
++ splenomegalia isolata
++ crioglobulinemia (astenia, artralgia, acrocianosi)
++ componente monoclonale
++ esordio esclusivo in sedi extranodali
+
+modalità aggressive di esordio
+
++ maggiore aggressività clinica
++ clinica di breve durata
++ presentazione clinica suggestiva del sottotipo istologico
++ sindromi cliniche d'esordio correlate
+
+laboratorio - nel 90% dei casi il primo è nella norma, la leucemizzazione è soprattutto nelle fasi terminali e a basso grado,
+l'LDH rimane un fattore prognostico soprattutto in forme ad alta aggressività
+
+basso grado vs alto grado per l'evoluzione
+
+rachicentesi con esame citologico del liquor (LNH testicolari, LNH linfoblastici), esistono linfomi cerebrali primitivi con esordio epilettico
+
+Visita Infettivologica - valutato per epatite B e C compresa quantizzazione di DNA e RNA, fibroscan con iniziale fibrosi epatica,
+ricerca parvovirus B19 (non dato ma da fare), crioglobuline assenti, consiglia eco ai controlli ogni 4-6 mesi per patologia linfomatosa
+
+chemio ± radioterapia e anticorpi monoclonali
+
+R-CHOP (schema per trattamento Linfomi B)
+
++ rituximab - possibile interferenza con epatopatie croniche
++ cyclophosphamide - dosaggi medio-alti
++ doxorubicin - interferenza con funzionalità epatica
++ vincristine - interferenza con funzionalità epatica
++ prednisolone
+
+la PET è inutile in diagnostica ma molto utile per il follow-up
+
+il paziente deceduto a 10 mesi dalla diagnosi per emorragia massiva da varici esofagee in quadro di cirrosi epatica scompensata
+(coma iperammoniemico), aggravamento delle condizioni cliniche dovute ad evoluzione del quadro epatico a 3 mesi dalla
+chemioterapia per linfoma.
+
+####NAFLD/NASH
+
+NASH con o senza fibrosi, può evolvere in cirrosi classica e va considerata come evoluzione possibile
+
+si studia molto per l'alta incidenza ed è la causa principale di cirrosi criptogenetica, in questi casi l'astensione totale dall'alcol è fondamentale
+
+è più frequente nelle donne (65 to 83%)
+
+obesità, diabete e ipertrigliceridemia sono i 3 principali fattori di rischio, anche l'amiodarone può aggravare la NASH
+
+l'esposizione ai solventi organici è una causa di NASH specifica ed isolata
