@@ -420,3 +420,34 @@ consenziente di sottoporsi nelle forme della perizia ad accertamenti per individ
 trasmissibili se le modalità del fatto prospettano rischio di trasmissione
 
 violenza domestica e violenza maschile
+
+Lezione 9 - Gabrielli - SSN e invalitidà civile
+----
+
+sistema del welfare - sistema di sicurezza sociale basato su previdenza e assistenza
+
+invalitidà civile - con invalidità superiore al 33% si ha diritto al collocamento obbligatorio (dal 68 anche per i civili, 1 ogni 20 dipendenti)
+si può dare solo a persone tra 18 e 65 anni
+
+le nuove tabelle di invalidità rendono più accettabile la stima del 33% di invalidità
+
+indennità di accompagnamento - incapaci di deambulare + invalidità al 100% o compiere gli atti quotidiani della vita quotidiana
+(compresi minorenni e oltre 65 anni)
+
+insufficienza mentale media valutata al 70%
+
+le patologie oculari non sono completamente valutabili, anche il sordo in età prelingualel (dalla nascita)
+
+provvidenza per ipoacusici - indennità di comunicazione
+
+per i minori abbiamo l'indennità di frequenza
+
+commissione da medici dell'ASL e un medico dell'INPS - possibile causa davanti al giudice del lavoro
+
+nei casi indecisi si nega la prestazione
+
+falso invalido e falso non invalido
+
+legge 40 - per tutti i cittadini, è indipendente dalla causa dell'invalidità, protegge ogni cittadino
+
+handicap vs handicap grave
