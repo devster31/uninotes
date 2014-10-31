@@ -479,3 +479,33 @@ Reflusso Alcalino
 + chirurgia
   + conversione in Roux
   + degastrogastrectomia
+
+Patologia Neoplastica
+----
+
++ tumori benigni - trattamento con enucleazione o resezione limitata
+  + polipi adenomatosi - il trattamento non viene considerato urgente come trattamento nello stomaco, al contrario del colon
+  + leiomiomi
+  + leiomioblastoma gastrico
++ tumori maligni
+  + carcinomi
+  + carcinoidi
+  + linfomi
+  + sarcomi
+  + GIST
+
+nei GIST non si sa se fare l'asportazione dei linfonodi o meno
+
+cellule di Cajal, espressione del KIT (proteina)
+
+nitrosazione intragastrica, trasformazione di nitriti e nitrati in nitrosammine, prodotti oncogeni ben definiti
+
+il cancro dello stomaco è probabilmente l'unica malattia ad aver avuto sia una diminuzione del tasso di mortalità sia una diminuzione
+del tasso di incidenza
+
+chemioterapia intraaddominale in ipertermia è la nuova terapia proposta per la terapia del cancro dello stomaco in T4a
+
+Early Gastric Cancer - lesione confinata a mucosa e sottomucosa, indipendentemente dalla presenza di metastasi ai linfonodi perigastrici
+
+pet T1 e T2 ci sono distinzioni in base alle caratteristiche di aggressività della lesione, che cambiano la situazione prognostica
+per due tumori diversi allo stesso stadio temporale o di diffusione
