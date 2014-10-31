@@ -1425,3 +1425,204 @@ PPV è uno dei fattori da valutare per la fluid challenge
 
 Passive Leg Raising - si recupera circa il 20% del volume circolante, si valutano MAP, HR, PPV e CO  
 altrimenti posso usare segni ecocardiografici (test dinamico) EDA e IVC
+
+Lezione 12 - Volterrani - traumi
+----
+
+#####Rachide
+
+alta energia in tcms, bassa energia anche in rx
+
+art. 4 decreto legislativo 187 - minimizzazione dell'esposizione del paziente
+
+NEXUS - national emergency x-radiography use study
+
+pazienti con bassa probabilità di danno traumatico
+
+assenza di fattori di rischio e fattori di basso rischio escludono lesioni traumatiche in maniera molto efficace (collo con angolazione minore di 45°)
+
+5-23% di lesioni significative con 10-50% di danno neurologico, con TC che ha specificità e sensibilità incredibilmente elevate
+
+i traumi isolati prima va fatto una rx, solo successivamente TCMS, la tomosintesi ci consente di essere relativamente accurati
+sulla presenza di una frattura
+
+T10-L2 sono le vertebre più interessate dalle fratture isolate
+
+la tomografia risolve il dubbio di frattura recente o pregressa
+
+non ci sono molti studi di tomosintesi vs TC nel trauma cervicale, e mentre la TC (arco post vertebre o corpo vertebrale con protrusione post)
+vede sicuramente questo tipo di fratture non ci sono dimostrazioni sulla tomosintesi
+
+l'ignoranza dei medici porta a medicina malfatta
+
+#####Casi Clinici
+
+35 anni, moto, problema ortopedico, dopo intervento e clexane ematoma splenico per rottura di milza non vista  
+con ecofast precoce c'è rischio di falsi negativi - splenocontrazione e Hb abbastanza stabilizzati da parte dei reticolociti soprattutto nei giovani  
+la TCMS è sempre diagnostica, altrimenti la CEUS sarebbe stata molto efficace per le lesioni della milza  
+rischio di morte per shock ipovolemico
+
+43 anni per trauma ad alta energia, gli esami di screening standard non rilevano nulla  
+lesione di un meso attivamente sanguinante in addome - intervento chirurgico d'urgenza  
+anche in questo caso l'ecofast non è indicata, solo nel paziente instabile, e solo per la valutazione del liquido in addome  
+ci possono essere patologie associate a mesi di distanza, RTP
+
+31 anni per trauma stradale - rottura di milza ed emoperitoneo  
+dopo splenectomia c'è un ulteriore calo di emoglobina, oltre ad una frattura instabile del rachide c'è un sanguinamento attivo
+nel polmone con emotorace massivo da vaso venoso  
+in paziente stabile va comunque fatta TCMS, con NISS e indicazione di priorità per il trattamento, in questo caso frattura costale
+
+5 anni per trauma ad alta energia - nonostante l'età si fa TCMS e viene indicata nefrectomia e splenectomia d'urgenza  
+ematoma perirenale, frattura di femore e rottura di milza
+
+4 anni per caduta da 2 metri, non trauma ad alta energia - TCMS in questo caso non indicata e Eco e rx torace entrambe negative  
+in questo caso basta un controllo clinico-laboratoristico
+
+48 anni per caduta da 10 metri, 12 Hb - PNX con collasso polmonare, frattura acetabolo dx, branche bil.  
+dopo 2 ore dall'ingresso Hb 8 - TCMS - frattura importante del sacro con sanguinamento arterioso bilaterale con 2 arresti in TC, rianimato  
+morto al DEA
+
+32 anni per incidente stradale - lussazione femore sx ai primi esami, alla TCMS però rivela la frattura instabile del rachide cervicale  
+elevato rischio per sezione midollare - trattamento con stabilizzazione e fissazione della vertebra
+
+#####TCMS.... e dopo?
+
+va deciso la tipologia di trattamento in base alla priorità dell'intervento
+
++ frattura delle prime coste dalla I alla III è sempre indice di trauma ad alta energia con trauma vascolare
+tronco brachiocefalico - riparazione angiografica
++ frattura del bacino con lesione vascolare ha un'altra priorità per l'entità del sanguinamento
++ quando c'è sanguinamento con grosso ematoma la chirurgia non è la più indicata, meglio il trattamento endovascolare angiografico
+
+Ecotomografia con MdC
+
++ controllo nei trattamenti conservativi (per esempio nei traumi splenici meglio il trattamento conservativo)
++ nella milza c'è un ruolo della radiologia interventistica, embolizzazione come possiamo fare per il fegato o la pelvi
+
+per i traumi midollari la RM è la metodica migliore, vede benissimo ematoma sottodurale e compressione midollare
+
+42 anni con trauma ad alta energia - fratture multiple della mandibola, ematoma mediastinico per rottura dell'aorta toracica,
+vari sanguinamenti attivi da lesione dei mesi in addome, sanguinamento attivo nel bacino e psoas, ulteriori sanguinamenti diffusi encefalici  
+dopo 12 mesi di terapie e riabilitazione il paziente sta bene, il come non si sa
+
+oltre a fare sempre la TCMS ed avere strumenti all'altezza vanno anche tenute pronte sale operatorie sempre  
+NCH + Chir Gen / Chir Tor + Interventistica Radiologica
+
+donna di 78 anni, diagnosi radiologica di rottura di milza, frattura esposta di gamba, non segnalato immediatamente al chirurgo  
+paziente morta per mancato intervento immediato in chirurgia addominale
+
+non esistono traumi isolati ma solo il paziente in toto traumatizzato, nel complesso
+
+Lezione 12 - Volterrani - Addome Acuto
+----
+
+dolore addominale acuto associato a segni clinici e laboratoristici vari
+
++ diarrea
++ febbre
++ alterazioni dell'alvo
++ vomito
++ guazzo
+
+CALO DI Hb o SHOCK sono le 2 cose più importanti per la tempistica dell'intervento
+
+bambina di 9 anni morta, sentenza di cassazione che dice che nonostante la diagnosi di addome acuto fosse giustificata non
+era l'unica e probabilmente nemmeno la più probabile
+
+purtroppo al DEA appena c'è dolore si fa imaging, non sempre ottimale
+
+"fishing" is rampant (Herbert L. Fred) Texas Heart Institute Journal Nov 1, 2013
+
+> this sport typically takes place in the emergency department, where almost all patients entering with chest pain (not further described)
+> or shortness of breath (not further defined) promptly undergo contrast-enhanced chest CT"
+>
+> -- <cite>Herbert L. Fred</cite>
+
+in teoria sarebbe meglio che il radiologo facesse l'esame obbiettivo
+
+fenomeno della silhouette - se 2 strutture con simile densità si toccano non si vedono i margini, servono 2 strutture diverse
+
+nella diretta addome non esiste un quadro normale, la quantità di gas intestinali è incredibilmente variabile
+
+per evidenziare piccole differenze di intensità serve un fascio a bassa energia
+
+60 KV e milliampere più alti possibile
+
+i livelli idroaerei NON significano occlusione meccanica, ci sono molte altre possibilità
+
+la presenza di aria extraintestinale NON significa perforazione e viceversa la perforazione ci può essere senza aria extraintestinale
+
+#####Ischemia
+
+l'ischemia mesenterica è considerata un'emergenza vascolare con mortalità al 60-80%, sindrome da risposta infiammatoria sistemica,
+reperfusion injury, bacterial translocation  
+AMI → Transmural Hemorragic Sepsis
+
++ occlusione arteriosa 50%
++ trombosi venosa 10%
++ NOMI 40% (nonocclusive)
+
+colite ischemica è una delle possibili conseguenze
+
+SMA ligation, SMV ligation - effetti diversi tra occlusione venosa e arteriosa a 0, 30 min e 4h
+
+cosa bisogna cercare nelle immagini TC
+
++ occlusione MdC nell'arterioso
++ trombo nelle vene mesenteriche
++ sottigliezza eccessiva dei vasi al MdC con flusso inadeguato
++ la Pneumatosi è un reperto molto tardivo
+
++ nell'infarto arterioso si ha lo spessore sottilissimo delle anse senza enhancement parietale
++ al contrario nell'infarto venoso si ha edema murale con inspessimento dell'edema
++ durante la riperfusione si ha la ripresa del contrasto nella parete e l'inspessimento dell'ansa di nuovo
+
+CT - defree of attenuation, thickness
+
+#####NOMI
+
+causata da vari fattori tra cui farmaci e procedure su persone di età avanzata che porta fino alla necrosi transmurale
+
+ulcere mesenteriche sono un sintomo di NOMI differenziato dalle altre
+
+1. management of NOMI is essentially pharmacologic
+2. firs-line therapy upon suspition has been abdominal angiography
+3. da fare quando la stabilità emodinamica è stata restabilita
+
+la cosa importante è pensarci, i sintomi sono estremamente aspecifici e la diagnosi spesso non viene fatta
+
+la nomi può associarsi e comprendere ischemie renali
+
+la riperfusione delle anse può essere inefficace e si rende necessaria la resezione chirurgica, uno dei segni radiologici è
+il mesenteric fat stranding
+
+63 anni, cardiopatia ischemica, fibrillazione atriale, arresto cardiaco, aumento LDH con dolore addominale, la resezione chirurgica è efficace
+
+#####Occlusione Intestinale
+
+tantissime laparotomie per SBO, small bowel obstruction, per cause varie, briglie (60%) e ernie (35%) sono le principali,
+le altre sono neoplasie, invaginazione (pediatrico soprattutto) e calcoli
+
+nelle ernie non ci sono solo le ernie classiche ma anche ernie interne, formate ad esempio da intestino attraverso una briglia
+
+le 2 patologie senza sede preferenziale per il dolore sono bowel obstruction e mesenteric ischemia
+
+i 2/3 delle occlusioni sono a sede ileale, le altre a sede colica, le neoplasie sono concentrate in massima parte nel colon (60%),
+seguite da volvolo e flogosi
+
++ Occlusione Semplice - qualunque causa che determini un ostacolo senza alterazioni di perfusione, si fa terapia medica e osservazione
++ Occlusione con Incarcermamento - anse fissate in ernia o meso con aspetto affastellato, terapia chirurgica in tempi brevi
++ Occlusione ad Ansa Chiusa - 2 punti contemporaneamente, alterazioni perfusorie, chirurgia rapida
++ Occlusione con Strangolamento - terapia chirurgica immediata per ischemia dell'ansa (rotazione > 180°), possibile anche la sofferenza
+contemporanea del meso
+
+valvole conniventi e spessore di parete (anse giustapposte) sono 2 segni importanti nella diretta addome
+
+Development of a plain radiograph requesting algorithm for patients presenting with acute abdominal pain - Will Loughborough -
+Quant Imaging Med Surg 2012; 2(4):239-244
+
++ occlusione
++ livello
++ causa
++ sofferenza delle anse
++ urgenza o differita
