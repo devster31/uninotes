@@ -1626,3 +1626,166 @@ Quant Imaging Med Surg 2012; 2(4):239-244
 + causa
 + sofferenza delle anse
 + urgenza o differita
+
+Lezione 13 - Gonnelli - Edema Polmonare
+----
+
+acuto - stravaso dei fluidi dal letto vascolare polmonare nell'interstizio e negli alveoli polmonari
+
++ aumento pressione idrostatica capillare
++ aumento permeabilità polmonare
++ diminuzione pressione oncotica
++ ostruzione linfatica
+
+da ricordare il cardiogeno per failure del lato sx del cuore, da distinguere la precipitazione acuta o meno rapida dellla stabilità del paziente
+
+marea montante - dispnea con rumori umidi che salgono dalle basi (rantoli)
+
+ci sono però varie fasi prima della marea
+
++ stadio 1 - prima il liquido passa nell'interstizio, il primo meccanismo di compenso è la tachipnea ci sono tessuti peribronchiolari e
+vasi linfatici distesi dal liquido
++ stadio 2 - si distendono anche i setti alveolari, normalmente spazio virtuale (diminuzione della saturazione di ossigeno ma possibile
+ipocapnia per tachipnea compensatoria
++ stadio 3 - si inizia ad avere fluido negli angoli alveolari
++ stadio 4 - a questo punto gli alveoli si riempiono di fluido
+
+l'interstizio contiene fino 500 ml di fluidi, oltre a questo limite il liquido invade gli spazi alveolari
+
++ edema interstiziale con pressioni idrostatiche capillari polmonari > 20 mmHg
++ edema alveolare con pressioni idrostatiche capillari polmonari > 30 mmHg
+
+i cutoff sono molto teorici
+
+interstiziale - cute calda non sudata, cianosi prolabiale, orecchio, estremità, tosse secca, PA aumentata, cuore con ritmo di galoppo, sibili
+espiratori, rantoli crepitanti alle basi, congestione degli ili e strie B di Kerley all'RX, ipossiemia con ipocapnia
+alveolare - cute fredda, pallida, sudata, cianosi diffusa, PA bassa, diastolica mantenuta per vasocostrizione (< differenziale), ritmo di galoppo
+probabile, ronchi, sibili, rantoli a marea montante, ali di farfalla, ipotrasparenza diffusa o opacità all'RX, ipossiemia < 60 mmHg o ipocapnia
+o ipercapnia, più grave, si ha come conseguenza un effetto diverso sul SNC, possibile paziente soporoso
+
+ecografia aiuta molto nella diagnosi e prognosi, sicuramente implementato nel futuro
+
+la valutazione strumentale
+
++ emocromo + elettroliti + funzionalità renale + LDH
++ EGA
++ RX Torace
++ ecocuore
+
+ortopnea - molto specifico ma bassa sensibilità  
+edemi periferici  - elevata PVG  
+rantoli polmonari con alta specificità ma bassa sensibilità
+
++ ANP - rilasciato in risposta allo stiramento muscolare atriale
++ BNP - rilasciato in risposta allo stiramento muscolare ventricolare, anche in seguito a ipertrofia, fibrosi e necrosi ischemica
++ CNP - rilasciato in risposta allo shear stress endoteliale
+
+range BNP (rule in-rule out)
+
++ < 100 pg/ml - NT-proBNP < 400 pg/ml - chronic HF unlikely
++ 100-400 pg/ml - NT-proBNP 400-2000 pg/ml - uncertain
++ > 400 pg/ml - NT-proBNP > 2000 pg/ml - likely
+
+ci sono varie malattie in cui BNP e NT-proBNP è aumentato, tra cui insufficienza renale, cirrosi epatica e varie condizioni cardiache
+
+ECG può aiutare nella diagnosi, s1q3 tipico, dilatazione delle camere di destra
+
+nella diagnosi differenziale vanno l'asma bronchiale, asma cardiaco, embolia polmonare o BPCO riacutizzata
+
+####Terapia
+
++ riduzione precarico
++ riduzione postcarico
++ migliorare la funzione sistodiastolica
++ mantenere pressione sistemica di perfusione
+
+1. elevated BP
+2. normal BP
+3. low BP - inotropes with vasodilatatory properties, digoxin, minore incidenza ma prognosi peggiore
+
+l'ossigenoterapia va usata solamente in pazienti ipossiemici con saturazione < 90%, il potenziale rischio è la vasocostrizione
+con riduzione della gittata cardiaca
+
+#####Pressione normale o elevata
+
+nitroglicerina furosemide e morfina sono i 3 farmaci nei testi, adesso dobbiamo iniziare nell'ordine
+
+1. furosemide - EV con bolo e infusione con monitoraggio o boli continuati
+2. nitroglicerina - utili in pazienti ipertesi senza particolari vantaggi sulla displea o outcome, evitare se PAS < 110 o stenosi valvolare sx
+3. morfina - 1 fiala = 10 mg, max 20 mg in 20 min
+
+attenzione a iponatriemia e ipokaliemia della furosemide insieme all'ipotensione (effetto da controllare anche per la nitroglicerina)
+
+infarto dx, ipotensione, anomalie valvolari sono 3 controindicazioni quasi assolute per la nitroglicerina
+
+la morfina ha vari effetti:
+
++ riduce l'agitazione del paziente
++ riduce la fatica respiratoria
++ riduce il tono simpatico centrale
+  + vasodilatazione venosa
+  + vasodilatazione arteriosa (meno)
+
+monitorare sempre PA e FR per evitare ipotensione, bradicardia e depressione respiratoria, problemi più a lungo termine sono costipazione
+ritenzione urinaria e alterazioni visive, raramente si hanno complicanze psichiatriche o neurologiche
+
+controindicazioni sono ipotensione, insufficienza respiratoria e mancanza dell'antidoto - naloxone (rischio in casi di diagnosi incompleta)
+
+######Aminofillina
+
+indicata in BPCO, asma, EPA, antidoto al dipiridamolo, migliora il flusso renale, raramente usata
+
+######Nitroprissiato
+
+potente e rapido vasodilatatore periferico
+
+#####Pressione bassa borderline
+
+in questo caso devo principalmente sostenere il cuore dato che i diuretici sono meno efficaci
+
+######Dopamina
+
+dipendentemente dalle concentrazioni si hanno effetti diversi, in questo caso ci servono concentrazioni media per
+i recettori β<sub>1</sub> miocardici (inotropo positovo e cronotropo positivo) e a dose bassa per la pura vasodilatazione renale, a dose
+elevata agisce su α<sub>1</sub> e α<sub>2</sub> per un aumento delle resistenze periferiche e conseguente deciso aumento della pressione
+
+######Dobutamina
+
+molto simile a dopamina, non stimola i dopaminergici renali, ma aumenta l'automatismo del nodo del seno, e a differenza della dopamina
+non aumenta il rilascio miocardico di noradrenalina con minore aumento della frequenza e minore rischio di aritmie
+
+utile nello scompenso a bassa gittata anche nei pazienti infartuati, in caso di shock associato alla dopamina
+
+european heart journal 2012 33, 1787-1847 doi:10.1093/eurheartj/ehs104
+
+vi sono altri inotropi utilizzabili, non da sapere, milrinone (poco efficace), Levosimedan (solo intensiva post-chirurgica), epinefrina
+
+Levosimendan - sensibilizzazione al calcio mediante legame con troponina C
+
+######Ventilazione
+
+NIV (non invasive) - dispnea severa, acidosi respiratoria ipercapnica e in generale in acuto, all'aumento del tempo i vantaggi diminuiscono sensibilmente
+
+IOT (invasive) - da prendere in considerazione in casi gravi
+
+######Ultrafiltrazione
+
+corregge l'ipervolemia e rimuove gli edemi, non modifica invece i parametri ematici di alcuna sostanza, appropriata solo
+in caso di correzione di volume sia il solo target terapeutico
+
+non indicato in pazienti con resistenza ai diuretici, vuol dire che tanto del liquido è nell'interstizio, con iperaldosteronismo come compenso renale,
+in questi casi non possiamo dare antialdosteronici per insufficienza renale
+
+####Pressione molto bassa
+
+le amine sono il principale presidio terapeutico in casi di pressione molto bassa
+
+emagel - colloide
+
+shock cardiogeno in insufficienza cardiaca acuta è in DDx con l'edema polmonare, sono casi molto rari che hanno una prognosi peggiore
+
+la gestione dopo dopamina, norepinefrina, dobutamina + dopamina e in caso estremo un contropulsatore aortico
+
+il contropulsatore è utilizzabile in attesa di intervento di rivascolarizzazione o di riparazione di una valvola o di tendini muscolari rotti
+o ancora in attesa di correzione di un aneurisma, in ogni caso deve esserci una soluzione definita al problema e deve servire solo per mantenere
+la stabilità del paziente fino alla soluzione finale
