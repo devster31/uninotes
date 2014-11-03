@@ -578,3 +578,12 @@ si studia molto per l'alta incidenza ed è la causa principale di cirrosi cripto
 obesità, diabete e ipertrigliceridemia sono i 3 principali fattori di rischio, anche l'amiodarone può aggravare la NASH
 
 l'esposizione ai solventi organici è una causa di NASH specifica ed isolata
+
+Malattia reumatica o febbre reumatica
+----
+
+infiammatoria non suppurativa, strep beta emo gruppo A
+
+terapia antireattiva con FANS e cortisonici, la terapia è lunga, continuata 4-6 settimane dopo la normalizzazione degli indici di flogosi
+
+dieta povera di sodio con cortisonici e digitale e diuretici in caso di grave cardite
