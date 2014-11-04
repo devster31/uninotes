@@ -509,3 +509,37 @@ Early Gastric Cancer - lesione confinata a mucosa e sottomucosa, indipendentemen
 
 pet T1 e T2 ci sono distinzioni in base alle caratteristiche di aggressività della lesione, che cambiano la situazione prognostica
 per due tumori diversi allo stesso stadio temporale o di diffusione
+
+Shock
+----
+
+storia 1743 - Le Dran
+
++ Ipovolemia vera
+  + emorragia
+  + eritrorragia
+  + plasmorragia
+      + acqua
+      + elettroliti
+      + proteine
++ ipovolemia relativa
+  + deficit della pompa cardiaca
+  + lesioni del sistema vasomotorio
+
+shock emorragico - drastica riduzione della massa ematica circolante
+
++ esterna
++ interna
++ endoluminale
+
+ipotensione + abbassamento PVC in cm di acqua
+
+dopamina/isoproterenolo, azione simile a adrenalina/noradrenalina
+
+mentra la norad agisce su cute intestino e rene con recettori alfa principalmente, adr agisce su beta 1 e 2
+
+dopa agisce debolmente su beta1 cardiaci e recettori dopaminergici, isoproterenolo agisce su beta 1 e 2 (muscolo e apparato mesenterico)
+
+acidosi → minore sensibilità dei recettori alfa arteriolo-capillari
+
+uso intelligente delle catecolamine
