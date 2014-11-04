@@ -587,3 +587,59 @@ infiammatoria non suppurativa, strep beta emo gruppo A
 terapia antireattiva con FANS e cortisonici, la terapia è lunga, continuata 4-6 settimane dopo la normalizzazione degli indici di flogosi
 
 dieta povera di sodio con cortisonici e digitale e diuretici in caso di grave cardite
+
+Malattie del Metabolismo Osseo
+----
+
++ supporto strutturale
++ potezione organi interni
++ locomozione
++ omeostasi fosfo-calcica
++ azioni endocrine (FGF23)
+
+matrice ossea
+
++ componente organica (40%)
+  + osteocalcina
+  + osteonectina
++ componente inorganica (60%)
+  + idrossiapatite di calcio
+  + dicalciofosfato
+
+osteoprotegerina - usato in caso di metastasi ossee per impedire il riassorbimento
+
+Wnt - betacatenina portano ad osteoporosi per difetto di attivazione osteoblastica
+
+differenza tra insufficienza e deficienza di vit D, la deficienza da osteoporosi e osteopenia invece di osteomalacia nel caso di insufficienza  
+i valori sono abbastanza simili
+
+lesioni radiologiche
+
++ osteolitiche / demineralizzanti
++ osteosclerotiche / osteoaddensanti
+
+T score da -1 a -2.5 sono criteri diagnostici W.H.O per la densitometria ossea e la valutazione del rischio fratture
+
+patologia medica su osteomalacie con classificazione
+
+dinuovo osteomalacia e Paget da patologia medica
+
+nella diagnostica oltre alla roba standard si guardano
+
++ deficit posturali o della deambulazione
++ densitometria DXA (ultrasuoni)
++ scintigrafia ossea
++ TC o RMN in ultima battuta
++ biopsia ossea
++ analisi genetica per patologie sospette
+
+marker di rimodellamento osseo
+
++ neoformazione (sempre siero)
++ riassorbimento
+  + siero
+  + urine
+
+T score vs Z score, la differenza è tra il giovane adulto perfettamente sano e la media dei soggetti di pari sesso ed età
+
+con questi score si valuta il rischio di frattura e l'osteoporosi
