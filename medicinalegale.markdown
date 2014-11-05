@@ -451,3 +451,47 @@ falso invalido e falso non invalido
 legge 40 - per tutti i cittadini, è indipendente dalla causa dell'invalidità, protegge ogni cittadino
 
 handicap vs handicap grave
+
+Lezione 10 - donnina - Infortunio e malattia professionale
+----
+
+art. 38 della Costituzione - obbligatorietà di assicurazione in casi di infortunio e malattia
+
+DPR 1124 del 1965 D.Lgs 38 del 2000 dettano le regole per la copertura INAIL
+
+tutelati da 5 giorni dopo l'assunzione: infortunio su lavoro e malattia professionale
+
+infortunio sul lavoro - episodio dannoso imprevedibile per causa violenta  
+sono incluse nelle cause di infortunio sul lavoro anche tante cause non direttamente correlate con il lavoro, come gli spostamenti verso
+il luogo di lavoro (infortunio in itinere) e attività extra sul luogo sul lavoro
+
+temporanea assoluta, non esiste temporanea parziale
+
+rendita mensile in base a punteggio ed età per compensare l'infortunio da lavoro
+
+la somma non è lineare nella valutazione della gravità dell'infortunio, va in gravità decrescente
+
+se ci sono più lesioni si chiamano concorrenti e hanno un peso diverso in base alla gravità, se interessano organi diversi si chiamano concomitanti
+
+gli infortuni possono rimanere in vita per 10 anni
+
+malattia professionale - contratta in ambiente lavorativo per azione nociva di natura fisica, chimica e biologica presente o determinata dal lavoro
+
+prova del nesso causale, necessaria per la presunzione legale di malattia
+
+decreto ministeriale 9 aprile 2008 con elenco aggiornato delle malattie professionali
+
++ integrazione della rendita diretta
++ rendita di passaggio
++ una tantum ai superstiti
++ assegno funerario
++ assistenza personale continuativa
++ assegno continuativo mesile
++ prestazioni integrative di altro genere
+
+INPS
+----
+
+invalidità o invalido pensionabile
+
+L. 222/84, articolo 1, articolo 2
