@@ -1789,3 +1789,202 @@ la gestione dopo dopamina, norepinefrina, dobutamina + dopamina e in caso estrem
 il contropulsatore è utilizzabile in attesa di intervento di rivascolarizzazione o di riparazione di una valvola o di tendini muscolari rotti
 o ancora in attesa di correzione di un aneurisma, in ogni caso deve esserci una soluzione definita al problema e deve servire solo per mantenere
 la stabilità del paziente fino alla soluzione finale
+
+Asma Bronchiale
+----
+
+l'attacco asmatico è una condizione potenzialmente letale da forma molto tranquilla
+
+associato alla mortalità
+
++ asma cronico severo
++ scarsa compliance
++ follow-up inadeguato
++ uso massivo di β2 agonista
++ stagionalità (estate)
+
+il problema dell'asma sono le riacutizzazioni che compaiono in ore o giorni e durano fino a settimane, devono essere distinte dai periodi
+di scarso controllo dell'asma, in un caso il problema è la terapia di base, nell'altro un incremento della gravità della malattia
+
+soprattutto virus (rv, rs, metapneumo) e germi atipici (micoplasma e clamidia)
+
+asma - allergeni - infiammazione bronchiale con CD4+ e eosinofili  
+vs  
+BPCO - macrofagi e neutrofili
+
+DDx asma con broncostenosi di altra natura, spesso c'è un processo infiammatorio o infettivo di altra natura
+
++ broncocostrizione
++ ipertrofia ghiandole mucipare sottomucose
++ edema della parete bronchiale
++ ipetrofia della muscolatura liscia - lungo spasmo e mediatori chimici
+
+l'unica manifestazione rapidamente reversibile è la broncocostrizione, le altre si risolvono in settimane o giorni
+
++ dispnea
+  + sforzo
+  + eloquio
+  + a riposo
++ tosse
+  + secca e stizzosa nell'asma
+  + produttiva nella BPCO
++ sibili
+  + espiratori
+  + misti
+  + assenti con MV ridotto in forme gravi
++ tachipnea - non costante e non marcata
++ impiego muscoli accessori
++ movimenti toraco-addominali paradossi - forme gravi
++ polso paradosso - assente nelle forme lievi e nell'imminente arresto respiratorio
++ pz agitato o soporoso al progredire della patologia
+
+la valutazione è standard ma comprende EGA, SaO<sub>2</sub> e in teoria anche le prove spirometriche
+
+se non si riesce ad eseguire correttamente un PEF si fa una valutazione approssimativa, per esempio facendolo parlare, prova della voce
+
+EGA nell'asma
+
++ fase iniziale - alcalosi respiratoria con ipocapnia per iperventilazione compensatoria
+PaO<sub>2</sub> diminuita, PaCO<sub>2</sub> diminuita pH normale o aumentato
++ acidosi respiratoria con PaCO<sub>2</sub> in aumento e pH in diminuzione
++ acidosi metabolica con accumulo di lattato e chetoni
+
+DDx
+
++ dispnea cardiogena
++ BPCO
++ embolia polmonare
++ anafilassi
++ ostruzione delle vie aeree superiori - pseudomembrane laringee, corpi estrenei, compressione da vasi o linfonodi, tumori
++ lesioni da inalazione
++ polmonite e bronchite
++ carcionide
++ pneumotorace
+
+linee guida GINA in 4 step per la classificazione della gravità dell'asma
+
+oltre ai parametri base possiamo aiutarci con la vigilanza, la postura e il polso paradosso
+
+segni di arresto
+
++ sonnolenza
++ confusione
++ movimento toraco-addominali
++ bradicardia
++ silenzio respiratorio
+
+Indicazione alla ventilazione meccanica
+
+ossigeno a tutti, tutti sono ipossiemici
+
+β<sub>2</sub> agonisti rapidi, salbutamolo, fenoterolo, meglio con nebulizzatore, in caso di dispnea estrema si usa salbutamolo
+in vena o adrenalina per aerosol (bambino) o in vena (adulto)
+
+corticosteroidi con metilprednisolone
+
+metilxantine (aminofillina) - l'effetto dilatatore è inferiore ai β<sub>2</sub> agonisti, ma hanno svariati effetti collaterali cardiaci
+
+nell'asma severo si utilizza la combinazione aggressiva dei farmaci sopra riportati
+
+BPCO
+----
+
++ bronchite asmatica
++ bronchite cronica
++ enfisema
+
+spesso questi parenti sono sarcopenici, il motivo principale è lo stato di infiammazione cronica
+
+ci sono vari sintomi molto aspecifici che marcano l'esordio delle riacutizzazioni
+
++ peggioramento della dispnea
++ espettorazione purulenta
++ aumento del volume dell'espettorato
++ aumento della tosse (DDx, infinite, soprattutto nei pazienti anziani è possibile la GERD, l'ACE Inibitore o la rinite allergica)
+
+la COPD porta a aumento di RV afterload, ipertrofia e in fine failure  
+l'aumento delle pressioni di RV e dell'iperinflazione porta a riduzione della gittata per disfunzione diastolica e infine a LV failure
+
+manifestazioni renali nel 25% dei casi  
+l'ipercapnia aumenta le resistenza vascolari renali, il riassorbimento tubilare di acqua e sodio e edema, spesso è associato
+a iperaldosteronismo secondario
+
+sistema nervoso  
+l'ipercapnia porta ad ipertensione endocranica con cefalea, nausea e tremori  
+l'ipossiemia può portare ad alterazioni neurocognitive con confusione, ansia, depressione e insonnia  
+l'ipossia associata a neurotossicità da nicotina e deficit nutrizionali porta a neuropatia periferica sensitiva
+
+malnutrizione e perdita di peso  
+è un fattore di rischio indipendente di mortalità  
+dipende da ridotta mobilità, dispepsia ma soprattutto flogosi sistemica con perdita della massa magra fino al 35%,
+si ha una precoce acidosi durante lo sforzo e dispnea
+
+i pazienti con COPD hanno una massa infinita di fattori di rischio per osteoporosi, che ha un impatto maggiore in questi pazienti
+per la gravità di una rottura vertebrale in queste persone
+
+la semeiotica di riacutizzazione è caratterizzata dalla comparsa di ipertermia, modificazione dell'escreato e accentuazione della dispnea
+con comparsa di respiro discinetico (rientranza inspiratoria paradossa della base toracica)  
+in caso di scompenso destro posso avere epatomegalia con reflusso epato-giugulare e ritmo di galoppo  
+ipercapnia e ipossiemia, deviazione assiale destra con Cor polmonare cronico, all'RX torace posso individuare abbassamento degli
+emidiaframmi, spazi intercostali allargati e orizzontali
+
+la spirometria è il gold standard con FEV1/FVC < .70 dopo broncodilatazione con FEV1 < di 80%
+
+la classificazione GOLD del 2011 della COPD si divide in 4 stadi basati su FEV1 e rapporto FEV1/FVC associato alla clinica
+
+encefalopatia respiratoria  
+grave complicanza speciamente nel tipo bronchitico, causata da una combinazione di ipossiemia, ipercapnia, poliglobulia,
+squilibri elettrolitici ed acido-base  
+flapping tremors, mioclonie, disturbi neurovegetativi, cefalea, irritabilità, turbe psichiche, disorientamento, stato confusionale, sonnolenza
+
+DDx
+
++ bronchiectasie
++ tbc
++ altre
+
+Trattamento
+
++ correggere ipossiemia
++ correggere acidosi
++ trattare o prevenire le complicazioni
++ possibilmente trattare processo di base
+
+l'ossigenoterapia va fatta a basso flusso, nel caso dell'alto flusso è possibile che diminuisca la ventilazione per rimozione dello stimolo ipossico
+e peggioramento del rapporto ventilazione/perfusione per diminuzione della vasocostrizione ipossica nelle zone ipossiemiche "sprecata"  
+spesso si usa la maschera di venturi e non altri metodi a pressione stagna
+
+in alcuni casi si può fare la NIV
+
+terapia dell'acidosi - normalmente non è diretta ma risolvendo le cause
+
+per la terapia si usano gli stessi farmaci dell'asma, in aggiunta possiamo usare anticolinergici come ipratropio (additiv al salbutamolo)  
+onnipresenti i corticosteroidi
+
+la terapia antibiotica è un must nelle riacutizzazioni che spesso vengono sovrainfettate o hanno come causa base un batterio  
+H.influentiae, S.pneumoniae, M.catarrhalis, S.aureus
+
++ levofloxacina
++ ciprofloxacina
++ claritromicina (intracellulare)
++ ceftriaxone
++ amoxicillina+clavulanico
++ moxifloxacina, meno usato per allungamento del QT, e agitazione psicomotoria
+
+il trattamento deve essere continuato almeno 7 giorni e rivalutato regolarmente
+
+prevenzione e trattamento
+
++ aritmie
+  + digitale - riduce Fc in caso di FA e tachicardia
+  + verapamil - tachicardia multifocale atriale
++ embolia polmonare - eparina
++ agitazione
+  + O2
+  + da evitare le benzodiazepine, possono deprimere la frequenza respiratoria
++ cor polmonare cronico
+  + O2
+  + digossina - inotropia su RV
+  + furosemide - possono dare alcalosi metabolica ipocloremica
+
+resurgency del muscolo nella medicina interna, la gente non sa che fare
