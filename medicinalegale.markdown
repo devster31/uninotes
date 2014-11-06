@@ -495,3 +495,48 @@ INPS
 invalidità o invalido pensionabile
 
 L. 222/84, articolo 1, articolo 2
+
+Legge sull'interruzione di gravidanza
+----
+
+definita legge assurda e necessaria
+
+non incentiva l'aborto, promuove la gravidanza responsabile
+
+l'interruzione di gravidanza è ammessa come terapeutica, la salute della madre ha maggiore priorità
+
+la differenziazione dell'interruzione di gravidanza tra primo trimestre e dopo
+
+la decisione della bontà della decisione di interruzione spetta in maniera assoluta alla donna
+
+nel primo trimestre serve "un serio pericolo" per la salute della donna
+
+dopo il primo trimestre occorre "un grave pericolo" per la salute o la vita della donna
+
+caso della donna con figlio anencefalico che ha portato a termine la gravidanza per la donazione degli organi
+
+non si può fare l'interruzione eugenetica, non è possibile la selezione genetica e non è possibile interrompere la gravidanza sulla
+base di un'anomalia genetica
+
+il compagno uomo non ha voce in capitolo e non è giusto che l'abbia secondo il gabrielli
+
+nella minorenne si fa autorizzare dal giudice, nella malata di mente si chiede al giudice tutelare o all'avente potestà
+
+norma sull'obiezione di coscienza - interruzione volontaria di gravidanza, procreazione medicalmente assistita, sperimentazione animale
+
+non può eseguire la procedura ma deve comunque seguire il caso
+
+sulla pillola non ci può essere obiezione di coscienza in quanto non viene considerato un metodo abortivo
+
+RU-486 metodo abortivo non meccanico, è obiettabile, non è obbligatorio prescriverlo per il medico
+
+Legge sulla procreazione medicalmente assistita
+----
+
+rapporti non protetti per almeno tot tempo senza concepimento, in teoria si può fare solo in coppia come terapia della sterilità  
+controversità della donna single
+
+divieto di clonazione - radiazione dall'albo ed ergastolo  
+divieto di creazione di chimere
+
+divieto di affitto dell'utero
