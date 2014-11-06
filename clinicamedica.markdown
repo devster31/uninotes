@@ -643,3 +643,111 @@ marker di rimodellamento osseo
 T score vs Z score, la differenza è tra il giovane adulto perfettamente sano e la media dei soggetti di pari sesso ed età
 
 con questi score si valuta il rischio di frattura e l'osteoporosi
+
+BPCO - Puccetti
+----
+
+lezione fondamentale per la terapia BPCO - link slidde
+
+#####Opzioni Terapeutiche
+
++ trattamento di BPCO stabile
++ riacutizzazioni
++ comorbidità
+
+######Stabile
+
++ smettere di fumare modifica la storia naturale della malattia
+  + uso di farmaci che sostituti della nicotina consentono di aumentare la durata dell'astinenza (sono tutti più efficaci del placebo)
+  + in tutti i pazienti affetti da BPCO l'attività fisica risulta benefica
++ nessun trattamento è disponibile per impedire il declino funzionale associato a BPCO
++ le vaccinazioni antiinfluenzale e antipneumococcica vanno offerte ai pazienti affetti in accordo alle indicazioni
++ con appropriata terapia antibiotica consente di alleviare i sintomi di BPCO e controllare meglio la malattia
+
+l'attiva assistenza del medico ed operatori consentono di mantenere la compliance e incoraggiare la terapia nel paziente
+
++ beta 2 ag lunga e breve durata di azione
++ anticolinergici a breve e lunga durata di azione
++ combinazioni dei due sopra
++ metilxantine
++ steroidi inalatori
++ combinazionie di beta2 + steroidi inalatori
++ steroidi sistemici
++ inibitori delle fosfodiesterasi4
+
++ i broncodilatatori costitiuscono i farmaci di prima scelta per il trattamento sintomatico della BPCO
++ i principali sono beta2 ag, anticolinergici, teofilline e associazioi
++ sia al bisogno che come terapia stabile
++ la scelta dipende sia dall'efficacia che dalla risposta personale come effetti collaterali
+
+da notare la differenza tra device inalatori e aerosol terapia, in particolare per formulazioni di combinazione non sempre disponbili e dosaggi
+non standard
+
+l'indicazione principale è l'uso di broncodilatatori a lunga durata di azione che sono maneggevoli ed efficaci (formoterolo, profilo particolare)
+questi farmaci riducono anche riacutizzazioni e ricoveri; rispetto all'aumento della dose l'inserimento della combinazione è più efficace
+e maneggevole
+
+il trattamento con steroidi inalatori migliora la qualità di vita e riduce le riacutizzazioni ma aumenta il rischio di polmonite (rischio infettivo),
+la sospensione del trattamento con steroidi può comportare il rischio di incorrere in riacutizzazioni
+
+l'aggiunta di tiotropio al trattamento regolare di combinazione sembra portare ulteriori benefici
+
+in pazienti con BPCO GOLD 3 o 4 aggiungiamo fosfodiesterasi romiluflast
+
+la teofillina è meno tollerata e meno efficace, è sconsigliata dove ci sono alternative migliori, somministrata a basse dosi riduce le riacutizzazioni
+ma non modifica la funzionalità respiratoria
+
++ terapia con alfa1-AT - solo per pazienti genetici
++ mucolitici - benefici limitati e possono risultare utili solo in pazienti selezionati; aumenta la secrezione ma non la cleareance
++ farmaci antitussivi - sconsigliati
++ vasodilatatori - ossido nitrico sconsigliato
++ la riabilitazione minima è di 6 settimane
+
+LTOT - ossigenoterapia a lungo termine migliora la sopravvivenza se associata a insufficienza respiratoria grave con ipossiemia a riposo,
+durata superiore a 15 ore al giorno  
+supporto ventilatorio - in pazienti selezionati con difficoltà ventilatorie
+
+la terapia in solo non è indicata quasi mai
+
+#######Riacutizzazione
+
+b stimolanti a breve durata in cronico hanno un effetto cardiovascolare sfavorevole, al contrario dei long acting che hanno una buona
+tranquillità vascolare
+
+betabloccanti cardioselettivi si usano tranquillamente in BPCO per il profilo favorevole
+
+ci sono molti farmaci che possono essere usati nonostante alcune controindicazioni relative
+
+un po' di diuretico in riacutizzazione va fatto per il miglioramento dell'effetto della BPCO sullo scompenso
+
+in queste riacutizzazioni
+
++ beta2 agonisti inalatori a breve durata associati o meno a anticolinergici a breve durata
++ cortisonico sistemico e/o antibiotico può ridurre la durata della convalescenza e migliorare VEMS e PaO<sub>2</sub>, spesso è
+possibile intervenire per prevenire le riacutizzazioni
+
+la valutazione di gravità delle riacutizzazioni si basa principalmente sulla clinica e su qualche dato obbiettivo
+
++ emogas
++ rx torace
++ ecg
++ emocromo
++ espettorato purulento
+
+inseriamo terapia ossigeno per raggiungere come valori terapeutici di 88-92 di saturazione, ossigenoterapia a basso flusso  
+la terapia cortisonica si fa per 10-14 giorni
+
+gli antibiotici vanno usati in presenza di aumento di dispnea, volume dell'espettorato e/o purulenza, la febbre spesso è mascherata dalla terapia
+cortisonica di base a lungo termine, va sempre finito il ciclo antibiotico, minimo 1 settimana
+
+il trattamento domiciliare delle riacutizzazioni di BPCO è un concetto estero, il ricovero dovrebbe essere effettuato solo in casi gravi
+
++ fallimento del trattamento
++ frequenti riacutizzazioni
++ età avanzati
++ nuovi segni e sintomi
++ BPCO grave
+
+la presenza di comorbidità NON modifica il trattamento (betabloccanti e glucocorticoidi in scompenso cardiaco e diabete)
+
+importante l'ordine di trattamento, non tutte le associazioni hanno la stessa efficacia
