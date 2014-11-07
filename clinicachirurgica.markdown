@@ -543,3 +543,61 @@ dopa agisce debolmente su beta1 cardiaci e recettori dopaminergici, isoprotereno
 acidosi → minore sensibilità dei recettori alfa arteriolo-capillari
 
 uso intelligente delle catecolamine
+
+microcircolo
+
++ costrizione attiva degli sfinteri
+  + caduta della PI, caduta dell'ossigenazione, anossia cellulare con ↑ ac. lattico e ↑ osmolarità
+  + aumento relativo della PO, passaggio di acqua dall'interstizio nel capillare, passaggio di acqua dall'intersitzio nelle cellule (↑ osmolarità)
++ rigonfiamento cellulare con modificazioni della pompa, passaggio di potassio e ac. lattico da cellula ad interstizio
+
+in acidosi si ha minore sensibilità dei recettori α arteriolo-capillari in particolare
+
+produzione di AS - inefficienza funzionale - perdita di tono
+
+gram + generalmente esotossine, gram - generalmente endotossine, virus, rickettsiae, plasmodi e grossa distinzione tra aerobi e anaerobi
+
+atteggiamento restrittivo vs liberal nelle trasfusioni, in molti casi il restrittivo ha maggior successo e si usa il cristalloide
+
+discorso dello shock settico, lui ci tiene
+
+cause predisponenti locali e generali, apparentemente si ha un aumento dello shock settico negli ultimi anni
+
+Endotossina/LPS - azione indiretta e diretta portano comunque a vasocostrizione
+
+l'adrenalina agendo sui recettori beta apre gli shunt artero-venosi e aumenta il flusso e la gittata cardiaca
+
+manca la deossigenazione del microcircolo, in caso di shock settico l'estrazione periferica di ossigeno è bassa per difetto del microcircolo
+
++ vasocostrizione
++ alterazione della permeabilità
++ favorente la coagulazione
+
+#####Terapia
+
++ shock emorragico
+  + reintegrazione volemica con emotrasfusioni o cristalloidi
+     + idroelettrolitica (ionico/acidobase/emodiluizione)
+     + colloidale (oncotica)
+     + sangue perdita > - 30% del volume ematico
+  + ripristino di normale emodinamica
+
+vari gradi di shock settico
+
++ SIRS (Systemic Inflammatory Response Syndrome)
++ sepsi (sirs da infezione)
++ shock settico
++ MODS
++ MOFS
+
+nelle varie fasi si passa da terapie puramente di supporto fino alla laparostomia (protesi)
+
+come terapia anti-infiammatoria si usano
+
++ FANS
++ inibitori COX-II
++ inibitori di 5-LOX
++ cortisonici
++ stabilizzanti delle mastcellule
++ antistaminici
++ proteina C ricombinante
