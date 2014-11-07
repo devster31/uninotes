@@ -1988,3 +1988,124 @@ prevenzione e trattamento
   + furosemide - possono dare alcalosi metabolica ipocloremica
 
 resurgency del muscolo nella medicina interna, la gente non sa che fare
+
+Lezione 15 - Pastoreli - Stroke, Ictus, Infarto e Management
+----
+
+le malattie cardiovascolari sono ovviamente malattie età-dipendenti, nell'uomo il rischio aumenta dai 50 anni, nelle donne aumenta
+sensibilmente oltre i 75 anni
+
+in generale le malattie cardiovascolari sono la prima causa di ricovero ospedaliero
+
+l'ictus non è solo mortale ma soprattutto costosa ed altamente invalidante
+
+ictus=apoplessia=stroke
+
++ deficit neurologico focale
++ esordio improvviso
++ durata > 24h dei sintomi
++ natura cerebrovascolare
+
++ elevata incidenza ed importante causa di morbilità/mortalità
++ 10-12% dei cdecessi annui
++ 5% della popolazione > 65 anni va incontro ad ictus una volta nella vita
++ lievemente superiore negli uomini
+
+sostanziale stazionarietà delle recidive (non aumento del trend nel corso degli anni)
+
++ prima causa di invalidità nei paesi occidentali
++ 1/3 circa è a disabilità elevata = totalmente dipendenti
++ ad un anno dall'evento acuto (ischemico o emorragico)
+
+la definizione di RIA non esiste più, è diventato Minor Stroke, in quanto l'evento, per quando reversibile è comunque avvenuto
+
++ TIA
+  + esordio acuto
+  + sintomi e segni transitori < 24h
+  + completamente reversibili, spesso nell'arco di 1h
+  + c'è un alta probabilità di recidiva entro 1 settimana
+
+ischemico 80% - emorragico 20%
+
+il flusso cerebrale normale è circa 1L/min
+
+1. area ischemica irreversibile
+2. area ischemica critica
+3. area di penombra
+
+DDx tra ictus trombotico ed embolico
+
+DDx nell'ictus
+
++ ipoglicemia
++ avvelenamento da farmaci/intossicazione da altra roba
++ disturbi idro-elettrolitici
+
+in Italia, Toscana ci sono tutte ambulanze che sono centri mobili di rianimaizone
+
+il tempo-paziente inizia da quando c'è un dato certo dell'evento, tipo un testimone oculare, se avviene di notte ad esempio
+il tempo-paziente inizia da quando si è addormentato
+
+siena è un ospedale HUB, non uno spoke
+
+8D della sopravvivenza e del recupero
+
++ Detection - individuare sintomi
+  + anamnesi telefonica
+  + esordio temporale
+  + identificare segni o sintomi lievi spesso ignorati
++ Dispatch
+  + sospetto ictus < 3h
+  + sempre codice giallo
++ Delivery
+  + codice rosso non ha tempo di attesa
++ Door - ingresso al triage
++ Data - valutazione in DEA e TC
++ Decision - scelta terapia
++ Drug - infusione
++ Disposition - ammissione in terapia intensiva
+
+Cincinnati Prehospital Stroke Evaluation - specificità dell'85%
+
+una delle prime cose da valutare sono i criteri di inclusione/esclusione per la trombolisi  
+esclusione
+
++ ora di esorido non chiara
++ età > 80 anni
++ troppo grave o troppo lieve
++ ictus ischemico recente
++ grave trauma cranico
++ intervento chirurgico entro 3 mesi
++ puntura lombare entro 7 gg
++ parto entro 1 mese
++ storia di emorragia
+
+I.O.T tempestiva e S.I.R (sequenza rapida intubazione)
+
+monitor ECG + saturimetro + glicostick + lab
+
+rivalutazione periodica
+
+ABCDE circa 2 minuti
+
+anamnesi in 4 domande rapide, l'anamnesi accurata è sempre dopo la stabilizzazione del paziente
+
+è una diagnosi immancabile con la TC ed i tempi giusti, non è accettabile un faillimento diagnostico
+
+TIA vs Stroke è una diagnosi clinica principalmente, adesso RM e TC possono essere usate per DDx
+
+ICH - intraparenchimal hemorrage vs SAH - subarachnoideal hemorrage
+
+TC con contrasto o RM con diffusione per definire la zona di penombra ischemica in maniera precisa
+
+ictus ischemico
+
++ trombotico
++ embolico
++ lacunare
+
+NIH stroke scale (NIHSS)
+
++ correlato con volume infarto
++ clinica ictus
++ rischio di emorragia post trombolisi
