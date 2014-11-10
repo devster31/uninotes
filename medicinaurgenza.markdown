@@ -2221,3 +2221,161 @@ anche in questi casi la variazione non deve essere brusca e non deve superare 1 
 somministrazione di furosemide in caso di volerai espansa
 
 fondamentale il controllo di sodiemia e potassiemia ogni 2 ore
+
+###Iperpotassiemia
+
+potassio sierico > 5.5 mEq/l
+
++ aumentato rilascio di potassio dalle cellule
+  + emolisi intramuscolare grave
+  + acidosi metabolica
+  + insulina in infusione rapida o deficit di insulina/iperglicemia/iperosmolarità
+  + blocco beta-adrenergico
+  + ipertermia maligna
+  + aumento del catabolismo tissutale
+  + esercizio fisico molto intenso in soggetti fragili
++ ridotta escrezione renale
+  + insufficienza renale
+  + ipoaldosteronismo
+  + deplezione del volume circolante effettivo
+  + acidosi tubulare tipo 1
+  + alterazione tubolare selettiva al potassio
++ pseudoiperpotassiemia da citolisi
+
+#####Segni e sintomi
+
+confusione mentale, deficit neurologici, debolezza neuromuscolare
+
+aritmie e arresto cardiaco
+
+all'ECG si rilevano onde T alte (a tenda), appuntite, simmetriche con QT accorciato, depressione del segmento ST (> 5.5 - 6 mEq/l)
+
+#####Trattamento
+
+si sospendono le infusioni e si usa il Cloruro di Calcio al 10% 5-10 ml
+
+far rientrare il potassio all'interno delle cellule con liquidi e diuretici, resine a scambio cationico (solfonato di polistirene sodico) o dialisi d'urgenza
+
+###Ipopotassiemia
+
+potassio < 3.5 mEq/l
+
++ carenza di apporto (anoressia, cachessia)
++ perdite digestive (vomito, diarree, bypass, malattia da lassativi)
++ perdite renali
+  + ipercorticosurrenalismo
+  + nefropatie
+  + medicinali
+  + alcalosi metabolica
++ chetoacidosi diabetica in correzione
++ dialisi
+
+#####Segni e Sintomi
+
+debolezza, mialgie, rabdomiolisi, fascicolazioni, disartria, iporeflessia, crampi
+
+poliuria, aumentata produzione di ammonio
+
+ridotta motilità intestinale, stipsi ed ileo paralitico
+
+astenia, depressione, confusione mentale ed encefalopatia
+
+all'ECG si trova sottolivellamento ST, appiattimento onde T, aritmie atriali con comparsa di onde U, TV a torsione di punta, FV, allungamento del QT
+
+#####Trattamento
+
+somministrazione di cloruro di potassio ev in soluzione fisiologica, brucia tantissimo a velocità di infusione elevate (massimo KCl 20 mEq ogni 250 cc di fisiologica)
+
+###Ipercalcemia
+
+calcemia > 12-15 mg/dl è severa
+
++ paraneoplastica
+  + fattori amorali circolanti-HHM
+  + metastasi ossee
+  + neoplasie ematologiche
+  + fattori amorali circolanti-HHM
+  + metastasi ossee
+  + neoplasie ematologiche
++ iperpara primitivo
++ correlate alle paratiroidi (terapia con litio o ipercalcemia ipocalciurica familiare)
++ legata a vit. D (intossicazione, ) (intossicazione, sarcoidosi, altre patologie granulomatose)
++ associata ad elevato turnover osseo
++ iatrogena
++ associata ad insufficienza renale
++ latte-alcali
+
+#####Segni e Sintomi
+
+disidratazione con polidipsia, nefrocalcinosiiata ad insufficienza renale
+
+disturbi GI ileo paralitico con dolore addominale molto simile ad addome acuto
+
+all'ECG si trova accorciamento del QT con scomparsa progressiva del tratto ST, la T si fonde piano con il QRS, allungamento del PR, bradiaritmie, blocco A-V
+
+#####Trattamento
+
++ reidratazione con fisiologica 2-4 lt al giorno
++ farmaci per ridurre la calcemia
+  + furosemide 2-3 f/die
+  + bisfosfonati
+  + metilprednisolone
++ controllare il bilancio idrico e monitorare K, Na, Mg ogni 6 ore nelle prime 48h
++ mai somministrare tiazidici
+
+###Ipocalcemia
+
+DDx immediata tra ipocalcemia vs pseudoipocalcemia da ipoalbuminemia; se non abbiamo il valore del Ca ionizzato va corretto il valore di calcemia con la formula  
+calcio corretto (mg/dl) = calcio totale (mg/dl) + 0.8 x [4 - albumina sierica (g/dl)]
+
+con l'esecuzione routinaria di emogas ai pazienti la DDx si è semplificata
+
++ alcalosi
++ ipomagnesemia
++ iper-ipopotassiemia
++ sepsi
++ emotrasfusioni (utilizzo di citrato per la conservazione degli emoderivati)
++ farmaci
++ ridotta mobilizzazione
++ hungry bone syndrome
+
+#####Segni e sintomi
+
+tetania, spasmi
+
+all'ECG allungamento del tratto QT, T piccola e talora invertita
+
+BAV 2:1 o completi nei bambini
+
+occasionalmente tachicardie sopraventricolari
+
+Lezione 16 - Gonnelli - Tamponamento Cardiaco
+----
+
+quadro clinico dato da versamento epicardio di entità tale e/o instauratosi a velocità tale da determinare un'ostruzione all'afflusso di sangue ai ventricoli
+
+sospettato in pazienti con recente diagnosi di scompenso o dati in anamnesi sospetti, o in caso di segni/sintomi sospetti
+
+conferma ecografia con immediata pericardiocentesi
+
+#####Clinica
+
++ dispnea ingravescente
++ oppressione toracica, raramente dolore pericarditico
++ ridotta gittata
++ sudorazione, ansia, ridotta pressione
++ shock sistmic
++ congestione venosa sistemica con turgore giugulare e fegato da stasi
++ toni cardiaci ovattati e lontani, itto non palpabile
+
+all'ECG riduzione di ampiezza dei voltaggi, alternanza elettrica
+
+il segno più tipico è però il polso paradosso - riduzione della pressione in inspirazione molto più marcata della norma
+
+ecografia nel tamponamento - collasso atriale destro, collasso diastolico ventricolare destro
+
+inclinazione di 30 gradi rispetto alla cute,18 gauge ingresso sottoxifoideo, fatta comunque sotto guida ecocardiografica
+
+#####Trattamento
+
+non devo usare nitrati, morfina, diuretico, posso invece usare i liquidi per mantenere una quantità di volume circolante da opporsi alla pressione di tamponamento
