@@ -2109,3 +2109,115 @@ NIH stroke scale (NIHSS)
 + correlato con volume infarto
 + clinica ictus
 + rischio di emorragia post trombolisi
+
+Lezione 16 - Gonnelli - Squilibri elettrolitici
+----
+
+2 Na<sup>+</sup> (mEq/l) + (glicemia / 18) = osmolarità plasmatica
+
+#####Iponatriemia
+
+Na < 135 mmol/l
+
++ volume extracellulare ridotto
+  + perdita renale di sodio
+     + diuretici ansa o diuresi osmotica
+     + insufficienza surrenalica
+     + nefropatia sodiodisperdente
+     + acidosi tubulare, vomito, SNG
+     + chetonuria
+  + perdita extrarenale di sodio
+     + diarrea, vmoito, emorragia, sudorazione
+     + ustioni estese
+     + sequestro nel terzo spazio
++ volume extracellulare aumentato
+  + scopenso cardiaco
+  + cirrosi epatica
+  + IRA o IRC
+  + gravidanza
+  + sindrome nefrosica
++ volume cellulare normale
+  + inadeguato reintegro
+     + SIADH (neopasie polmonari, mediastiniche, pancreatiche, alterazioni del SNC, farmaci tipo litio)
+     + ipotiroidismo
+     + diuretici tiazidici
+     + insufficienza surrenalica
+
+distinzione in durata (< 48h o > 48h) e gravità in base al valore
+
+caso clinico particolare con iponatriemia acuta grave e [mielinolisi centrale](http://en.wikipedia.org/wiki/Central_pontine_myelinolysis)
+
+Acuta
+
++ postoperativa
++ polidipsia
++ tiazidici
++ preparazione della colonscopia
++ ciclofosfamide
++ ossitocina
++ MDMA, XTC
+
+cause di iponatriemie non ipotoniche
+
++ sostanze osmotiche che aumentano osmolalità del sangue (glucosio, mannitolo) con siero isotonico o ipertonico
++ sostanze "ineffective" osmotiche che aumentano l'osmolalità sanguigna ma non causano iponatriemia (urea, alcol) con siero isogonico o iperosomolare
++ artefatti di laboratorio con siero isogonico (trigliceridi, colesterolo e proteine oltre a gammpoatie monoclonali)
+
+######Clinica
+
+da modesto malessere generalizzato a sintomatologia GI e sintomatologia neurologica  
+le condizioni possono aggravarsi fino all'edema cerebrale che causa convulsioni, coma, erniazione tensoriale, depressione dei centri respiratorisostanze "ineffective" osmotiche che aumentano l'osmolalità sanguigna ma non causano iponatriemia (urea, alcol) con siero isogonico o iperosomolare
++ artefatti di laboratorio con siero isogonico (trigliceridi, colesterolo e proteine oltre a gammpoatie monoclonali)
+
+#####Clinica
+
+da modesto malessere generalizzato a sintomatologia GI e sintomatologia neurologica  
+le condizioni possono aggravarsi fino all'edema cerebrale che causa convulsioni, coma, erniazione tensoriale, depressione dei centri respiratori  
+nei casi in cui l'iponatriemia si instaura in meno di 48h si possono instaurare danni neurologici irreversibili
+
+DDx
+
++ osmolarità urinaria (< 100 mmol/l o > 100 mmol/l)
++ sodio urinario (< 30 mmol/l o > 30 mmol/l)
+
+#####Trattamento
+
+sospensione di soluzioni ipotoniche e somministrazione di soluzioni ipertoniche al 3% per 20 minuti con controllo dopo 20 minuti  
+se l'aumento è di 5 mmol/l si sospende l'ipertonica e si usa la fisiologica, se non aumenta si somministra l'ipertonica in infusione continua fino a 130 mmol/l
+o alla risoluzione dei sintomi
+
+nei pazienti con aumentato volume extracellulare valutare l'uso di antagonisti della vasopressina
+
+nei pazienti con SIADH si fa restrizione di fluidi in combinazione con una bassa dose di diuretici dell'ansa e NaCl per via orale, in aggiunta si possono usare
+demeclociclina o litio in caso di iponatriemia moderata o Tolvaptan che agisce sul recettore V2 del dotto collettore in caso di iponatriemia severa  
+è stato valutato l'uso di Tolvaptan in casi di scompenso cardiaco o cirrosi oltre che nella neurorianimazione in caso di interventi di neurochirurgia
+
+Limitazioni fondamentali
+
+la correzione deve essere lenta, mai superare l'aumento di 0.5 mEq/l/h fino ad un massimo di 10 mEq/l nelle prime 24 ore e di 8 mEq/l nelle successive 24 ore  
+se la correzione dell'iponatriemia avviene più rapidamente di quanto l'encefalo possa recuperare soluti la maggiore osmolarità plasmatica può danneggiare l'encefalo
+provocando una mielinolisi pontina centrale o extrapontina
+
+###Ipernatriemia
+
+Na > 145 mEq/l
+
++ ipovolemica - disidratazione ipertonica
+  + renale
+     + diuresi osmotica in presenza di diabete scompensato
+     + diabete insipido
+  + extrarenale
++ iatrogena
+
+sete astenia confusione mentale e coma sono i sintomi più comuni
+
+vanno valutate glicemia, azotemia, calcemia, potassiemia
+
+#####Trattamento
+
+sospensione delle infusioni di soluzioni ipertoniche (periven, in generale soluzioni alimentari intravenose)  
+somministrazioni di soluzioni di NaCl ipotoniche (0.45% fino a 0.2%), glucoside al 5%  
+anche in questi casi la variazione non deve essere brusca e non deve superare 1 mEq/l se insorta in modo acuto e 0.5 mEq/l in caso cronico fino a valori di 145-150 mEq/l  
+somministrazione di furosemide in caso di volerai espansa
+
+fondamentale il controllo di sodiemia e potassiemia ogni 2 ore
