@@ -751,3 +751,10 @@ il trattamento domiciliare delle riacutizzazioni di BPCO è un concetto estero, 
 la presenza di comorbidità NON modifica il trattamento (betabloccanti e glucocorticoidi in scompenso cardiaco e diabete)
 
 importante l'ordine di trattamento, non tutte le associazioni hanno la stessa efficacia
+
+Autoimmuni e Artrite Reumatoide - Auteri
+----
+
+T helper nella membrana sinoviale nella patogenesi dell'artrite reumatoide
+
+antimalarici, sulfalasazina, sali d'oro
