@@ -601,3 +601,74 @@ come terapia anti-infiammatoria si usano
 + stabilizzanti delle mastcellule
 + antistaminici
 + proteina C ricombinante
+
+Vie Biliari
+----
+
++ intraepatiche
++ extraepatiche
+  + principali
+     + dotto epatico dx e sx
+     + dotto epatico comune
+     + coledoco
+  + accessorie
+     + colecisti
+     + dotto cistico
+
+triangolo di Calot - a sx delimitato da dotto epatico comune e a dx dal dotto cistico
+
+triangolo epatocolecistico - triangolo allungato, con il prolungamento dei limiti del triangolo di Calot
+
+la pancreatite acuta è la più grave complicanza della calcolosi della colecisti, adesso è anche complicanza dell'endoscopia
+
+calcolosi biliare, originaria dalla colecisti quasi sempre
+
++ certi
+  + razza
+  + età
+  + sess
+  + obesità (dieta ipercalorica-iperlipidica)
+  + cirrosi
++ probabili
+  + diabete mellito
+  + iperlipoproteinemie
+  + terapia estrogenica
++ possibili
+  + chirurgia gastrica
+  + fibrosi cistica
+
+ci sono varie terapie clinico-farmacologiche e dietetiche per il management della calcolosi della colecisti, come ad esempio alcuni farmaci che sciolgono la bile
+(acido chenodesossicolico)
+
+triangolo di Amirand e Small
+
+composizione dei calcoli
+
++ calcoli di colesterolo
+  + misti - sali di calcio, sali biliari, proteine, acidi grassi, fosfolipidi, sono lisci e sfaccettati, duri e di colore cereo o verdastro
+  + puri - rari perché si trasformano rapidamente in misti
+
+il dolore biliare è viscerale puro che solamente dopo diventa somatico, localizzato in ipocondrio destro e regione sottoscapolare, alla spalla, alla base del collo
+omolaterale se viene coinvolto il nervo frenico
+
+RX diretta dell'addome, scarso impiego nella patologia biliare, in quanto identifica solo calcoli calcifici, la maggior parte dei calcoli è invece radiotrasparente,
+prevalentemente colesteroloi, la maggior parte dei calcoli è invece radiotrasparente,
+prevalentemente colesterolo, trova ancora indicazione nella diagnosi delle complicanze della colecistite cronica  
+in alternativa si usava la colecistografia, con mezzo di contrasto  
+ulteriormente sostituita dalla colangiografia venosa, che veniva fatta comunque con mezzo di contrasto potenzialmente nefrotossico o allergico  
+l'ultima iterazione è la colangiografia retrograda ERCP ([Endoscopic retrograde cholangiopancreatography](http://en.wikipedia.org/wiki/Endoscopic_retrograde_cholangiopancreatography))
+
+cateteri di Fogart, per l'estrazione dei calcoli dopo la coledocotomia, la rimozione dei calcoli può essere difficile sia per la posizione, sia per l'accessibilità, sia per lo strumento  
+per esempio un calcolo vicino ala papilla è difficilmente rimovibile
+
+cestello di Dormia era uno strumento simile molto più antiquato anche questo per la rimozione dei calcoli dalle vie biliari
+
+esistono anche dei calcoli che si riescono ad estrarre con questi strumenti, in questi casi si deve aprire il duodeno
+
+colecistectomia → coledocotomia → coledocolitotomia → duodenotomia → sfinterotomia → papilloplastica → colangiografia intraoperatoria di controllo
+
+con l'avvento della laparoscopia l'intervento si è diviso in 2 parti: una chirurgica per la colecistectomia e una endoscopica per la pulizia delle vie biliari
+
+il problema di competenza nasce coi tumori, dove l'endoscopista può effettuare solo terapia pagliativa con protesi ma non rimozione della massa  
+in caso non si possano mettere protesi va fatto un drenaggio biliare previa colangiografia transaddominoepatica PTC ([Percutaneous transhepatic cholangiography
+](http://en.wikipedia.org/wiki/Percutaneous_transhepatic_cholangiography))
