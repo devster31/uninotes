@@ -540,3 +540,83 @@ divieto di clonazione - radiazione dall'albo ed ergastolo
 divieto di creazione di chimere
 
 divieto di affitto dell'utero
+
+Lezione 12 - Coluccia - Violenza Sessuale e valutazione clinica a fini forensi
+----
+
+la salute e il benessere della paziente è più importante degli aspetti forensi della situazione
+
++ l'esame fisico deve essere completo, necessariamente intrusivo e lungo per evitare eoni multiple, va effettuata una valutazione medica e raccolta di
+prove medico-legali contemporaneamente
++ le procedure devono essere precedute da una accurata spiegazione e consenso informato
++ è consigliabile l'uso di un formulario di esame standard
++ la confutazione delle prove è molto facile e come tare vanno rispettate le procedure di raccolta e l'accuratezza nella procedura
+
+l'accoglienza è fondamentale, la riservatezza, l'atteggiamento e le spiegazioni sono utili a migliorare lo stato mentale della paziente
+
+le informazioni che riferisce la vittima sono fondamentali sia per il procedimento giudiziario sia per la valutazione della probabile condizione
+mentale della vittima, oltre i sintomi ci sono anche dei segni di distress mentale che dobbiamo riconoscere e segnalare, la sintomatologia
+riferita è generalmente fondamentale sia per la cura sia per l'analisi forense
+
+l'esame obbiettivo deve essere top to toe, ci deve essere una valutazione sistemica a tappe di tutto l'esterno del corpo
+
++ stato generale, segni vitali, polsi, mani e unghie
++ braccia, avambracci, ascelle - segni di iniezione
++ faccia - otoscopio e tampone
++ gambe
++ addome
++ altro
+
+la descrizione delle lesioni è importante per la diagnosi - sono gli elementi sui quali si verrà interrogati dalla polizia
+
++ epoca della lesioni
++ meccanismo di produzione
++ forza richiesta
++ circostanze di provocamento
++ conseguenze
+
+attenzione a
+
++ consenso (finalità forensi e variabili culturali)
++ corretta identificazione
++ scala per la documentazione delle dimensioni delle lesioni
++ sicurezza della conservazione
+
+necessaria o quantomeno ottimale la documentazione ottimale delle lesioni
+
+esame genito-anale
+
++ esterno - con tampone vulvare prima dell'esame vero e proprio
++ visualizzazione con speculum riscaldato
++ regione anale, in posizione laterale
++ rettale solo in sospetto di corpo estraneo
++ proctoscopia
+
+il significato forense delle lesioni genitali è da valutare attentamente per consensualità o meno
+
+esami di laboratorio
+
++ ricerca spermatozoi
++ prelievi per colture vaginale + PCR clamydia
++ ricerca DNA - attenzione alla conservazione a basse temperature
+
+ci sono campioni inusuali come indumenti, lenzuoli, capelli, assorbenti, liquido di lavaggio orale, registrare informazioni su sede e procedura di raccolta
+
+cosa fondamentale è la CATENA DI CUSTODIA delle prove e spesso non è possibile un followup
+
++ Clamydia
++ Gonococco
+
+vanno fatte le profilassi per eventuali sospette infezioni batteriche o HIV
+
+Codice Rosa
+----
+
+codice specifico per persone che hanno subito violenza in generale  
+riguarda donne, anziani, bambini, disabili, immigrati ed omosessuali  
+comprende persone la cui violenza subita potrebbero non essere evidenti
+
+ci sono task force regionali che distribuiscono la risposta su un numero di persone maggiore
+
+1. riconoscimento delle diverse istituzioni
+2. smaltimento alle strutture di competenza
