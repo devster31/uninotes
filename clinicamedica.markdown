@@ -758,3 +758,47 @@ Autoimmuni e Artrite Reumatoide - Auteri
 T helper nella membrana sinoviale nella patogenesi dell'artrite reumatoide
 
 antimalarici, sulfalasazina, sali d'oro
+
+LES - Auteri
+----
+
+immunocomplessi e autoanticorpi sono la componente patogena più rilevante, ANA in particolare
+
+anti dsDNA nativo è il più specifico, riguarda Rugarli per il dettaglio degli anticorpi e link [Anti-Nuclear Antibody](http://en.wikipedia.org/wiki/Anti-nuclear_antibody)
+
+vasculite cutanea e fenomeno di Raynaud sono spesso
+
+caratteristicamente interarticolare vs sulle nocche come nella dermatomiosite, in alternativa direttamente articolare con segni simili all'artrite reumatoide e alterazione
+della pigmentazione cutanea
+
+pericardite sierofibrinosa è spesso uno dei sintomi di esordio  
+sullo stesso tema una delle manifestazioni è l'endocardite di Liebman-Sachs o endocardite verrucosa
+
+polmonite lupica - cronicizzazione con infiltrato alle basi, aspetto a nido d'ape alla HRTC  
+shrinking lung - sindrome restrittiva senza alterazioni parenchimali dovute all'innalzamento degli emidiaframmi (forse mipatia diaframmatica) si riscontra atelettasia basilare
+
+malattie neurologiche o neuropsichiatriche
+
+linfocitopenia è uno dei riscontri laboratoristi frequenti insieme a difetti dell'assetto coagulativo e piastrinopenia
+
+LAC, con PTT positivo, normalmente il rischio di questi pazienti non è emorragico puro ma ipercoagulativo in quanto si ha diminuita fibrinolisi e quindi il rischio è
+prevalentemente trombotico, tra i fattori più interessati c'è il fattore XII e le piastrine stesse
+
+[Lupus Nephritis](http://en.wikipedia.org/wiki/Lupus_nephritis)
+l'organo bersaglio più colpito è sicuramente  il rene con sindrome nefrosica e glomerulonefrite rapidamente progressiva  
+glomerilonefrite proliferativa diffusa  
+inspessimento delle anse capillari in corso di glomerulonefrite lupica  
+depositi dglomerulari di frazione C1q del complemento  
+ematuria, macro o micro non cambia, ma generalmente presente
+
+####Terapia
+
++ deltacortene/prednisone
++ medrol/metilprednisolone
++ deflazacort - minore effetto collaterale ma effetto al 70-90% del prednisone
+
+citostatici e immunosoppressori
+
+ciclosporina, isoniazide, metildopa, cloropromazina (che c'entrano sti farmaci??)
+
+andamento fluttuante della malattia
