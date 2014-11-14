@@ -2379,3 +2379,135 @@ inclinazione di 30 gradi rispetto alla cute,18 gauge ingresso sottoxifoideo, fat
 #####Trattamento
 
 non devo usare nitrati, morfina, diuretico, posso invece usare i liquidi per mantenere una quantità di volume circolante da opporsi alla pressione di tamponamento
+
+Lezione 17 - Neri - Dissezione dell'Aorta Toracica
+----
+
+l'istologia a ortica comprende 3 tuniche: intima, media e avventizia  
+la media è circa 1.2 mm con 20-30% di fibre elastiche, 5% di cellule muscolari lisce che producono i costituenti della media  
+le proteine microfibrillari di interconnessione nelle lamine elastiche spesso coinvolgono la microfibrillina (cromosoma 15)
+
+acute
+
++ dissezione
++ ulcere artiche
++ ematoma intramurale
+
+Dissezione Aortica
+
++ processo acuto rapidamente evolutivo
++ conseguente a lacerazione intimale
++ piano di clivaggio (falso lume) all'interno della media dell'aorta
++ "porta d'ingresso" (primary tear) o estesa lungo l'aorta per tratti più estesi
++ coinvolgimento di rami collaterali con possibile malperfusione
++ raramente coinvolge l'intera circonferenza
++ aorta indebolita con rischio di rottura o dilatazione secondaria
+
+l'interessamento è possibile in ogni parte dell'aorta per lunghezze variabili
+
+medionecrosi cistica aspecifica - sovvertimento delle lamelle di fibre elastiche
+
++ tipo A - coinvolgimento dell'aorta ascendente indipendentemente dall'origine, mortalità del 2% orario cumulativo
++ tipo B - coinvolgimento aorta distale
+
+vera incidenza sconosciuta, ma M:F 2-5:1  
+picco di età 50-55 anni, sotto i 40 con sindromi come Marfan o Ehlers-Danlos  
+ipertensione nell'85% dei pazienti
+
+altri fattori di rischio possono essere valvola a ortica bicuspide, coartazioni aortica, sindrome di Turner e malattie del tessuto connettivo varie
+
++ anomalie scheletriche (pectus excavatus, scoliosi), sono indicazioni di sindromi genetiche
++ aneurismi micotici
++ traumi toracici
++ arteriti (Takayasu, arterite a cellule giganti)
++ feocromocitoma, uso cocaina
++ post-chirurgia a cuore aperto / CEC
+
+Marfan
+
++ dominante, 15% sporatica
++ difetto di fibrillina, 15q
++ aneurismi artici o alterazioni del sistema cardiovascolare
++ dilatazione seni coronarici
++ coartazione aortica
++ dissezione aortica
++ alterazioni muscolo-scheletriche
++ sublussazione cristallino
++ ectasia durale
+
+Ehlers-Danlos
+
++ dominante
++ lesioni vascolari
++ disordini del tessuto connettivo
+
+ugula bifida, segno grave di alterazioni genetiche connettivo  
+[Loeys-Dietz Syndrome](http://en.wikipedia.org/wiki/Loeys%E2%80%93Dietz_syndrome)
+
++ morte improvvisa
+  + rottura a ortica fulminante
+  + tamponamento cardiaco
+  + aritmie
+  + stroke
+  + IAO massiva
+  + dissezione coronarica
++ dolore toracico brutale e improviso
++ shock emodinamico (IAO, tamponamento)
++ malperfusione
+  + coronarica
+  + TSA
+  + renale
+  + digestiva
+  + periferica
+
+distorsione delle cuspidi artiche con rigurgito aortico può causare insufficienza perfusoria  
+il tamponamento è un'altra complicanza abbastanza comune nel tipo A  
+coinvolgimento dei Branch Vessel  
+rischio di infarto del miocardio con coinvolgimento delle coronarie
+
++ shock
++ soffio da insufficienza aortica
++ pulso bisferiens
++ asimmetria polsi periferici
++ toni cardiaci attenuati
++ oligoanuria
++ segni ischemia cerebrale
++ segni ischemia miocardia
++ segni ischemia periferica/digestiva
++ paraplegia (rara)
+
+la diagnosi è essenzialmente radiografica, ma il sospetto va posto clinicamente con la presentazione e ECG, la diagnostica fondamentale è ECO ed TC/MRI
+
+DDx
+
++ infarto acuto miocardico
++ rottura aneurisma cronico/ulcera aortica
++ complicazione placca ATS aortica
++ infarto splenico
++ pancreatite acuta
++ embolia polmonare
++ pericardite / pleurite
++ complicanze della dissezione
+
+la malperfusione è dovuta da compressione del falso lume su vaso intatto, la lacerazione corrispondente all'uscita dell'arteria laterale invece
+in qualche modo protegge dalla malperfusione per la rimozione della compressione esterna
+
+#####Trattamento
+
++ supporto rianimatorio
++ controllo ipertensione
++ spesso non conviene l'anestesia né la sedazione (diminuzione delle resistenze periferiche)
++ trattamento del dolore
++ in caso di tipo A o B con rottura il trattamento è operatorio d'emergenza
++ in caso di tipo B il trattamento è medico e diventa chirurgico solo in caso di complicanze
+
+Ematoma Intramurale
+
+eziologia sconosciuta, localizzato nella parete a ortica ma manca il flusso nello spessore della parete e la lacerazione intimale (flap intimale)
+
+Lezione 17 - ignoto - Dolore Toracico
+----
+
+scarsa correlazione tra entità del malessere e patologia sottostante
+
+classificazione di DeBakey dell'aneurisma dissecante dell'aorta

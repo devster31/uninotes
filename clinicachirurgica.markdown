@@ -672,3 +672,30 @@ con l'avvento della laparoscopia l'intervento si è diviso in 2 parti: una chiru
 il problema di competenza nasce coi tumori, dove l'endoscopista può effettuare solo terapia pagliativa con protesi ma non rimozione della massa  
 in caso non si possano mettere protesi va fatto un drenaggio biliare previa colangiografia transaddominoepatica PTC ([Percutaneous transhepatic cholangiography
 ](http://en.wikipedia.org/wiki/Percutaneous_transhepatic_cholangiography))
+
+Complicanze delle vie biliari
+----
+
+il calcolo si comporta come corpo estraneo e provoca reazioni infiammatorie
+
+le complicanze si dividono in
+
++ colecisti
++ dotto biliare
++ coledoco
+
+gangrena della colecisti da microascessualizzazione batterica di parete - indicazione assoluta ed urgente all'intervento chirurgico
+
+aumento della permeabilità di parete - colecistite filtrante
+
+colecistite cronica è in fase pre-neoplastica
+
+fistola bilio-digestiva - crea problemi in quasi ogni caso eccetto nel caso di una fistola duodenale, perché si svuota e va a finire in un luogo che normalmente la contiene  
+in questi casi la complicanza è nel caso di un calcolo grande che si può bloccare sia nell'angolo del Treiz, sia a livello della valvola ileocecale, con occlusione biliare
+
+il calcolo nella valvola ileocecale si risolve con asportazione della colecisti, chiusura del duodeno e rimozione manuale del calcolo con eteronomia
+ma con taglio a monte di 20-30 cm, l'intestino a monte è normalmente dilatato e vanno evitati tagli nella zona
+
+nel colon si preferisce rimuovere anche il pezzo di colon interessato dalla fistola
+
+calcolosi nel gastroresecato è dovuta alla involontaria vagotomia tronculare associata all'intervento
