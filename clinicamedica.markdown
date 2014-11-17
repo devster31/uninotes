@@ -802,3 +802,76 @@ citostatici e immunosoppressori
 ciclosporina, isoniazide, metildopa, cloropromazina (che c'entrano sti farmaci??)
 
 andamento fluttuante della malattia
+
+Caso Clinico - osteoarticolari
+----
+
+osteoartrosi
+
+eburneazione - osteofitosi
+
+recupero delle posizioni corrette, ci sono varie terapie, una è (???) l'altra è la massoterapia
+
+non abuso degli antidolorifici FANS (diclofenac)
+
+signora 62
+
+gonalgia sx con idrarto spontaneo, FANS per 1 settimana + riposo, artrocentesi + infiltrazione di steroide  
+liquido sinoviale essudatizio con assenza di microcristalli di irato o pirofosfato di calcio  
+non ha niente di rilevante se non un modico aumento della VES  
+dopo 3 mesi compare dolore toracico accentuato dagli atti del respiro - E.O. sfregamento alla base sx  
+alla rx torace versamento pleurico basale  
+alla toracentesi essudato come artocentesi
+
++ infettiva
++ TBC
++ neoplastica
++ collagenopatia
+
+VES e PCR aumentate  
+ELF proteica - aumento alfa2 e diminuzione albumina  
+emocromo con moderata anemia normocromica  
+negativo per BK  
+negativo per citologico
+
+dopo altri 2 mesi  
+rigidità mattutina a polsi, alcune MCF e IFP edema dei tessuti periarticolari  
+rx mani con lievi irregolarità marginali delle prime falangi  
+rx del rachide e bacino non alterate
+
++ osteoartrosi delle mani
++ AR
++ connettivite o artrosinovite sieronegativa ad esordio tardivo
+
+reumatest (RAT) negativo  
+Waalen Rose negativo  
+ANA e ENA negativi
+
+buona soggettività ed uso di fans o antidolorifici molto saltuario  
+controlli oculistici semestrali per rischio di lesioni retiniche da idrossiclorochina e Sjogren secondario
+
+classificazione A.R. con criteri diagnostici su Rugarli  
+Ddx con Sarcoidosi con presentazione atipica
+
+donna 22 anni, viene per cefalea pulsante non responsi a terapia con fans da 15 gg, con astenia, affaticabilità e febbricola  
+anemia grave con Hb < 7.4  
+tc encefalo senza e con m.d.c. negativa per lesioni ischemiche o emorragiche acute, modico incremento ipofisario  
+diagnosi di LES a 18 anni, fotosensibilità con eritema maculo-papulare al volto e artralgie localizzate a polsi e ginocchia bilat.  
+ANA + / anti-fosfetidilserina IgG e IgM + / anticardiolipina-IgM + / andicoagulante Lupus-Like 1 +  
+capillaroscopia con sofferenza del microcircolo di natura autoimmune
+
+terapia con idrossiclorochina e corticosteroidi dalla diagnosi di LES  
+TVP femoro-poplitea sx in novembre con diagonsi di sindrome da anticorpi antifosfolipidi (anticardiolipina o LAC)  
+miocardite acuta accertata con RMN cardiaca (sospetto di miocardite autoimmune o indotta da immunodeficienza)  
+la paziente ha una conta dei bianchi bassa e dei neutrofili molto bassi
+
+diminuzione di aptoglobina e bilirubina, Hb 6,6, leucopenia 3500, piastrinopenia non marcata  
+marziale nella norma con VES e PCR nella norma, funzione renale, tiroidea ed epatica nella norma  
+indici di colelitiasi nella norma, enzimi di miocitonecrosi cardiaca nella norma, assetto coagulativi come TAO, esami urine nella norma
+
+C3 e C4 diminuiti con IgM aumentate, Coombs diretto positivo per IgG e C3 adesi alle emazie e indiretto positivo per Ab liberi nel siero  
+Ecocardio con lieve insufficienza mitralica con modesta falda di versamento pericardico
+
+tutti i problemi erano causati dall'anemia
+
+problemi per la gravidanza - eparina e aspirina in fase di induzione e durante la gravidanza
