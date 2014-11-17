@@ -2511,3 +2511,97 @@ Lezione 17 - ignoto - Dolore Toracico
 scarsa correlazione tra entità del malessere e patologia sottostante
 
 classificazione di DeBakey dell'aneurisma dissecante dell'aorta
+
+Lezione 18 - ignoto - il delirio
+----
+
+il coma - diminuzione o abolizione prolungata della coscienza e della reattività a stimoli sensoriali  
+reazioni di risveglio e di difesa - provocate da risposta cosciente a stimoli esterni o un riflesso profondo evocato da uno stimolo esterno intenso  
+nel coma mancano le reazioni di risveglio
+
++ ottundimento e sonnolenza - compromessa soprattutto la vigilanza
++ confusione - compromissione dello stato di coscienza per riduzione marcata dei contenuti, l'attività mentale è rallentata e incoerente, c'è disorientamento
++ delirio - ipertono simpatico, agitazione psicomotoria e allucinazioni
+
+delirio in ipossia o ipercapnia  
+il delirio è caratterizzato da cambiamenti improvvisi nella funzione mentale o di confusione acuta e livelli fluttuanti di coscienza
+
+stupor  
+coma vigile o mutismo acinetico - il tronco encefalico appare risparmiato, definito anche sindrome apallica, i sintomi sono simili alla decorticazione  
+stato di veglia non corrispondente alla consapevolezza  
+nel coma vigile si hanno risposte semi-automatiche, un ritmo sonno-veglia e alcuni riflessi, va fornita una dieta ipercalorica e impedire decubiti ed infezioni  
+esiste una fase di riabilitazione che sembra promettere un buon recupero ed un ulteriore miglioramento, si hanno iperfagia e bulimia con ipersessualità,
+come nell'ablazione dell'amigdala
+
+la coscienza ha come requisito l'integrità strutturale di organi e connessioni e in particolare pare fondamentale l'apporto della corteccia emisferica
+
+4 stadi del coma
+
++ coma lieve
+  + ipersonnia
+  + occhi verso l'alto, come sonno fisiologico
+  + ritenzione di feci ed urine
+  + riflessi pupillari, corneali, deglutizione ed ammiccamento
+  + EEG rallentato, ritmo gamma in lunghi treni, alta reattività
++ coma medio o parziale, secondo grado
+  + non risponde e non si alimenta
+  + bradicardia
+  + globi in posizione diretta
+  + arti cadono pesantemente
++ coma profondo o completo, terzo grado
+  + mancanza assoluta di risposta
+  + manifestazioni vegetative, ipertermia, respiro patologico, tachicardia, crisi decerebrate
+  + globi oculari immobili
+  + areflessia propriocettiva e spesso pupillare
+  + EEG monotono, appiattito o gravemente ritardato, senza periodicità e reattività
++ coma depassè o morte cerebrale
+  + improvvisa interruzione delle funzioni cerebrali
+
+i pazienti che non si risvegliano da uno stato vegetativo entro 30 giorni raramente si risvegliano
+
+sindrome da iperventilazione - spasmofilia
+
+Behavioral Emergencies - tipologia di intervento strettamente comportamentale che serve per la stabilizzazione del soggetto, l'effetto è desiderabile in varie
+patologie anche organiche e non di sola competenza psichiatrica, come ad esempio insufficienza respiratoria o dolore
+
+odd behavior vs behavioral emergency
+
+ci sono varie cause biologiche per emergenze comportamentali
+
++ alcohol/alzheimer
++ epilepsy/environment
++ insulin
++ opiates/overdose
++ uremia
++ trauma/tumors
++ infection
++ psychosis
++ shock/stroke/sepsis
+
+delirium da farmaci molto importante epidemiologicamente
+
++ corticosteroidi - dosaggi elevati entro 2 settimane da inizio del trattamento
++ oppioidi
++ cimetidina
++ anticolinergici
++ antistaminici
++ antiemetici
++ benzodiazepine - effetto paradosso, lunga emivita
++ aciclovir
++ chemioterapici
+
+terapia
+
++ benzodiazepine - da stare attenti alle reazioni paradosse, da usare solo in situazioni molto particolari
++ aloperidolo - possibile darne altissimi dosaggi
++ cloropromazina
++ promazina o levopromazina
++ neurolettici atipici come
+  + risperidone
+  + olanzapina
++ trazione - recentemente iniziato ad essere usato
++ clonidina - deliri da oppiacei
++ fisosticmina - delirio da anticolinergici
++ donezepil
++ ECT (caso resistente ad altre terapie)
++ immunoterapia sperimentale - neuroprotezione da IGF-1 e somatostatina
