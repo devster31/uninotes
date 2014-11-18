@@ -699,3 +699,111 @@ ma con taglio a monte di 20-30 cm, l'intestino a monte è normalmente dilatato e
 nel colon si preferisce rimuovere anche il pezzo di colon interessato dalla fistola
 
 calcolosi nel gastroresecato è dovuta alla involontaria vagotomia tronculare associata all'intervento
+
+Chirurgia d'Urgenza - Mariani
+----
+
++ Damage Control Surgery e chirurgia del trauma
++ Sindrome Compartimentale Addominale
++ Addome Acuto
+
+####Damage Control Surgery
+
+la DCS è un modo di pensare che usa principi standard ma con ottica diversa, c'è è una concezione e strategia diversa dalla chirurgia anatomica tradizionale
+
+paziente che richiede immediata diagnosi e trattamento per presente o potenziale danno, il team deve essere multidisciplinare, l'obbiettivo essenziale è l'abbattimento
+di mortalità e disabilità permanente
+
+30% prime ore dopo il trauma - morti evitabili, il 20% 1-2 settimane successive per sepsi o MOF  
+50% morte immediata per lesioni SNC, shock ipovolemico immediato
+
+trauma complesso - coinvolgimento contemporaneo massivo che richiede competenze plurispecialistiche
+
+l'emorragia è la causa più frequente e precoce di morte, causa circa l'80% dei decessi per incidente stradale  
+le procedure come BLS, A-TLS e emostasi temporanea sono molto efficaci
+
++ Advanced-Trauma Life Support (linee-guida e protocolli ABCDE, Primary Survey, percorso diagnostico-terapeutico)
++ Non Operative Management
++ DCS
+
+NOM - dall'introduzione del NOM c'è stata una grossa riduzione di interventi perché sono entrate nuove tecniche per il trattamento conservativo di varie lesioni addominali
+
+ci sono vari score che vengono usate per la gravità dell'intervento
+
++ AIS
++ ISS
++ AAST
++ PATI
+
+rivoluzionato il trattamento delle lesioni spleniche, il 65% può essere trattato conservativamente il 98% delle volte
+
++ chirurgia non anatomica ma fisiologica
++ ridurre i tempi operatori al minimo
++ controllo emorragie
++ controllo contaminazione
++ rianimazione aggressiva in ICU per evitare e risolvere ipotermia, acidosi e coagulopatia
++ trattamento definitivo
+
++ accesso
++ esposizione
++ emostasi
+
+acidosi, coagulopatia, ipertermia - triade killer
+
++ lesione tissutale specifica
++ emorragia (ipovolemia, ipossia, ipercapnia, acidosi, coagulopatia)
++ edema tissutale e sindromi compartimentali
+
+le tre componenti della triade sono causate sia dal trauma in sé, sia dagli interventi terapeutici che facciamo aggressivamente per cercare di riparare il danno
+
+l'ipotermia è derivata spesso dall'esposizione a bassa temperatura, reintegrazione volemica rapida, perdita di calore per shock emorragico
+(ipossia tissutale) al quale si aggiungono farmaci vasopressori e clampaggio artico che provocano acidosi metabolica
+
+la morte è spesso per squilibrio metabolico più che per mancata riparazione delle lesioni anatomiche - staged laparotomy
+
+il razionale è l'intervento per la stabilizzazione del paziente e non per la riparazione completa delle lesioni
+
+la decisione va presa in sala rossa (shock room), e va deciso in tempi rapidissimi, la sequenza della morte ha spesso inizio in sala radiologica,
+le indagini non strettamente legate al trattamento del paziente non vanno eseguite
+
+non deve mai essere effettuata reintegrazione volemica massiva, va fatta attenzione alla over-resuscitazione, e le soluzioni di infusione vanno riscaldate
+
++ laparotomia (Rio Branco)
++ fonte primaria di emorragia
++ perihepatic packing (sup and inf)
++ chiusura rapida di lesioni viscerali
++ resezioni immediate senza anastomosi
++ lesioni pancreatiche minori senza lesioni del dotto
++ pancreasectomie distali
++ NO alla pancreaticodiodenectomia (drainage)
++ chiusura addominale temporanea e rapida
+
+laparotomia abbreviata, primo step della DCS, mai eseguire ricostruzioni, di particolare importanza il controllo della contaminazione  
+rianimazione con correzione dell'ipotermia, non deve mai rimanere sotto 37℃ per oltre 4 ore, se persiste a meno di 35℃ è indicato il lavaggio
+pleurico cons soluzione riscaldate, se la temperatura del core è inferiore a 33℃ è indicata la dialisi con soluzioni riscaldate  
+correzione della coagulopatia, fino a 10 trasfusioni di GRC, piastrine fino a 100.000/mm<sup>3</sup> o PT <15  
+alla fine correzione dell'acidosi
+
+la chirurgia va eseguita 36 massimo 48 ore, la definitiva tra le 48 e le 72
+
+il successo della DCS dipende molto dalla scelta del paziente, specialmente in base ai parametri preoperatori
+
+ci sono una serie di parametri che se tutti positivi garantiscono virtualmente la morte del paziente, se parzialmente presenti indicano con certezza
+la DCS, con i presupposti sopra menzionati
+
++ Trauma Chiuso
++ Trauma Penetrante
+
+le complicanze: Sindrome Compartimentale Addominale
+
+edema viscerale, packing addominale (overpacking), ematoma retroperitoneale possono causare addome teso e dolente con aumento della resistenze
+respiratorie, ventilazione inadeguata e oligoanuria, la diagnosi si fa con pressione addominale superiore a 35 mmHg
+
++ ulcera peptica - inibitori di pompa
++ trombosi venosa - LMWH
++ ARDS - ventilazine assistita
++ infettive - antibiotico in profilassi (massimo 48h per il packing, prima del rischio infettivo)
+
+l'intervento non deve durare più di 1 ora in genere, la mortalità è a circa il 93% rispetto al 35%
+
+il concetto della DCS è potenzialmente applicabile a tutti i distretti corporei
