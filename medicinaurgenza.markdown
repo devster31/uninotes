@@ -2605,3 +2605,135 @@ terapia
 + donezepil
 + ECT (caso resistente ad altre terapie)
 + immunoterapia sperimentale - neuroprotezione da IGF-1 e somatostatina
+
+Lezione 19 - ALI-ARDS - Giomarelli
+----
+
++ ipossiemia refrattaria - saturazione inferiore al 100% con ossigeno puro
++ low compliance - aumento di volume non proporzionato all'aumento della pressione alveolare
++ heavy lung - peso superiore al kg
+
+distress - sensazione di angoscia che paziente prova quando cerca di respirare e non ci riesce, psicofisico in quanto simula il soffocamento
+
+storicamente la A stava per Adult, da quando è stata introdotta la NRDS, la versione neonatale, la A si è trasformata in Acute
+
+l'aumento del peso è dovuto a liquido negli alveoli, essenzialmente un edema polmonare
+
+differenza radiologica da edema di origine cardiogena o polmonare, l'ARDS ha generalmente un edema di origine polmonare primitiva  
+dovrebbe essere distinto dall'edema di origine cardiogena
+
+Lung Injury Score - score a 4 punti ma non correla con l'outcome del paziente
+
++ alveolar consolidation
++ ipossiemia con rapporto PaO2/FiO2
++ PEEP durante la ventilazione
++ Compliance in ml/cm H2O
+
+classificazione di Bernard
+
++ esordio acuto
++ infiltrati bilateriali in radiografia
++ wedge pressure ≤ a 18 - distingue dalla natura cardiogena o meno
++ PaO2/FiO2 < 300 per ALI o < 200 per ARDS
+
+la mortalità dell'ARDS non è cambiata quasi negli ultimi anni, solo negli ultimi anni c'è un barlume di miglioramento
+
+classificazione del 2011 - ARDS lieve/moderata/grave
+
++ PaO<sub>2</sub>/FiO<sub>2</sub> 200-300 per mild, ≤ 200 per moderate, ≤ 100 per severe
++ PEEP/CPAP >5 mild and moderate, >10 per severe
++ opacità bilaterali per lieve e moderata e almeno 3 quadranti per la severa
++ in aggiunta nella severa VEcorr > 10 l/min e CRS < 40 ml/cm H<sub>2</sub>O (elevato spazio morto)
+
+lo spazio morte è uno degli indicatori più precisi del rischio di decesso
+
+Eziologia
+
++ pneumonia (H1N1, virali) e aspirazione/inalazione
++ fat emboli
++ near-drowning
++ riperfusione
++ primary graft disfunction
++ SIRS/sepsi
++ trauma with shock
++ transfusions (TRALI)
+
+evoluzione con guarigione/fibrosi, l'altro outcome è la morte
+
++ fase essudativa acuta (circa 1 settimana)
++ danno anche capillare con trombosi capillare
++ fase subacuta proliferativa
++ ipossiemia persistente
++ ipercapnia
++ fibrosi alveolare
++ riduzione compliance polmonare
++ ipertensione polmonare - microtrombosi
++ fase cronica
++ obliterazione degli alveoli, bonchioli e capillari
++ fase di recupero
++ risoluzione dopo graduale miglioramento
+
+Trattamento e Terapia
+
++ surfattante - neonato, annegato
++ corticosteroidi - early, non raccomandato o late, raccomandato
++ acetilcisteina - non raccomandata
++ ketoconazolo e NO - non dati definitivi
++ ibuprofene - non raccomandato
++ alprostadil - non raccomandato
++ pentoxifillina - non raccomandato
++ antiendotossina o terapia anti-citochinica - non raccomandato
++ antibiotici profilattici - discutibili, soprattutto la decontaminazione del tratto digestivo
+
+il cardine terapeutico è la ventilazione meccanica
+
+curva biflessa per un polmone con ARDS, l'obbiettivo terapeutico dovrebbe essere la PEEP sulla flessura iniziale inferiore
+
+12-15 ml/kg Vt, 5-20 cmH<sub>2</sub>O PEEP
+il barotrauma era scontato, PCO<sub>2</sub> - alti volumi ed alte pressioni / PO<sub>2</sub> - PEEP
+la PEEP diminuiva la CO, si ultraventilava il paziente
+FiO2 > 40% provoca effetti tossici
+venivano introdotti preventivamente drenaggi toracici per il barotrauma
+
+all'aumento della PEEP si hanno effetti emodinamici di diminuzione di gittata e ritorno venoso al cuore
+
+Baby Lung - shunt per alterazione del rapporto ventilazione-perfusione (concetto di Baby Lung - Gattinone anni ottanta)  
+differenza di densità misurata in Hounsfield, con percentuali del polmone a densità sostanzialmente diverse con conseguenze molto diverse  
+nel baby lung si hanno 300-500 ml di aria nella parte di polmone sano con compliance normale, quindi il problema nell'ARDS è distinguere
+tra le due zone polmonari ed evitare il danneggiamento della parte sana con la ventilazione aggressiva
+
+il polmone in realtà è tutto malato e si comporta come una spugna, si vede molto di più nelle zone schiacciate sotto il peso del polmone, quindi
+cambia da prono a supino ma solo per effetto del peso
+
+il danno importante avveniva soprattutto in alveoli sani accanto ad alveoli collassati che durante lo strain della PEEP e delle tidal forces
+aumentano il danno per infiammazione e danno cellulare
+
+VILI - ventilation induced lung injury
+
+ECMO - extracorporeal membrane oxygenation  
+nasce il concetto di Lung Rest, praticamente sostituendosi alla funzione del polmone in maniera esterna
+
+Gattinoni iniziò ad utilizzare il supporto extracorporeo per ossigenare il paziente, l'altro per rimuovere la CO<sub>2</sub> e controllare la respirazione ed evitare
+high-volume/high-pressure mechanical ventilation con un basso flusso venoso di circolazione extracorporea e ossigenazione acneica con polmone naturale
+
+con la rimozione della CO<sub>2</sub> i target per la ventilazione erano di nuovo PCO<sub>2</sub> e PO<sub>2</sub> normali
+
+ipercapnia permissiva, e acidosi respiratoria, devono essere tenute sotto controllo
+
+adesso si ventila tollerando PAO<sub>2</sub> bassa e PACO2 alta, PEEP accettabile e volumi correnti bassi  
+alla fine però la sofferenza tissutale è il lattato prodotto dai tessuti
+
+all'aumento degli atti respiratori devo stare attento alla PEEP intrinseca, come le patologie istruttive
+
+se con la ventilazione con la strategia di risparmio del polmone inizio circolazione extracorporea (trial CESAR) con centralizzazione del trattamento
+in un singolo ospedale, dimostrato aumento della sopravvivenza in questi pazienti
+
+il supporto respiratorio extracorporeo si divide in ECCO2<sub>2</sub>R e ECMO, con reinfusione del sangue, normalmente viene usato un ECMO
+veno-venoso invece del più fisiologico artero-venosi senza pompa ma con l'uso semplice del cuore come pompa
+
+l'utilizzo dell'artero-venoso spesso viene usato con problemi cardiaci o anche problemi cardiaci
+
+l'ECMO veno-venoso aumenta l'ossigenazione durante il passaggio in ossigeno, quindi non viene ossigenato ulteriormente nella zona di shunt e viene
+ossigenato leggermente nella zona ventilata, con una mistura finale accettabilmente ossigenata
+
+i parametri sono "quanto sangue tratto" e "ventilazione della macchina"
