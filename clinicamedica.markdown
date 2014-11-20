@@ -875,3 +875,33 @@ Ecocardio con lieve insufficienza mitralica con modesta falda di versamento peri
 tutti i problemi erano causati dall'anemia
 
 problemi per la gravidanza - eparina e aspirina in fase di induzione e durante la gravidanza
+
+Malattie Allergiche - Auteri
+----
+
+malattie allergiche sono caratterizzate da alterata reattività immunitaria ad agenti normalmente non nocivi  
+reazioni allergiche dell'apparato cardiocircolatorio nuova nozione, scoperta rente
+
+piante erbacee (urticacee, graminacee, composite), alberi ad alto fusto (olivo, betulla, quercia, cipresso), acari presenti nelle polveri domestiche
+(dermatophagoides), microfiti, derivati animali, alimenti (uovo, latte, merluzzo, pomodoro, pisello, fagiolo), punture di insetti
+
+mediatori derivati da mastcellule, PG e LT, derivati dall'acido arachidonico, aiutati da IgE e Th2
+
+distinzione tra reazioni tossiche e non tossiche nelle malattie allergiche alimentari  
+la tossicità è causata dall'ingestione di sostanze naturali ma tossiche (idiosincrasia), molto più simile ad una reazione avversa da farmaci
+
++ reazioni cutanee
++ prurito
++ urticaria
++ angioedema
+
+l'anafilassi si sviluppa in minuti od ore, comporta lo sviluppo di sintomi vari e di varia gravità
+
+caso clinico
+----
+
+26 anni, 4.8 emoglobina, terapia omeopatica, ricovero con 4.3, vegetariana  
+piastrinosi per carenza di ferro  
+il comportamento con Hb < 6 è comunque uguale indipendentemente dalle cause
+
+rischio cardiovascolare con uso cronico di alcuni antinfiammatori
