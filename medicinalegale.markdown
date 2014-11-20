@@ -620,3 +620,62 @@ ci sono task force regionali che distribuiscono la risposta su un numero di pers
 
 1. riconoscimento delle diverse istituzioni
 2. smaltimento alle strutture di competenza
+
+Certificazione di Morte e cambiamenti patologici nel cadavere
+----
+
+cerficato di accertamento della morte (certificato necroscopico), non si può procedere a nessuna procedura post-mortem altrimenti
+
+crescita di barba e capelli, espulsione del feto post-mortem
+
+in ospedale ogni medico è necroscopo, al di fuori ci sono dei medici delegati per l'accertamento della morte
+
+24 ore nella morte normale, 48 ore nella morte improvvisa
+
+osservazione con sensori di movimento, si può accorciare con segni di putrefazione  
+EEG + ECG continuamente piatti o segni della morte - segni di degradazione biologici  
+rigidità, decremento termico ed ipostasi/ipotonia
+
+mezzo grado nelle prime 4 ore, 1 grado per 4-6 ore poi fino ad uniformarsi a temperatura ambiente, mezzo grado nelle restanti
+
+nelle prime due ore si ha ipotonia, dopo inizia la rigidità (non definita in maniera precisa), con andamento cranio-caudale
+
+processi come saponazione, scheletrificazione, altri, da guardare nelle slide e negli appunti
+
+verifica degli indumenti se hanno significato particolare o altri (tipo orecchino, tatuaggio)
+
+elementi tanatologici  
+insetti, micro e macro fauna che possono distruggere il cadavere, l'altra distruzione base è il verme che cresce naturalmente  
+aspetto a testa di molo (larva di mosca)
+
+processi come saponazione, scheletrificazione
+
+derma untuoso e molliccio al di sotto della pelle che si scolla naturalmente con la morte
+
+processi come saponazione scheletrificazione
+
+epostasi in base al decubito
+
+ossificazione delle suture nella calotta cranica, in base alla scomparsa possiamo stabilire l'età
+
+dente per l'analisi del DNA
+
+autopsia bianca - morte elettrica (aritmia)
+
+tipo di accettazione di morte nei soggetti sottoposti a pratiche rianimatorie  
+le condizioni prescindono dalla cessazione del battito cardiaco, ma le lesioni encefaliche danno la cessazione del resto delle funzioni vitali, specialmente
+quando è interessato il tronco encefalico  
+in questi soggetti fino al 93 si poteva accertare la morte solo per il prelievo degli organi, previo "non dissenso" dei familiari  
+oggi invece l'accertamento di morte va fatto indipendentemente dalla necessità per il trapianto  
+neurologo + medico legale + anestesista
+
+in alternativa all'EEG si fa doppler transcranico, angio-TC
+
+problema nel tempo di morte per l'eventuale eredità
+
+oltre al certificato di morte serve il certificato di causa di morte, che può richiedere o meno un riscontro diagnostico  
+se c'è il sospetto di un reato deve essere avvertito il pubblico ministero che nominerà un medico esperto per fare l'autopsia
+
+regolamento di polizia mortuaria (1990)  
+legge 1993 - stabilire cos'è la morte  
+regolamento 1994, modificato con legge 2008 - criteri per accertare la morte
