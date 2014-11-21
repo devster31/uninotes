@@ -2737,3 +2737,82 @@ l'ECMO veno-venoso aumenta l'ossigenazione durante il passaggio in ossigeno, qui
 ossigenato leggermente nella zona ventilata, con una mistura finale accettabilmente ossigenata
 
 i parametri sono "quanto sangue tratto" e "ventilazione della macchina"
+
+Lezione 20 - Volterrani - Addome Acuto
+----
+
+ileo spastico - ileo ipotonico - scompenso (dipendentemente dalla terapia)
+
+inspessimento delle anse intestinali da congestione venosa
+
+la diretta addome è indicata praticamente sempre (errore radiologico molto frequente)  
+la TCMS è indicata nello shock o con netto calo di Hb, generalmente nei casi di sospetto infarto intestinale, nel dolore addominale con diretta addome negativa
+(perforazioni coperte o diverticoli), nelle occlusioni (diagnosi di natura e sofferenza dell'ansa)
+
+tra le cause di inspessimento delle anse
+
++ emorragia
++ riperfusione
++ stasi venosa
++ flogosi
++ infarto
+
+in questi casi è indicata una TC e se il periodo d'attesa è breve l'impatto diagnostico è molto rilevante
+
+nei casi di occlusione vascolare è indicato l'intervento chirurgico d'urgenza
+
+nella TC ci sono
+
++ Ddx con NOMI
++ modesta sofferenza
+
+Whirl Sign - aspetto a rotazione più o meno marcata della radice del meso  
+distribuzione radiale con anse che sembrano partire da un singolo punto del meso nella parete addominale posteriore
+
+nelle versioni arteriose l'ansa è paper-thin
+
+la convergenza del messo non ci sarà mai nelle NOMI, non c'è una causa occlusiva
+
+computed tomography evaluation of NOMI, Volterrani, J Comput Assisted Tomography
+
+Colite Ischemica, la patogenesi è da ipoafflusso, possibilmente occlusiva, sempre osservata in fase di riperfusione e spesso la diagnosi viene fatta con endoscopia;
+la ripercussione però è spesso efficace (80-90% di risoluzioni spontanee)  
+la RM ci fa vedere leggermente meglio versamenti e sanguinamenti, rispetto alla TC, inoltre la risonanza ci permette di seguire l'evoluzione nel tempo
+
+spesso questi pazienti sono anziani, la TC non è un particolare problema
+
+la colite ischemica è quasi sempre benigna, si manifesta con inspessimento delle anse molto marcata e spesso scomparsa in diretta addome per basso
+contenuto di aria
+
+ematoma muscolare con dolore in aumento con palpazione, difesa addominale, uno dei punti dove c'è maggior frequenza di sanguinamenti
+in corso di terapia anticoagulante è lo psoas, quindi ematoma dello psoas
+
+ci sono poche patologie che sanguinano spontaneamente in peritoneo, normalmente adenomi o epatocarcinomi epatici, angiomiolipomi (rari)
+
+ematomi da anticoagulanti anche con INR nel range, antiaggreganti pure, possono causare ematomi anche senza influenza su INR
+
+ascesso da anticoagulanti trattato con drenaggio che ha successivamente perforato colon e vescica
+
+DDx NOMI vs occlusione, con whirl sign e raggiera
+
+in una femmina di 30 anni non si fa TC se non per patologie obiettivamente serie, va mantenuta la fertilità
+
+in pregresse coliche renali - litiasi con stick per sangue urine e ecotomografia, eventualmente con TC  
+l'eco è fondamentale per la decisione terapeutica, soprattutto il doppler ci aiuta nella valutazione del jet ureterale
+
+Torace Acuto non traumatico e non vascolare
+----
+
+ARDS, concetto anestesiologico, vedi lezione 19 di Anestesiologia - DAD, possibile per cause da mortali a non
+
+Dispnea, Tosse, Emottisi, Dolore sono i 4 principali, spesso legate a Febbre, mescolata a una qualsiasi delle precedenti
+
+Rx del torace, difficile interpretazione ma pieno di informazioni
+
+PNX, PNX iperteso, scarsi segni radiologici per distinguerlo dal PNX normale fino allo spostamento dei visceri
+
+con dolore toracico, laboratorio, ECG, Rx e TC nell'ordine  
+l'epidemiologia ci da problemi cardiaci in primis, seguiti da problemi muscolo-scheletrici fino all'8% circa di origine psichiatrica e 5% di origine polmonare,
+il 22% circa sono "altre"
+
+S. Mondor - trombosi delle vene mammarie
