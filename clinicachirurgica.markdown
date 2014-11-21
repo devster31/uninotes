@@ -807,3 +807,65 @@ respiratorie, ventilazione inadeguata e oligoanuria, la diagnosi si fa con press
 l'intervento non deve durare più di 1 ora in genere, la mortalità è a circa il 93% rispetto al 35%
 
 il concetto della DCS è potenzialmente applicabile a tutti i distretti corporei
+
+Addome Acuto - Mariani
+----
+
+masse addominale  
+ernia ombelicale, incisione, epigastrica, diastasi dei retti dell'addome, lipoma  
+bowel sounds, bruits, venous hum, friction rubs sono i rumori più importanti da distinguere  
+palpazione superficiale e profonda, tenderness, rebound tenderness e guarding = peritoneal irritation or distended viscous  
+anatomic correlation of abdominal pain, divided by types and quadrants, parietal, visceral or referred pain
+
++ sharp pain - biliary colic
++ tearing pain - aortic dissection pain
++ penetrating pain - pancreatitis
+
+H&P - complete Hx, vital signs, bleeding, shock, hypotension
+
+location, and time/type of onset sono fundamentali per la diagnosi  
+original source, trigger points, severity and time relationships (duration) are strongly correlated with evolution and progression, not always prognosis
+
+sempre considerare la sintomatologia ginecologica nella donna
+
+sintomatologia respiratoria spesso coinvolta, dispnea, SOB, wheezing, crackles, orthopnea  
+changes in appetite, weight, N/V, diet, bowel habits and stool changes  
+changes in urine color, polyuria, oliguria, nicturia, dysuria, urgency, stones
+
+dolore localizzato sopra o sotto l'ombelico (circa T12) in base all'organo coinvolto (piccolo intestino/grande intestino)  
+colica o crampiforme per dolore derivato dalla ostruzione acuta, e peristalsi
+
+il dolore parietale, condotto da fibre veloci, è sensibile a stimoli meccanici, compreso infezione/infiammazione
+
+sudden onset - perforated PU, gallstone, UC, aortic dissection, rupture AAA, SMA embolism, ruptured ectopic preg, twisted ovarian cyst
+insidious onset - acute appendicitis, acute pancreatitis
+
+age of onset defines a subset of possible or probable diagnosis
+
+dolore colico - occlusione SMA, acute gastritis, gastroenteritis, acute obstruction
+
++ fat
++ faeces
++ fluid
++ foetus
++ flatus
++ fatal growth
++ fibroid tumor
+
+normalmente non vengono valutati i 2 muscoli retti addominali  
+non ci devono essere separazioni tra i 2 retti sulla linea alba, altrimenti diastasi dei muscoli addominali  
+quando è presente
+
++ marked obesity
++ past pregnancy
++ increased intra-abdominal pressure
+
+normalmente non ci sono retroazioni addominali durante la respirazione
+
+peristalsi visibile, pulsazione e masse vanno valutate visivamente
+
++ umbilical hernia
++ sister Mary Joseph's nodule - secondary to CA (carcinosis) intra-abdominal
++ intra-abdominal pressure
+
+varie diagnosi in base alla location, vedi slide che è massiccia
