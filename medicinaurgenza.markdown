@@ -2816,3 +2816,181 @@ l'epidemiologia ci da problemi cardiaci in primis, seguiti da problemi muscolo-s
 il 22% circa sono "altre"
 
 S. Mondor - trombosi delle vene mammarie
+
+Lezione 21 - Scolletta - Fluidoterapia
+----
+
+la pressione positiva nella ventilazione meccanica inverte la normale espansione del polmone con diminuzione della pressione, questo diminuisce ritorno venoso
+e preload con diminuzione di stroke output
+
+EPPV vs CPAP è l'aggiunta di PEEP con mantenimento di pressione positiva continua nella seconda
+
+onda pressoria swinging dipende dalla riduzione del ritorno venoso in funzione dell'atto respiratorio, con (alti volumi, alta PEEP, alta pressione respiratoria)
+
+frequenza e ampiezza delle oscillazioni della SPV (Systolic Pressure Variation) dopo disconnessione dal respiratore meccanico, fino a 5-7 mmHg di Δup non sono
+indicativi di paziente con necessità di reintegro di liquido, Δdown invece è molto più attendibile come valore, oltre i 10 mmHg indica trattamento di fluidi  
+delta up e down vengono calcolati in base ad una linea di riferimento  
+SPV = Δup + Δdown
+
+PP = Pulse Pressure, PPV = Pulse Pressure Variation  
+PPV = PPmax - PPmin / [(PPmax - PPmin)/2] x 100
+
+i metodi di valutazione di questi due valori si basano sul PCR (Pulse Contour Method), calcolando l'area sotto la curva durante la sistole
+
+la curva di fluid responsiveness ci permettono di valutare la parte di preload-dependence o independence del soggetto e conseguentemente la necessità
+di infusione di liquidi o meno
+
+un onda con swinging normalmente denota la preload-dependence del paziente, almeno in quella fase, la SVV/PPV superiore al 13% normalmente è il cutoff
+
+PLR - Passive Leg Raising, è un test dinamico per la valutazione del preload e della sensibilità ai liquidi (prima del fluid challenge)  
+dopo 5 minuti valutare
+
++ MAP
++ HR
++ PPV
++ CO se > 15%, ovvero se l'incremento di CO è maggiore di
+
+ci sono segni ecocardiografici per la valutazione della risposta al test dinamico, come ad esempio EDA < 14 cm<sup>2</sup>  
+collasso IVC (vena cava inferiore) durante l'inspirazione nei pazienti non intubati, nella ventilazione meccanica la vena cava superiore è la più soggetta a collasso  
+quando le pareti tendono ad avvicinarsi durante la sistole (kissing walls) possiamo sospettare una diminuzione volumetrica
+
+questi indici sono validi solo in alcuni casi
+
++ non validi in fibrillazione atriale, e in altre aritmie
++ respiro spontaneo anche con incubazione (andamento sinusoidale legato a irregolarità dell'atto), solo sedato o curarizzato
++ bassa compliance del ventricolo destro
+
+(pitfalls, throwbacks)
+
+####Quali Fluidi
+
+regola del 3 per la distribuzione dei liquidi corporei  
+1/9 sangue, 2/9 interstizio (1/3 extravascolare)
+
+va stabilito con precisione dove vanno a finire i liquidi che infondiamo
+
++ glucosio in acqua - 1/3 intracellulare, 1/3 extravascolare, 1/3 intravascolare
++ cloruro di sodio (0,9% NaCl) - prevalentemente extravascolare, ma equamente tra interstizio e sangue
++ colloidi - spostata ancora di più nel letto vascolare, in quanto le molecole ad alto peso molecolare impediscono il libero scambio con l'interstizio
+
+colloidi vs cristalloidi
+
+cristalloide - sostanza capace di diffondersi facilmente attraverso una membrana semipermeabile ma senza potere oncotico  
+colloide - sostanza con potere oncotico, non si dissolve, non forma vere soluzioni e non attraversa le membrane
+
+Nome | Na | altri | Cl | Ph | Osm | effetto collaterale
+--- | --- | --- | --- | --- | --- | ---
+NaCl 0,9% | 154 | --- | 154 | 5.5 | 308 | acidosi ipercloremica
+ringer lattato | 132 | 5 K e 4 Ca, 29 Lattato | 132 | 6 | 280 | ipotonicità, iperlattatemia, ipercalcemia
+plasma lyte | 140 | 5 K, 3 Mg, 27 acetato, 23 gluconato | 98 | 5.4 | 294 | incremento di acetato e gluconato
+fisiologica | 140 | 4 K, HCO3 24, Ca 5, Mg 2 | 98-105 | 7.35-7.45 | 275-300 |
+
+gelatina anidra
+
+stato ipercoagulativo, acidosi ipercloremica (salina, no RL), edema interstiziale che porta a ridotta ossigenazione tissulare  
+solo il 25% rimane nel letto vascolare, il 75% finisce nell'interstizio, alta estrazione di ossigeno ma bassa diffusione (PO<sub>2</sub> mitocondriale 2-3 mmHg, vs normale 3-5 mmHg),
+chiamata ipossia citopatica
+
+Gelatine
+
+MW 5 - 50 kDa  
+sono polipeptidi polidispersi derivati dalla degradazione del collagene bovino  
+tendono a migrare nell'interstizio in caso di leakeage di membrana, come può succedere nello shock o in altre situazioni di damo endoteliale  
+non si accumulano nel sangue
+
+Destrani
+
+polimeri di glucosio polidispersi  
+elevato potere oncotico, proporzionato alle dimensione  
+eliminazione renale  
+rimangono nel compartimento vascolare in maniera dipendente della dimensioni  
+vengono usati per ridurre la viscosità ematica (emodiluizione acuta isovolemica)  
+come effetti avversi ci sono reazioni anafilattiche (più di gelatine e HES), disfunzione renale o IRA, aumentata tendenza al sanguinamento
+
+Amido Idrossietilico (HES)
+
+colloidi di sintesi, derivati dall'aminopectina  
+espandono il volume plasmatici legando l'acqua (20 - 30 ml/g)  
+prurito per accumulo a livello nervoso oltre a possibile shock anafilattico e interferiscono con la coagulazione, rischio di IRA leggermente inferiore  
+ritirati dal mercato per aumento significativo di insufficienza renale in pazienti settici e aumento della mortalità  
+adesso sono stati reintrodotti in sole 2 condizioni:
+
++ shock ipovolemico resistente
++ shock emorragico in attesa di trasfusione
+
+Albumina
+
+MW 69 kDa  
+a lungo considerata il gold standard  
+sempre indicata con ipoalbuminemia < 2 g/dl  
+
+Livelli di Emoglobina
+
+livelli da ipossia tissulare, sotto 5  
+paziente critico, sotto 12  
+normale sopra 12, entro 18
+
+le regole di trasfusione normalmente indicano sotto 7 come trasfusione sicura e sopra 10 quasi mai, all'interno di questo range:
+
++ trattamento di emorragia - problema fondamentale è l'aumento dei liquidi e preload
++ trattamento di anemia - trasfusione per miglioramento di DO<sub>2</sub>
+
+450 ml di cristalloide corrispondono a 150 ml di colloide e colloide:sangue = 1:1
+
+il trasporto migliore è a circa 24% ematocrito, ma l'utilizzo migliore di ossigeno è a circa 45%
+
+DO<sub>2</sub> = 330 ml/min/m2  
+se sono sotto al punto critico avrò aumento dei lattati e necessità di trasfusione di sangue  
+SvO<sub>2</sub> mi indica il punto in cui necessito di una trasfusione, la dipendenza da SaO<sub>2</sub>, Hb e CO mi fanno valutare la situazione
+
+Fluid Challenge
+
++ ipotensione arteriosa
++ oliguria
++ tachicardia
++ ipoperfusione
++ bassi valori di SvO<sub>2</sub> (alti valori di lattato)
+
+Regola TROL
+
++ Type - cristalloide vs colloide
++ Rate - velocità di infusione (500 ml in 30 minuti)
++ Objective - press art, HR, diuresi, ...
++ Limits - max PVC, max PAOP (12, massimo 18 mmHg), max LVEDV, SVV, ...
+
+mini fluid challenges, 50 ml in 3 minuti, per esempio, per avere una risposta più rapida
+
+fluid challenge - 200 ml colloide in 10 minuti - PVC rise < 3 mmHg in stroke volume
+
+Regola VIP - Ventilare, Infondere Perfondere
+
++ pressione arteriosa (vasopressori)
++ pompa cardiaca (inotropi)
+
+pressione vs inotropismo  
+in ordine discendente di selettività β e crescente di selettività α
+
++ isoprenalina
++ dobutamina
++ dopamina
++ adrenalina
++ noradrenalina
++ fenilefrina
+
+isotropi vs vasocostrittori vs vasodilatatori e combinazioni
+
+α - vasocostringere (fenilefrina, norad)  
+β - inotropismo (isoprenalina)
+
+le resistenze periferiche vanno sempre indicizzate per superficie corporea, e aumentano con aumento superficie e viceversa
+
+SVR x SA 1200 - 1800 dine/cm<sup>2</sup>
+
+effetto paradosso dell'adrenalina a basse dosi
+
+dopamina - inocostrittore  
+dobutamina - leggera riduzione pressoria - inodilatatore
+
+milrinone / levosimendan (calcio-sensibilizzanti)
+
+sono tutti farmaci da infusione continua escluso aritmie con arresto in cui si possono somministrare in bolo
