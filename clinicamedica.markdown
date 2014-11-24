@@ -905,3 +905,94 @@ piastrinosi per carenza di ferro
 il comportamento con Hb < 6 è comunque uguale indipendentemente dalle cause
 
 rischio cardiovascolare con uso cronico di alcuni antinfiammatori
+
+Terapia nelle malattie del tessuto osseo - Gennari
+----
+
++ farmaci antiriassorbitivi
++ bisfosfonati
++ estrogeni
++ calcitonina - difficilmente reperibile
++ SERMs (raloxifene)
++ denosumab
++ composti con attività anatolica
++ teriparatide (analogo sintetico di quello sotto)
++ PTH 1-84 (difficilmente reperibile)
++ azione mista - randellato di stronzio (rivisto per rischio di tromboembolismo e stroke)
+
+consigliabile sempre approccio non farmacologico
+
++ calcio
++ vitamina D
++ esercizio e stile di vita
++ prevenzione delle cadute
+
+score FRAX, WHO fracture risk assessment tool, considera fattori di rischio clinici come low BMI, fumo, alcolismo, fratture pregresse e alcune cause secondarie  
+una delle secondarie più spesso considerate è l'artrite reumatoide; lo score ci da il rischio di frattura a 10 anni, da 8 a 35%
+
+NOF guidelines 2010, si tratta pazienti con fratture, T-score ≤ -2.5 o low bone mass
+
+#####Bisfosfonati e Denosumab
+
+scoperti per caso, componenti di vecchi detersivi
+
+inibizione di FPP synthase, mancano le proteine prenilate, necessarie per la sopravvivenza degli osteoclasti, inoltre ATP-BP metabolites inducono apoptosi osteoclastica  
+la permanenza nel tessuto osseo è molto superiore all'emivita, fino ad una sola volta all'anno con mantenimento dell'efficacia
+
++ irritazione esofagea
++ reazione di fase acuta (specialmente in carenza di vit D)
++ osteonecrosi del mascellare
++ fibrillazione striale
++ dolore muscoloscheletrico
++ fratture atipiche
++ problemi oculari (uveite)
+
+usati in
+
++ paget (anche in singola dose)
++ osteogenesi imperfetta
++ sindromi ipercalcemiche (breve emivita)
++ mieloma multiplo
++ iperpara primitivo
+
+Denosumab
+
+stimolazione di RANK necessaria per la differenziazione osteoclastica
+
+l'anticorpo inibisce selettivamente RANK-L simulando la naturale OPG che ha lo stesso effetto
+
+usato anche nelle metastasi scheletriche, la somministrazione è ciclica, sottocutanea  
+raramente usato nel Paget e nelle sindromi ipercalcemiche
+
+in uomini con un tumore prostatico dobbiamo stare attenti all'eccessiva osteoporosi, come nella donna in menopausa
+
+in entrambe le categorie
+
++ aumentato rischio di cellulite o infezioni
++ osteonecrosi mandibolare
+
+#####Teriparatide
+
+penna predosata sottocutanea, durata d'azione circa 30 giorni, il trattamento deve durare circa 24 mesi
+
+la finestra anabolica, si crea in base alle diverse cinetiche di variazione fra markers di neoformazione e markers di riassorbimento, in questa fase
+l'azione del PTH è essenzialmente anabolica
+
+ci sono paure riguardo all'incidenza dei sarcomi nei trattati, massimo 1 ciclo di terapia, per paziente
+
+aumenta volume e connettività ossea, (TPTD e TVB)
+
+dopo la sospensione o la fine del trattamento vanno comunque utilizzati farmaci antiriassorbitivi
+
+l'unico effetto sommatorio che si ha è denosumab + teriparatide
+
+#####Stronzio Ranelato
+
+aumenta rischio tromboembolico ed eventi cardiovascolari in pazienti ipertesi, rimosso dal commercio  
+imita lo ione calcio ed ha effetto sia come costituente osseo sia come agonista recettoriale
+
+SOST (anticorpi ⊣ sclerostina) ⊣ Wnt/LRP5/β-catenina
+
+persistenza, compliance sono fondamentali in questo tipo di terapia, l'outcome terapeutico viene fortemente influenzato
+
+la vitamina D aumenta la risposta ai farmaci antiriassorbitivi e nell'osteoporosi postmenopausale
