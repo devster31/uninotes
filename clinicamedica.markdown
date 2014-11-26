@@ -996,3 +996,20 @@ SOST (anticorpi ⊣ sclerostina) ⊣ Wnt/LRP5/β-catenina
 persistenza, compliance sono fondamentali in questo tipo di terapia, l'outcome terapeutico viene fortemente influenzato
 
 la vitamina D aumenta la risposta ai farmaci antiriassorbitivi e nell'osteoporosi postmenopausale
+
+2 Casi Clinici e Metabolismo Calcico
+----
+
+ipomagnesemia acuta (ipomagnesemia associata a PPI)  
+dopo paratiroidectomia (sindrome dell'osso affamato)
+
+calcio gluconato (in alternativa cloruro di calcio ma richiede catetere venoso centrale), supplementazione con Vit. D, se coesiste con ipomagnesemia
+va rimpiazzato anche il magnesio
+
+le creme solari bloccano la formazione di Vit.D e la capacità della pelle diminuisce con l'età
+
+il dosaggio più accurato è la 25(OH)D e non la 1-25(OH)D in quanto l'emivita è sensibilmente più lunga e la seconda è strettamente regolata dal PTH
+
+normalmente utilizzata la D3 per la migliore emivita nel siero, l'incremento è inversamente proporzionale al difetto originale
+
+linee guida italiane SIOMMMS
