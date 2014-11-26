@@ -2994,3 +2994,24 @@ dobutamina - leggera riduzione pressoria - inodilatatore
 milrinone / levosimendan (calcio-sensibilizzanti)
 
 sono tutti farmaci da infusione continua escluso aritmie con arresto in cui si possono somministrare in bolo
+
+Lezione 22 - Carli - Urgenze Addominali
+----
+
+urgenze ed emergenze distinte dal tempo massimo di intervento
+
+colangite suppurativa
+
+le complicanze addominali sono gravissime in quanto coinvolgono il peritoneo e molti altri organi addominali
+
+spesso l'appendicite viene tolta anche se non sempre necessaria, possibilità di denuncia
+
+l'appendicite cronica non esiste, la cronicizzazione è sempre causata da una patologia sottostante di diversa natura
+
+peritonite circoscritta - raccolta ascessuale localizzata
+
+durante l'intervento di appendicite si fa sempre controllo del diverticolo di Meckel e degli annessi nelle donne (laparotomia secondo McBurney, accesso pararettale)
+
+perforazioni gastro-duodenali
+
+Crohn e rettocolite ulcerosa, spesso in DDx con megacolon tossico o cancro del colon
