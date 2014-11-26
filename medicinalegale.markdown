@@ -679,3 +679,31 @@ se c'è il sospetto di un reato deve essere avvertito il pubblico ministero che 
 regolamento di polizia mortuaria (1990)  
 legge 1993 - stabilire cos'è la morte  
 regolamento 1994, modificato con legge 2008 - criteri per accertare la morte
+
+Infermità e Malattia Mentale
+----
+
+concetto di colpevolezza solo se in grado di intendere e di volere
+
+distinzione tra delitti (puniti con reclusioni e multe) e contravvenzioni (puniti con arresto o ammenda)
+
+elementi oggettivi del reato e possibilità di commetterlo:
+
++ condotta
++ azione
++ omissione
++ evento
++ causalità
+
+elemento soggettivo o colpevolezza  
+con la consapevolezza si identifica l'insieme dei criteri dai quali dipende a possibilità di muovere all'agente un rimprovero per aver commesso il fatto antigiuridico
+
+dolo - rappresentazione e volizione del fatto antigiuridico (art. 43 c.p.)
+
+l'infermità mentale si divide in vizio totale e parziale e la pena si distingue in base alla pericolosità sociale del soggetto e non del difetto mentale
+
+concetto di infermità (art. 88, 89 c.p.)
+
+ci sono svariate malattie somatiche e non incluse in questi articoli, ma molte controversie sulla esatta definizione di ciascuna
+
+stati emotivi (art. 90 c.p.)
