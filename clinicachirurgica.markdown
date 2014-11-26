@@ -869,3 +869,67 @@ peristalsi visibile, pulsazione e masse vanno valutate visivamente
 + intra-abdominal pressure
 
 varie diagnosi in base alla location, vedi slide che è massiccia
+
+Sindrome Compartimentale Addominale
+----
+
+aumento della pressione endoaddominale o di suoi componenti, ci sono provvedimenti medici o chirurgici che risolvono la situazione  
+la sindrome compartimentale ha circa il 50% di mortalità
+
+IAP normal fino a 5-7 mmHg  
+patients with increased abdominal girth that developed slowly like pregnant or obese people, IAP can go as high as 10-15 mmHg
+
+APP (Abdominal Perfusion Pressure) = MAP - IAP  
+is better than other resuscitation endpoints for predicting outcomes, APP target > 60 mmHg is correlated with improved survival from IAH and ACS
+
+IAH = IntraAbdominal Hypertension / ACS = Abdominal Compartment Syndrome
+
+Grado I (12-15) Grado 2 (16-20) Grado 3 (21-25) Grado 4 (>25)  
+per essere definita sindrome deve dare manifestazioni cliniche o laboratoristiche rilevabili
+
+hyperacute - fisiologica, tipo laughing, sneezing, coughing, straining  
+acute - develops over hours, result of trauma or hemorrage  
+subacute - develops over days, most common in medical patients  
+chronic - develops over months or years, does not cause AS, does place the individual at higher risk for ACS if they develop superimposed acute or subacute IAH
+
+ACS - sustained IAP > 20 mmHg (with or without APP < 60 mmHg) that is associated with new organ disfunction
+
+primary, secondary or recurrent
+
+possibile effetto sulla perfusione cerebrale della sindrome addominale per diminuzione del ritorno venoso al cuore e liberazione di metaboliti dei tessuti danneggiati
+
+oliguria progressiva e aumento delle richieste ventilatori sono comuni in pazienti con ACS
+
+il paziente con pressione endoaddominale elevata va sempre trattato prima della sindrome compartimentale  
+si valuta la pressione endoaddominale tramite un trasduttore attaccato al catetere vescicale
+
+ci sono vari modi non chirurgici per diminuire la pressione endoaddominale come la rimozione di medicazioni o la sospensione di alcuni farmaci,
+la liberazione dell'intestino e altre
+
++ laparotomia mediana
++ laparotomia trasversa
++ subcutaneous linea alba fasciotomy (SLAF)
+
+adeguato controllo del dolore e curarizzazione
+
+colloidi e ipotensione controllata con restrizione di liquidi
+
+surgical decompression is considered above 20 mmHg and is left with the abdominal wall open  
+esposizione dei visceri addominali per difetto di parete
+
+complicazioni dell'addome aperto:
+
++ fluid loss
++ protein loss
++ abdominal muscle retraction
++ ernie post-incisionali successive
++ fistole sui visceri esposti
+
+Metodo di Barker - semplice apertura con drenaggi e copertura manuale, non si può misurare la pressione e si ha ampia perdita di liquidi  
+Bogota Bac - copertura con sacca di polietilene sterile
+
+nuove tecniche sono terapie a pressione negativa - si basano sull'uso di spugne in polietilene che permettono di diminuire la pressione endoaddominale
+con un sistema di suzione, normalmente tra -70 e -80 mmHg
+
+mesh biologiche per la chiusura delle suture (inlay technique), la protesi biologica è utilizzabile in terreni infetti con relativa tranquillità  
+se la chiusura della fascia non si riesce ad eseguire si fa una chiusura della sola pelle lasciando un'ernia ventrale programmata
