@@ -1013,3 +1013,49 @@ il dosaggio più accurato è la 25(OH)D e non la 1-25(OH)D in quanto l'emivita �
 normalmente utilizzata la D3 per la migliore emivita nel siero, l'incremento è inversamente proporzionale al difetto originale
 
 linee guida italiane SIOMMMS
+
+2 Casi Clinici
+----
+
+dolore muscolare, astenia, difficoltà alla deambulazione in uomo di 40 anni e donna di 38, nella donna anche fratture costali e rachialgia
+
+dolore cronico, persistente anche a riposo, diffuso, muscolare e osseo, non esclude i problemi articolari ma assenza di segni di infiammazione
+
+lieve ipotrofia muscolare poteva indirizzare verso una miopatia
+
+elettromiografia negativa
+
+DDx con polineuropatie normalmente asimmetriche o con neuropatie diabetiche, escluse con stick glicemico, ereditarie (escluse con anamnesi genetica)
+o degenerative
+
+livelli di fosforo molto bassi in entrambi i pazienti (1.5/1.2 mg/dl), associato a perdita renale di fosfati
+
+densitometria ossea (DXA) con lieve osteopenia
+
+vanno esclusi osteomalacia e ipoparatiroidismo, estremamente rara la carenza alimentare
+
+Ipofosfatemia diagnosticata in entrambi i pazienti
+
+1. spostamento rapido del Pi da extracellulare a intracellulare
+2. increased excretion
+3. decreased intestinal absorption
+
+ormai la grande maggioranza è causata da farmaci o interazioni varie
+
+FGF23 molto importante nella perdita renale di fosforo, è uno dei meccanismi regolatori fisiologici, coinvolto in varie malattie genetiche da alterato metabolismo
+
+integrazione di vit.D
+
+la DDx definitiva va fatta con forme acquisite vs ereditarie
+
++ FGF23 sierico
++ diagnostica di eventuali tumori
++ test genetico
++ octreoscan/CT
++ diagnostica PET e scintigrafica (FGD-PET/TC)
+
+Osteomalacia Oncogenica è una delle possibili diagnosi in caso di problemi di ipofosfatemia
+
+emangiopericitoma diagnosi del maschio
+
+mutazione di FGF23 nella donna
