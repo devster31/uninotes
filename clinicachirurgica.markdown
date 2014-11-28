@@ -933,3 +933,202 @@ con un sistema di suzione, normalmente tra -70 e -80 mmHg
 
 mesh biologiche per la chiusura delle suture (inlay technique), la protesi biologica è utilizzabile in terreni infetti con relativa tranquillità  
 se la chiusura della fascia non si riesce ad eseguire si fa una chiusura della sola pelle lasciando un'ernia ventrale programmata
+
+Chirurgia Mininvasiva e robotica - Piagnerelli Riccardo
+----
+
+tecnica da diagnostica a chirurgica, necessità di causare meno trauma al paziente, richiede pneumo-peritoneo
+
+usata la CO<sub>2</sub>  
+controllare la pressione venosa, stare attenti sempre al fegato, punto più a rischio per embolia
+
+effetto dello pneumoperitoneo sulla funzionalità cardiaca (asa 2-3 soprattutto) - dipendentemente dalla volemia si hanno effetti opposti sul ritorno venoso
+
+effetto sulla respirazione - riduzione dell'escursione diaframmatica e compliance polmonare (diminuzione del 50% da 10 a 16 mmHg IAP), possono derivare
+ipossiemia, ipercapnia e conseguente acidemia, possibile peggioramento in posizione di Trendelenburg
+
+effetti sul sistema renale - riduzione di funzione per compressione, riduzione della CO, alterato ritorno venoso, stimolazione di RAA, vasocostrizione
+
+effetti sul sistema immunitario - la laparoscopia meglio rispetta queste cose con valori di PCR e IL-6 inferiori e migliore risposta cellulo-mediata
+
+effetti sul sistema immunitario - la laparoscopia meglio rispetta queste cose con valori di PCR e IL-6 inferiori e migliore risposta cellulo-mediata
+
+aumento di vasopressina e ADH, scompare entro 1h dalla risoluzione del pneumoperitoneo
+
+non indicata in ASA 4, difficile esposizione, training e tempi più lunghi  
+protocollo ERAS (enhanced recovery after surgery)
+
+ipotermia e acidosi durante l'intervento chirurgico, se finisco l'intervento con gas non riscaldato arriva a 31-32 gradi, quindi ci sono spesso riscaldatori
+
+induzione dello pneumoperitoneo - open laparoscopy (tecnica aperta nell'ombelico), tecnica con ago di Veress (alla cieca in addome non disteso in sottocostale sx, punto di Palmer)  
+l'induzione deve essere lenta (non si fa sempre dall'ombelico in chirurgia robotica)
+
+difficile fare studi di superiorità per problemi con il comitato etico, adesso vengono fatti solamente studi di non inferiorità
+
+primo robot clinico - ZEUS
+
+TRIANGOLAZIONE LAPAROSCOPICA nella chirurgia robotica il posizionamento è ancora più importante
+
+sindrome di Mirizzi - calcolo colecistico con perforazione duodenale
+
+Patch di Graham - omento all'interno del duodeno per la risoluzione rapida dell'intervento
+
+ernia inguinale con impegno dell'appendici
+
+utilità di rimuovere la stazione posteriore 8 epatica nella dissezione duodenale
+
+Punto di Van Goiten / Houten
+
+Patologia benigna della mammella
+----
+
+valutazione diagnostica ed estetica o psicologica
+
++ lesioni complesse
++ lesioni papollari multiple
++ mastopatia fibrocistica
++ lesioni semplici
++ fibroadenoma
++ filloidi
+
+lesioni cistiche diagnosticate con agoaspirato (persistenza, vegetazione), eco (contenuto anecogeno), citologico o escissione chirurgica
+
+fibroadenoma solo nel periodo fertile, spesso singolo e semplice, sono sensibili alle stimolazioni ormonali e si manifestano come mastodinia in alcune fasi del ciclo  
+variano durante ciclo, gravidanza, allattamento, nella menopausa sono più probabilmente ad evoluzione maligna
+
+followup + eco 3-4 mesi a basso rischio altrimenti escissione chirurgica  
+la valutazione mammografica si effettua prevalentemente nelle donne over 40
+
+varianti: fibroadenomi giganti (donne in cinta o allattamento), fibroadenomi giovanili (pubertà, voluminose e rapido accrescimento, asimmetria mammella, asportazione
+  con attenzione all'estetica e al risparmio dei dotti), fibroadenolipomi (nessun carattere di evoluzione maligna)
+
+  l'aspetto bozzoluto lo manda in DDx con i carcinomi ma la facile scissione dai piani profondi chiarisce la diagnosi
+
+  tumori filloidi
+
+  + benigna - fibroadenoma con recidiva locale
+  + intermedia - come sopra
+  + maligna - metastasi a distanza, spesso polmoni, sarcoma fillloide
+
+  caratteristiche citologiche particolari e distinguibili
+
+  solo il 25% circa è maligno e solo il 5-10% metastasi a distanza
+
+  l'indicazione chirurgica è assoluta e non relativa, la somiglianza tra fibroadenomi e tumori filloidi l'escissione è condotta con margini minimi (mancata diagnosi)
+  ma la citologia imporrebbe margini molto più ampi, se la citologia ci indica margini infiltrati va effettuato immediatamente reintervento con
+  esportazione dei margini o mastectomia totale/subcutanea
+
+  lesioni papillari, relativamente rare, secrezione dal capezzolo spesso primo sintomo e motivo di consulenza da parte del paziente
+
+  il più secernente è il papilloma singolo intraduttale
+
+  + papilloma intraduttale solitario o multiplo
+  + papillomatosi o epiteliosi
+  + papillomatosi florida o adenoma del capezzolo DDx con Paget
+  + papillomatosi giovanile
+
+  alcune di queste si correlano con lo sviluppo di una forma maligna successiva
+
+  i solitari sono i più comuni, generalmente < 1 cm con estasia duttile valutabile ecograficamente (duttogalattografia) spesso secrezione ematica o sierosa
+
+  i multipli sono molto più periferici, spesso presentano iperplasie duttili tipico e carcinoma mammario nel 30% dei casi, completa escissione e stretto follow-up
+
+  le secrezioni sono spesso collegate a situazioni molto diverse spesso infiammatorie
+
+  + sierosa fisiologica - bilaterale
+  + galattorrea
+  + sierosa o sieroematica, contiene sangue
+  + papilloma
+  + carcinoma papillare
+  + forme infiammatorie da ectasie duttali
+  + purulenta - infettiva
+
+  sempre effettuare striscio del secreto, la strumentale sono MRx e Eco alle quali si possono aggiungere galattografia e citologia per l'escissione duttale
+
+  galattorrea
+
+  + adenoma pituitario
+  + ipotiroidismo
+  + farmaci (contraccettivi orali, antiipertensivi, fenotiazine, ansiolitici)
+  + malattie SNC
+  + produzione ectopica
+  + sindrome da amenorrea
+  + iperprolattinemia
+  + toracotomia
+  + idiopatiche
+
+  dosaggio della prolattinemia - se elevata TC ipofisi con campimetria ed eventualmente esami di funzionalità tiroidea
+
+  nemmeno nei papillomi multipli periferici c'è indicazione alla mastectomia
+
+  nella epiteliosi la proliferazione riguarda quasi tutta la struttura della mammella e non è consigliato l'intervento
+
+  nella papillomatosi florida ha una evoluzione maligna solo nel 4% dei casi ma spesso è sincrona con un altro carcinoma fino al 20% dei casi, si deve quindi
+  effettuare un esame accurato del resto della mammella, indicata l'amputazione del capezzolo, soprattutto nelle forme erosive
+
+  nella papillomatosi giovanile è indicata escissione e followup per rischio elevato di sviluppo di un carcinoma
+
+  preferibile seguire linee estetiche in tutte queste patologie data la sostanziale benignità della patologia  
+  di particolare importanza è la curvatura dell'incisione che deve rispettare la curvatura naturale
+
+  incisione a T, mastopessi, rimodernamento con scorrimento dei lembi
+
+  Mastopatia Fibro-Cistica - mammella complessa
+
+  difficile visualizzazione di eventuali noduli con la MRx, necessaria l'integrazione ecografia
+
+  l'unica lesione a rischio è l'iperplasia atipica duttale e globulare con possibile evoluzione maligna
+
+  1989 Page-Dufont
+
+  + nessun aumento
+  + lieve aumento
+  + moderato aumento
+
+  lesioni sclerosanti
+
+  + adenosi sclerosante
+  + cicatrice radiale
+  + adenoma tubulare
+  + papilloma
+
+  iperplasia epiteliale può evolvere verso carcinoma in situ a basso e alto grado solo in caso di atipica
+
+  1997 Tavassoli - definizione di Carcinoma in Situ
+
+  + DIN - duttale
+  + 1
+  + 1a
+  + 1b
+  + 1c
+  + 2
+  + 3
+  + LIN - lobulare
+
+  Ectasia duttale e mastite periduttale
+
+  incidenza tra 5-25% tra 40-50 anni, molto raramente in pubertà e gioventù
+
+  ectasia con distruzione del dotto, flogosi tipica acuta  
+  la mastite periduttale si presenta con pochi sintomi, molto più simile alla flogosi cronica
+
+  prevalentemente la causa sono batteri anaerobi
+
+  + massa palpabile con biopsia escissione
+  + secrezione intensa con escissione dei dotti
+  + dolore con trattamento medico, rivalutazione dopo risoluzione della fase acuta
+
+  fistole mammarie - rara complicanza dell'ectasia duttale, più frequente nella mastite periduttale
+
+  mastiti e ascessi mammari - puerperali e non, sono frequenti nelle donne diabetiche e generalmente immunosoppresse  
+  qui vengono incriminati staph e strep  
+  il trattamento si effettua con antibiotici se non si è formato un ascesso completo per il quale viene richiesto drenaggio in prima battuta
+
+  forma epidemica da staph aureo o sporadica
+
+  Ginecomastia
+
+  spironolattone, estrogeni, atropine, clorpromazina, neoplasie del testicolo, deficit estrogenico, normalmente si aspetta oltre l'età puberale  
+  se è molto rappresentata si può effettuare mastectomia sottocutanea anche prima, per sintomatologia dolorosa si può effettuare trattamento chirurgico immediato
+
+  in caso di diagnostica sospetta con eco e MRx va effettuato la biopsia escissionale per la certezza della diagnosi
