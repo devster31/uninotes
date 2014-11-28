@@ -707,3 +707,49 @@ concetto di infermità (art. 88, 89 c.p.)
 ci sono svariate malattie somatiche e non incluse in questi articoli, ma molte controversie sulla esatta definizione di ciascuna
 
 stati emotivi (art. 90 c.p.)
+
+Concetto di Qualità di Sanità - Fabio Ferretti
+----
+
+accreditamento - riconoscimento di autorizzazione di una struttura a svolgere determinate attività sanitarie  
+da Wikipedia - L'accreditamento è una attestazione della capacità di operare che un soggetto di riconosciuta autorità rilascia nei confronti di chi svolge
+un ruolo in un determinato contesto sociale. [link](http://it.wikipedia.org/wiki/Accreditamento)
+
+Codman, 1914, definizione di un concetto di Evidence-Based Medicine e organizzazione sanitaria, con la standardizzazione più ampia possibile di formazione
+e modo di lavorare nei vari ospedali, per uniformare il trattamento dei pazienti e lo standard minimo di cura
+
+Minimum Standards - introdotti nel 1919, ci sono determinati criteri che limitano la pratica in solo alcuni posti
+
+Ciclo di Deming - ciclo (processo) per l'aumento della qualità di una qualsiasi procedura/strumento  
+[PDCA](http://en.wikipedia.org/wiki/PDCA)
+
+non va standardizzata l'offerta, ma il metodo, ovvero la cura deve comunque essere personalizzata sul paziente ma con mezzi e metodi aggiornati
+
+dovremmo ribaltare il ruolo di medico da gestore e organizzatore del reparto a singolo professionista, trasferendo le responsabilità organizzativa sugli infermieri  
+focalizzazione della formazione anche per gli infermieri oltre che per i medici e specializzazione diventeranno necessari
+
+qualità viene confrontata con il modello di Negro (1995, modello delle 5 P)
+
++ azienda erogatrice
++ progettata
++ promessa
++ prestata
++ utente
++ prevista - [LEA](http://en.wikipedia.org/wiki/PDCA), definita ogni 5 anni circa dal Piano Sanitario Nazionale
++ percepita
++ concorrenza
++ paragonata
+
+Medicina di Iniziativa - liste su alcuni percorsi standardizzati su alcuni pazienti con particolari cronicità (diabete, BPCO), generalmente gestiti dai medici
+generali e informati su corsi e altra informazione per evitare riacutizzazioni e promuovere il controllo della malattia  
+l'organizzazione si basa sul follow-up routinario, la gestione è affidata a infermiere del territorio e medico generale fino all'ingresso in ospedale seguito dal
+medico specialista
+
+Carta dei Servizi - servizi nel portafoglio, variano in base all'ospedale, comprendono contatti e localizzazione dei vari responsabili
+
+DRG - parametro per valutare il peso in termini di assistenza ed economico, i DRG si pagano a giornata
+
+Carta di Lubiana, c'erano pochi valori tra cui l'umanizzazione del paziente, che però sono difficilmente valutabili dal punto di vista tecnico  
+ovvero sono valutabili i risultati umani ma non le qualità tecniche
+
+differenza con le cliniche private che sono certificate ISO e come tale la valutazione di qualità è integrata nel sistema e non stand-alone come qui
