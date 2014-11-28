@@ -3015,3 +3015,100 @@ durante l'intervento di appendicite si fa sempre controllo del diverticolo di Me
 perforazioni gastro-duodenali
 
 Crohn e rettocolite ulcerosa, spesso in DDx con megacolon tossico o cancro del colon
+
+Lezione 23 - Pastorelli - Paziente Cerebrovascolare acuto
+----
+
+ictus, aut, ima, ars, altre lesioni focali
+
+la DDx tra ischemic o emorragico è fatta solamente con la TC  
+si può usare il doppler transcranico nelle ischemie cerebrali medie per attuare misure preventive sul territorio invece che solamente in ospedale  
+difficilmente attuabile per la difficoltà di esecuzione ed il training necessario  
+la statistica normalmente ci conforta come incidenza ma non possiamo ignorare le altre possibili diagnosi
+
+l'identificazione non è necessaria per la localizzazione del territorio ma la certezza della diagnosi permette di focalizzare e migliorare il trattamento  
+carotide (trombolisi endovenosa o intra-arteriosa / TEA / Stent) vs vertebro-basilare (trombolisi intra-arteriosa)
+
++ trombotico
++ embolico
++ lacunare - spasmo dei piccoli vasi perforanti, possono migliorare con trombolisi
+
+NIHSS > 20 con outcome positivo 4-16% e rischio emorragia dopo r-tPA 17%
+NIHSS < 10 con outcome positivo 60-70% e rischio emorragico r-tPA 3%
+
+MRI DTI sono abbastanza sensibili per evidenziare la sostanza bianca colpita  
+valore predittivo TC non soddisfacente, relativa sensibilità dopo 6 ore
+
+paziente in terapia anticoagulante (INR / TAO)
+
+emocromo, coagulazione, creatinina, D-Dimero (correlazione positiva tra aumento e ictus cardioembolico)
+
+scale di valutazione del rischio CPSS, LAPSS, NIHSS (forse la più completa)  
+livello di coscienza, visione, attività motorie, linguaggio, sensibilità (manca la disfagia che verrà aggiunta nella revisione del 2015)  
+somministrata in circa 10 minuti e consente di essere fatta sul territorio  
+spesso correlata con volume e gravità dell'ictus, valuta il rischio di emorragia e una probabilità di dimostrare angiograficamente un trombo arterioso
+
+segni non focali associati a segni focali la probabilità di ictus emorragico raddoppia, così come crisi comiziali, cefalea pre-evento, N/V
+
+nella ESA ci so storia atipica o tipica, estremamente responsi agli antidolorifici soprattutto fans (paracetamolo anche su territorio, nessun effetto antiaggregante)
+
+possibili ESA da aneurismi integri ma vicini ad altri, tipo aneurismi in sequenza o a corona di rosario, o fissazione senza rottura  
+ci sono anche dei pazienti non diagnosticati che presentano frequentemente precoci complicazioni (resanguinamento al 70%)
+
+sempre sospettare ipoglicemia (stick) / avvelenamento (fox screen) / controllo dell'Hb / esame del liquor nel sospetto di meningite  
+nel caso in cui pensi che il paziente deve essere sottoposto a trombolisi dovrei fare la saturazione con pulsossimetro e non fare EGA su una grossa arteria
+
+all'ECG si vedono turbe del ritmo e depolarizzazione soprattutto nel post-emorragia  
+va sempre fatta nelle prime ore dopo l'accesso una rx torace per valutazione rapida di scompenso cardiaco o polmonite
+
+nella TC l'ematocrito < 30% porta a risposte talsamente negative
+
+la RM convenzionale non è più accurata della TC ma utile per alcuni aspetti, le sequenze in diffusione sono invece fondamentali  
+la puntura lombare è invece molto operatore-dipendente e rileva la pressione liquorale solo con particolari apparecchi
+
+angiografia va fatto nelle prime ore solo
+
++ in previsione di intervento endovascolare
++ in età pediatrica in sospetto di eziologia artritica
++ dissecazioni o malrofmazioni
++ sospetto arteriosclerotico del circolo posteriore
++ vasculite intracranica
++ discordanza tra risultati fornitida metodiche non invasive
+
+angio-rm o angio-tc sono molto utili per la sede e grado di occlusione e la selezione dei pazienti per trombolisi, specie I.A.
+
+criteri di inclusione per trombolisi
+
++ entro 3 ore dall'evento
++ per almeno 30 minuti
+
+l'evoluzione nelle successive 48h
+
++ miglioramento - 20-30%
++ stabilità - 50-60%
++ peggioramento - 10-20%
+
+prognosi
+
++ nei miglioranti - positiva 80%
++ stabili - 40-50%
++ peggiorano - negativa 90-80%
+
+urapidil+labetalolo (anche in presenza di emorragia cerebrale) sono i 2 farmaci per la terapia con r-tPA, indicato anche nitroprussiato con PAD > 140 mmHg  
+non sono più indicati Ca-Antagonisti, Nimodipina (soltanto in caso di ESA con molta attenzione)
+
+mai usare glucosata se non nitroprussiato, cordarone, sulfametoxazole che sono solubili in glucosata  
+sempre utilizzabile la fisiologica
+
+trattamento dell'ipoglicemia non si usa glucosata, si usa destrosio in bolo e tiamina
+
+farmaci antitrombotici
+
++ streptochinasi - interrotta per eccesso di trasformazione emorragica sistemica
++ r-tPA - indicato praticamente sempre entro 3 ore
++ urochinasi
++ eparina e LMWH - non indicati come terapia specifica ma possono essere usati in associazione
++ antiaggreganti - dopo la diagnosi, 24h dopo r-tPA
++ angioplastica/stenting
+
+neuroptorezione non indicata, nessun farmaco, aumentano il consumo di ossigeno (fenobarbital), possibile indicazione di valproato
