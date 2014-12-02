@@ -3112,3 +3112,74 @@ farmaci antitrombotici
 + angioplastica/stenting
 
 neuroptorezione non indicata, nessun farmaco, aumentano il consumo di ossigeno (fenobarbital), possibile indicazione di valproato
+
+Lezione 24 - Scolletta
+----
+
+SVR = (MAP-CVP) / CO (x 80) eventualmente per avere valori in "dine"  
+formula già vista per calcolo di postcarico e resistenze vascolari sistemiche
+
+stima di deltaP/deltat per la valutazione della contrattilità (anacrote della curva pressoria)
+
+conversione volume-pressione (PAOP viene convertita in pressione telediastolica in ventricolo sx) per misurare indirettamente il volume in ventricolo sx
+punto di apertura della valvola aortica corrisponde all'incisura dicrota
+
+SV (gittata systolic) = EDV(end-diastolic volume) - ESV(end-systolic volume)
+EF (frazione di eiezione) = (EDV - ESV) / EDV
+
+la ridotta distensibilità diastolica richiede maggiore pressione diastolica per raggiungere lo stesso volume  
+lo scompenso cardiaco invece sposta la curva in alto, mantenendo le pressioni ma alterando significativamente i volumi per diminuita contrazione
+
+Quick Evaluation of Hemodynamics
+
++ warm&wet - normoperfuso ma edematoso (congestizio), ad esempio gli scompensati cronici / trattamento con vasodilatatori (nitroprusside, nitroglicerina)
++ warm&dry - normale, non ipoperfuso e non congesto
++ cold&dry - ipoperfuso ma non edematoso / inotropic drugs or fluids (dobutamine, dopamine, milrinone, calcium sensitizers)
++ cold&wet - ipoperfuso ed edematoso / diuretics, inotropics e vasodilatatori
+
+PAOP > 18 mmHg / CVP > 16 mmHg - congestizio (orthopnea, JV distension, hepatomegaly, edema)
+CI < 2 ml/min/m<sub>2</sub> - ipoperfuso (narrow pulse pressure, sleepy, MODS, cold extremities, renal dysfunction, hypotension, oliguria)
+
+iisoproterenolo, effetti indesiderati sulla frequenza cardiaca, spesso usato per questo motivo e non per l'effetto su preload, contrattilità e afterload  
+dobutamina, effetti uguali all'isoproterenolo ma con specificità diversa, molto più focalizzata sulla contrattilità e senza effetto dose-dipendente
+sull'afterload  
+la dopamina ha effetti dose-dipendenti - uguali a sopra sotto 5 microgrammi (senza effetto sulla frequenza e basso sull'inotropismo)  
+tra 5 e 10 inverte l'effetto sul postcarico ma aumenta molto l'effetto su contrattilità e frequenza (inocostrittore)  
+oltre 10 aumenta frequenza, preload e afterload mantenendo l'effetto sulla contrattilità (pessimo farmaco, si trasforma simile alla norad)  
+noradrenalina, aumento preload e afterload, aumento della contrattilità e diminuisce la frequenza (solo per effetto parasimpaticomimetico)  
+adrenalina, aumento di tutto, l'unico effetto è la contrattilità e non si sale mai oltre 0.2-0.5 mcg/kg/min
+
+gamma = microgrammi
+
+l'idea è di utilizzare la combinazione di questi farmaci in dosaggi bassi e controllati per ottenere l'affetto desiderato
+
+SIRS + infezione = sepsi
+
++ temperatura > 38℃ o < 36℃
++ WBC > 12000 o < 4000 o >10% bands
++ HR > 90
++ RR >20
++ PaCO2 < 32
+
+la differenza sostanziale tra SIRS e trasformazione in sepsi è la eccessiva risposta immunitaria del corpo (aggressione da parte del sistema immunitario)
+
+motore della sepsi - microcircolo  
+endotelio (perdita di segnali di traduzione, coagulazione, regolazione permeabilità e tono capillare), G.R. (deformabilità, aggregazione, trasporto O2),
+leucociti (adesione, citochine, ROS), CML (adrenergic signaling, NO), coagulazione con trombosi microvascolare  
+MMDS - shunting del microcircolo (DO2 / VO2 mismatch) e distress cellulare (apoptosi mitocondriale)
+MMDS = Sindrome da Distress Microcircolatorio e Mitocondriale
+
+modificazioni emodinamiche e ventilo-metaboliche in corso di shock
+
+|   | FC | PA | CO | SVR (afterload) | PVC (preload) | Inotr | DO2 | Lact+ | SvO2 | O2ER |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| shock cardiogeno | ↑ | ↓ la media | ↓↓ | ↑ per compenso ipoperfusione | ↓↓ | ↓↓ per ↓ EF (20/30/45/60%) | ↓↓ | ↑ | ↓ | ↑↑ |
+| shock ipovolemico | ↑ | ↓ | ↓ | ↑ | ↓ | ↑ | ↓↓(↓ se emorragico per diminuzione di Hb) | ↑ | ↓ | ↑ |
+| shock ostruttivo (embolia polmonare) | ↑↑ | ↓ | ↓↓ | ↑ | ↑ a dx, ostruzione a valle del ventr destro / ↓ sx con PAOP ridotta | ↑↓ (con tamponamento diminuisce) | ↓↓ | ↑ | ↓ | ↑ |
+| shock distributivo (sepsi) | ↑ per iperstimolazione citochimica e aumento trasporto ossigeno | ↓ sempre, l'obbiettivo è mantenerla sopra 65 mmHg | ↑↓ dipende dalla fase | ↓ | ↓↑ dipende dalla fase | ↑↓ dipende dalla fase | ↑↓ dipende dalla fase | ↑↑ | ↑↓ dipende dalla fase | ↓↑ dipende dalla fase |
+
+shock distributivo in 2 fasi con pio e iperdinamismo (sepsi ad alta portata e shock a bassa portata)  
+cardiopatia settica non colpisce mai un singolo ventricolo ma entrambi, con insufficienza sisto-diastolica, tendenzialmente reversibile  
+in 7-10 giornata, bassa EF, ancora più bassa dei pazienti con prognosi peggiore (tono vascolare residuo parzialmente conservato  
+con migliore risposta ai farmaci)  
+indici dinamici per valutare il fluid challenge = PPV
