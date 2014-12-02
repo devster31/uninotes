@@ -1059,3 +1059,13 @@ Osteomalacia Oncogenica è una delle possibili diagnosi in caso di problemi di i
 emangiopericitoma diagnosi del maschio
 
 mutazione di FGF23 nella donna
+
+Anafilassi Auteri continua + caso clinico
+----
+
+le 2 principali cause di morte sono:
+
++ insufficienza respiratoria acuta per edema della glottide o ostruzione bronchiale
++ collasso cardiovascolare anche in assenza di eccessivo interessamento respiratorio, i casi non fatali migliorano in 24-48h con adeguata terapia
+
+fibroscopia - strumento molto usato in ambito internistico per la valutazione respiratoria
