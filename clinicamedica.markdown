@@ -1069,3 +1069,81 @@ le 2 principali cause di morte sono:
 + collasso cardiovascolare anche in assenza di eccessivo interessamento respiratorio, i casi non fatali migliorano in 24-48h con adeguata terapia
 
 fibroscopia - strumento molto usato in ambito internistico per la valutazione respiratoria
+
+Corticosteroidi - Puccetti
+----
+
+estrema varietà di situazioni, ma in quasi ogni caso è una terapia di breve durata  
+eterogeneità di classe, ognuno ha differente potenza infiammatoria, mineralcorticoide e emivita
+
+Deflazacort - bassissima emivita
+
+considerazioni riguardanti
+
++ emivita (rapporto potenza / effetti collaterali)
++ effetto mineralcorticoide
++ forma biologicamente attiva dello steroide
++ formulazione farmaceutica
++ costo terapia
+
+posologia media 1 mg/kg/die di prednisone come terapia di attacco  
+unica somministrazione al mattino dopo colazione  
+rapidamente assorbiti (1h) metabolismo epatico (90%)  
+ridurre la dose scalando 5mg ogni 5-10 gg  
+sindrome da sospensione brusca: artralgia, febbre, mialgie, ipotensione  
+aumento della dose in casi di stress
+
++ ulcera attiva
++ diabete grave
++ glaucoma / cheratite erpetica
++ psicosi
++ ipertensione arteriosa
++ osteoporosi
++ tbc
++ fungine sistemiche
+
+i vari effetti avversi si dividono in inevitabili, comuni, prevedibili, insidiosi e ritardati, rari e non prevedibili, dipendentemente dall'aderenza alla terapia,
+dalla giusta somministrazione e dalla corretta scelta del farmaco specifico
+
+le psicosi non sono così rare e decisamente da tenere presenti
+
++ la somministrazione a giorni alternati non sempre è efficace
++ controllo di peso e pressione, compreso quello dovuto a ritenzione liquida
++ controllo frequente di emocromo, VES, glicosuria, potassiemia
++ dieta ipoproteica con adeguato calcio
++ restrizione idrosalina + diuretici
++ somministrazione di KCl per os, nei trattamenti prolungati
++ deflazacort ha minori effetti collaterali sembra
++ somministrazione mattutina per mantenimento del rilascio fisiologico
+
+controindicazioni
+
++ colopatia da FANS
++ intolleranza e ulcere gastrointestinali
++ blocco dell'aggregazione piastrinica
++ inibizione della motilità dell'utero
++ inibizione della funzionalità renale mediata dalle PG
++ ipersensibilità
+
+FANS - Puccetti continua lezione sopra
+----
+
+paracetamolo a lungo termine con controllino della funzionalità epatica  
+nimesulide (non disponibile in tantissimi paesi) inibizione mista COX1/COX2, non efficace in molte persone, impiego spesso cronico, anche qui controllo transaminasi e ɣGT
+
+ketorolac - molto potente nell'analgesia, le uniche 2 indicazioni ufficiali sono la colica renale e dolore post-operatorio, emivita abbastanza breve 4-6h  
+brevi periodi, massimo 5gg, leggera inibizione dell'attivazione piastrinica simil-aspirinica  
+diclofenac - maggiore incidenza di reazione allergica
+
+ibuprofene e naproxene, molto comuni, basse evidenze nell'uso prolungato, l'ibuprofene è il più documentato in età pediatrica
+
+l'uso prolungato di NSAID è associato a più alto rischio infartuale e l'unico farmaco utilizzato in questi casi è l'aspirina che ha un profilo favorevole
+sulla coagulazione ma comunque non migliora la prognosi dei pazienti né diminuisce il rischio di recidiva
+
+i rischi cardiovascolari sono moltiplicativi e non additivi con l'aggiunta di un secondo farmaco, spesso conviene aumentare la dose del farmaco attualmente usato in cronico
+
+controversie sull'effettivo rischio cardiovascolare nei COX2-inhib
+
+NSAID attualmente mai utilizzati oltre 21 gg, nella terapia acuta su cronica è indicato l'uso per 3 gg
+
+il farmaco più sicuro per periodi prolungati nel paziente a rischio cardiovascolare = Naproxene Sodico
