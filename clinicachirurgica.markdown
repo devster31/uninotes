@@ -1132,3 +1132,16 @@ varianti: fibroadenomi giganti (donne in cinta o allattamento), fibroadenomi gio
   se è molto rappresentata si può effettuare mastectomia sottocutanea anche prima, per sintomatologia dolorosa si può effettuare trattamento chirurgico immediato
 
   in caso di diagnostica sospetta con eco e MRx va effettuato la biopsia escissionale per la certezza della diagnosi
+
+Colecistite - De Stefano - continua
+----
+
++ empiema
++ gangrena
++ peritonite biliare
++ perforazione
++ fistola bilio-digestiva (colecisto-colica / colecisto-duodenale)
++ ileo biliare
+
+sequestrectomia - rimozione dei cenci necrotici  
+posizionamento di tubo di Kerr (nome sbagliato), e trattamento con Gabexate Mesilate (FOY) e aprotinina (entrambi inibitori delle serino-proteasi, impediscono sanguinamento)
