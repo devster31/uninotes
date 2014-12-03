@@ -753,3 +753,15 @@ Carta di Lubiana, c'erano pochi valori tra cui l'umanizzazione del paziente, che
 ovvero sono valutabili i risultati umani ma non le qualità tecniche
 
 differenza con le cliniche private che sono certificate ISO e come tale la valutazione di qualità è integrata nel sistema e non stand-alone come qui
+
+Sostanze d'abuso - Gabrielli
+----
+
+decreto legge 30 marzo 2014, n.36  
+legge 16 maggio 2014, n.79  
+DPR 309/90 a seguito della sentenza 32/2014
+
+in italia viene punito civilmente l'uso ma penalmente solo l'abuso  
+per alcune sostanze non ne viene sanzionato in alcun modo l'uso, per alcune ci sono limiti con pene variabili
+
+I e III sanzioni maggiori, II e IV sanzioni minori
