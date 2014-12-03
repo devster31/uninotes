@@ -3183,3 +3183,139 @@ cardiopatia settica non colpisce mai un singolo ventricolo ma entrambi, con insu
 in 7-10 giornata, bassa EF, ancora più bassa dei pazienti con prognosi peggiore (tono vascolare residuo parzialmente conservato  
 con migliore risposta ai farmaci)  
 indici dinamici per valutare il fluid challenge = PPV
+
+Torace acuto non traumatico non vascolare
+----
+
+dolore, dispnea, tosse e ogni tanto febbre-febbricola
+
+TC indicata in casi di dolore toracico con Rx, ECG ed enzimi negativi - indicato anche il contrasto con gradiente A/V di almeno 100 HU  
+triple rule out, problemi aortici, coronarici (altissimo valore predittivo negativo) e cardiaci (non si fanno più studi TC delle coronarie per rating cardiaco)
+
+sensibilità ECG 50% (2-4% dimessi con infarto)
+
+sospetto di tamponamento - ect transesofagea  
+dissezione aortica - TCMS immediato, rx raramente negativo ma bassa specificità, clinicamente poco chiaro, la sintomatologia può essere derivata da
+ipoperfusione di un qualsiasi organo
+
+rottura spontanea dell'esofago - sindrome di Boerhaave
+
+dolore di origine muscolo-scheletrica - normalmente meglio MRI per la valutazione iniziale
+
+pericardite, polmonite, pleurite, miocardite possono esordire con dolore toracico + febbre o febbricola in anamnesi
+
+i versamenti pericarditi possono esordire con dolore, soprattutto se versamento cronico, o con dispnea per mancai assorbimento
+
+dolore neoplastico, possibile per qualsiasi tipo di neoplasia, spesso si valuta lo spostamento della linea mediana o atelettasie eventuali  
+aspetto caratteristico delle masse costali che modificano l'osso come profilo o perdità di densità, molto raramente per iperaddensamento
+
+RX sempre, eccetto in emergenze, TC per integrazione e RX negativo, valutazione coronarica non viene attualmente fatta in urgenza
+
+TEP
+----
+
+non solo embolia polmonare, di TEP si parla con trombi venosi di origine
+
+trombosi in situ, normalmente asintomatica apparte alcuni casi come sovrinfezione, stato di immunodepressione o altro
+
+l'incidenza al DEA non supera il 10/15% dei casi sospettati clinicamente con dispnea e dolore
+
+score di Ginevra per valutazione di probabilità di TEP, in particolare ci sono punti per atelettasia e sollevamento diaframma in RX
+
+segni radiografici
+
++ Hampton
++ Fleisehner
++ Westmark - vasi più dilatati vicino all'ilo e molto poco perfusi oltre, nei bronchi secondari
++ aspecifici
+
+al DEA si deve fare la diagnostica dell'insufficienza respiratoria acuta, non della TEP, la valutazione
+
+TEP sub-segmentarie, l'outcome è migliore ma la diagnosi è completamente random, il trattamento anticoagulanti a lungo termine potrebbe essere a maggior
+rischio rispetto al prevenire un evento potenzialmente simile
+
+Angio-TC ha rivoluzionato la diagnostica e il management dei pazienti, vanno trattati sempre le seguenti categorie:
+
++ scarsa riserva polmonare
++ embolo piccolo coesistente con DVT acuta concomitante
++ recurrent piccoli emboli dovuti a trombofilia per prevenire PE cronica e ipertensione polmonare arteriosa
+
+in pazienti neoplastici si trovano tantissime TEP in assenza o quasi di sintomatologia, alcuni studi suggeriscono che possa aumentare la mortalità
+
+PESI - pulmunary embolism severity index  
+vari punteggi per la valutazione della severità e quindi del rischio del paziente in quelle specifiche condizioni
+
+la valutazione della morfologia cardiaca con CT è discutibilmente utile per la predizione dell'outcome (valutazione per esempio di deviazione
+  del setto ventricolare, reflusso in cava del mezzo di contrasto)  
+  l'eparina immediata riduce la mortalità in maniera significativa e importante
+
+  TC doppia energia - analisi di funzionalità che valuta in singolo esame la morfologia e il territorio di perfusione in maniera incredibilmente accurata e rapida nelle emergenze  
+  più facile e veloce da eseguire al posto degli score, permette di indentificare pazienti a basso rischio  
+  rende inutili i controlli successivi evitando il controllo TC a 2-3 giorni e le dosi
+
+  TEP cronica diagnosticabile con HRTC tramite valutazione della tipologia di trombo e delle conseguenze dell'ipovascolarizzazione
+
+  la diagnostica radiologica, anche effettuata con RX indirizza sempre verso una terapia
+
+  la dispnea è tipo dolore addominale, le spiegazioni sono molto varie
+
+  + ansia (PaO2/PaCO2)
+  + conduzione - m.alveolo-capillare - p.polmonare
+  + sangue (TEP, anemie, gittata)
+
+  mai affezionarsi alla prima impressione  
+  mediastino e ili patologici possono essere in relazione con la dispnea
+
+  torace e polmoni sono 2 organi differenti dal punto di vista diagnostico (MDC vs HRTC), valutazione dei lobuli polmonari
+
+  edema di vario tipo - interstiziale vs alveolare per lesioni dell'endotelio progressive
+
+  edema ci può essere solo dove c'è parenchima, ma può esserci anche sovrapposto all'enfisema polmonare con disposizione random e difficoltà diagnostica  
+  inspessimento dei setti e opacità
+
+  DAD - consolidazioni parenchimali, bronchiectasie da trazione, atelectasie, inspessimento dei setti (comune da CMV nei trapiantati)
+
+  nella sarcoidosi il coinvolgimento del parenchima polmonare c'è in più del 90% dei casi, impegno linfonodale generalmente simmetrico  
+  ground glass opacità sono generalmente segnale di presenza di granulomi interstiziali più che di alveoliti
+
+  linfangite carcinomatosa con ili di grosse dimensioni, cancro polmonare e linfonodi ingrossati sono visibili anche in TC
+
+  S. di Goodpasture in pazienti giovani con emottisi e proteinuria
+
+  emorragia polmonare ha anche questa molte cause - visibile bene in HRTC con lobulo invertito con centro opaco e lobulo trasparente
+
+  COP, cryptogenic organizing pneumonia  
+  consolidazioni sparse bilateralmente (80-90%)  
+  opacità di tipo ground glass (60%) o crazy paving  
+  distribuzione subpleurica e/o peribroncovascolare (60-80%)
+  inspessimento delle pareti bronchiali con dilatazione in aree anormali
+
+  le flogosi vanno distinte tra CAP, HAP, VAP per l'indicazione alla terapia e sospetto di origine microbiologica (più generalmente immunocompetente vs immunodepresso)
+
+  bronchioli da aspergillo in NHL durante trattamento
+
+  flogosi nei campi superiori polmonari va sempre considerata la TBC
+
+  sempre chiedere anamnesi farmacologica - caso di paziente in trattamento con temozolomide e bronchiolite obliterante  
+  fibrosi da metotrexate
+
+  nei casi in cui si abbia una conosciuta UIP vanno valutate le cause di riacutizzazione
+
+  pericardite da coxackie in fase di tamponamento per insuff.resp acuta
+
+  DDx polmonite vs linfangite carcinomatosa
+
+  dilatazione dell'esofago in donna giovane in RX - sclerosi sistemica
+
+  malattie fumo-correlate - DIP, istiocitosi X
+
+  donna giovane con PNX e cisti multiple - LAM (linfangioleiomiomatosi)
+
+  Microlitiasi - diffusa molto importante - http://radiopaedia.org/articles/pulmonary-alveolar-microlithiasis-1
+
+  vasculiti ANCA +
+
+  + anca-associate, necrotizzanti (AAV)
+  + Wegener's granulomatosis (GPA)
+  + Churg-Strauss syndrome (EGPA)
+  + microscopic polyangiitis (MPA)
