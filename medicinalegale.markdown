@@ -765,3 +765,23 @@ in italia viene punito civilmente l'uso ma penalmente solo l'abuso
 per alcune sostanze non ne viene sanzionato in alcun modo l'uso, per alcune ci sono limiti con pene variabili
 
 I e III sanzioni maggiori, II e IV sanzioni minori
+
+Mutilazioni Genitali
+----
+
+circoncisione, molto diffusa  
+la legge tutela molto di più le mutilazioni femminili invece che pari diritti  infibulazione, altro tipo
+
+infibulazione, altre metodologie
+
+scopo inutile e giustificazione tribale spesso insensata
+
+feste di compleanno o iniziazione dove le ragazze stesse richiedono forme blande di mutilazione
+
+tons of materiale dalla donnina sconosciuta
+
+Lesioni da arma da fuoco
+----
+
++ distanza - caratteristiche foro ingresso (stellato, fiamma, affumicatura, tatuaggio), proiettili singoli o multipli
++ direzione - analisi balistica
