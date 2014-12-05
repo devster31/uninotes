@@ -1145,3 +1145,64 @@ Colecistite - De Stefano - continua
 
 sequestrectomia - rimozione dei cenci necrotici  
 posizionamento di tubo di Kerr (nome sbagliato), e trattamento con Gabexate Mesilate (FOY) e aprotinina (entrambi inibitori delle serino-proteasi, impediscono sanguinamento)
+
+Ernie Addominali - Piagnerelli
+----
+
+fuoriuscita di viscere dalla cavità dove è normalmente contenuto attraverso una debolezza di parete, un orifizio o un canale naturale (chiamate porta)
+
+spesso l'ernia bilaterale è su patologia genetica del collagene di base, e ci sono studi che lo associano ad aneurisma dell'aorta addominale (segno di
+deBakey e manovra con ancoraggio)
+
+elementi sono
+
++ porta
++ sacco erniario (colletto, corpo, fondo)
++ contenuto
+
+congenite o acquisite
+
+dolore, senso di pesantezza, nevralgia del ramo del nervo ileoinguinale, ramo inguinale, N/V con subocclusione o occlusione intestinale (complicanze), sintomi indiretti d'organo  
+riduzione spontanea o manovra di Taxis
+
++ incarceramento - aderenze tra contenuto, sacco e porta
++ strozzamento - sofferenza ischemica per compressione del peduncolo vascolare a livello della porta
++ intasamento - accumulo e ristagno di feci in un'ansa intestinale erniata
++ infiammazione - stasi fecale, gastroenterite, traumatismi ripetuti
++ rottura - rara
+
+gangrena di Fournier - http://en.wikipedia.org/wiki/Fournier_gangrene
+
+ernia inguinale - regione anatomica complessa per i vari margini  
+corona mortis, vicino al legamento inguinale passano vena ed arteria femorale
+
++ obliqua diretta
++ obliqua interna
++ obliqua esterna
+
+doppia visita sia in clinostatismo che ortostatismo, tosse e ponzata  
+linea di Mailgagne connette tubercolo pubico alla spina iliaca antero-superiore  
+reinvaginazione dello scroto attraverso il funicolo spermatico identificando l'anello obliquo-esterno
+
+ernia bastarda, la crurale, la riparazione vecchia includeva la sezione del legamento inguinale con riparazione con mesh suturata al pettineo,
+molto vicina alla vena femorale
+
+ernia ombelicale - congenita o acquisita, possibile l'onfalocele, se il contenuto ombelicale non rientra nell'addome e se parte del funicolo ombelicale rimane pervio
+
+la riduzione d'ernia non va fatta se la sintomatologia dura da più di 8-12h
+
+manovra di Traxis - trazione con rettilineizzazione
+
+ernia di spigelio
+
+la laparoscopia si fa con ernie bilaterali, ernie recidive e preferenza paziente, chiusura del peritoneo con tack metalliche
+
+Laparoceli
+----
+
++ infezione
++ BPCO (meccanica)
++ dismetaboliche (diabete, insufficienza renale)
++ difetto di sutura
+
+overlap di almeno 4 cm, l'overlap è importante in laparoscopia per evitare la recidiva
