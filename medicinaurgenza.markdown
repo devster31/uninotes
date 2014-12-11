@@ -3418,3 +3418,141 @@ se invece ventilano se ne valuta le condizioni secondo schema OPACS
 cannula oro-faringea - blocca la lingua e mantiene il flusso durante molte manovre di rianimazione
 
 altrimenti passo all'intubazione
+
+Ventilazione nel Paziente
+----
+
+la cannula dovrebbe essere della lunghezza tra l'angolo buccale e l'auricola
+
+le maschere sono
+
+###Intubazione Orotracheale
+
+1. mantiene pervie le vie aeree superiori
+2. protegge le vie aeree da aspirazione del contenuto gastrico
+3. consente una ventilazione meccanica a pressione positiva
+4. permette l'aspirazione di eventuali secrezioni nell'albero tracheo-bronchiale
+
+tubo endotracheale (oro- o naso-)
+
+incubare tutti i pazienti con problemi alla A, ipossici con SpO₂ < 85-90% in O₂ (maschera e reservoir) o pazienti GCS ≤ 8, pazienti che non hanno recuperato
+o non possono essere trattati con NIV, manovre diagnostiche
+
+criteri di insufficienza respiratoria
+
+- PaO₂ < 60 mmHg con ipossiemia
+- PaCO₂ > 50 mmHg con ipercapnia
+- tipo 1 principalmente ipossiemica
+- tipo 2 principalmente ipercapnica
+
+l'ossigenazione precede sempre l'intubazione per denitrogenare l'aria, rimpiazzare l'N con O₂, va alternata e continuata nei tentativi di incubazione prolungati
+
+la posizione è ipertensione della testa "annusa l'aria al mattino"
+
+farmaci adiuvanti fentanyl associati a benzodiazepine
+
+necessari per l'operazione un laringoscopia e un tubo  
+retta - lama di Miller o Foregger o Magill  
+curva - lama di
+
+scala di Cormack e Lehane - difficoltà di visione laringoscopica, grado da 1 a 4  
+tubo irrigidito con mandrino, semplice anima metallica  
+la valvola del tubo ha una spia che permette di valutarne la pressione di gonfiaggio della cuffia (palloncino)
+
+lunghezza del tubo alla bocca (21-23 cm)  
+osservazione delle'espansione del torace  
+auscultazione di torace e epigastrio sono 3 dei più comuni per il controllo dell'incubazione  
+etCO₂ che ci conferma che è in trachea e non in esofago  
+esistono tubi per l'intubazione alla cieca  
+presidi particolari per incubazione e ventilazione, a jet ventilation, che permettono solo l'ossigenazione senza rimozione di CO₂
+
+Pinze di Magill - rimozione di corpi estranei, intubazioni naso-tracheali e sondino naso-gastrico, pinze curve con spazio per tubo
+
+Maschera Laringea - presidio sopraglottico che evita il trauma del tubo rigido che attraversa le corde vocali
+
+####Intubazione Difficile
+
+laringoscopia difficile (grado 3 e 4) o 4+ tentativi o 5+ minuti per l'esecuzione, indipendentemente dal grado d'esperienza  
+classificazione Mallampati (grado 1-4) per la previsione di intubazione difficile giudicando solo la bocca
+
++ distanza mento-ioide
++ distanza inter-incisiva - > 4 cm, visione delle vie aeree
++ distanza tiro-mentoniera - > 7 cm, motilità del collo (asse)
++ distanza mento-sternale
+
+reazioni granulomatose (> 15 gg), edema ed emorragie sono i traumatismi più comuni dell'intubazione
+
+####Tracheostomia
+
+cricotiroidotomia d'emergenza
+possibile inserire un'agocanula forando tra la cartilagine tiroidea e cricoidea (14 gauge)
+
+non sostituisce l'intubazione se questa si può effettuare
+
+canule fenestrate (permettono di parlare)
+
+percutwist - sistema a vite che permette di aprire un foro, introdurre un mandrino e successivamente il tubo tracheostomico
+
+####Defibrillazione
+
+sottoclaveare dx - ascellare media sn  
+piastre lontane da PM o ICD  
+la risposta al defibrillatore c'è solo con fibrillazione ventricolare e tachicardia ventricolare (senza polso)
+
+Gravità dell'emorragia - classe I-IV con volume e volemia in ml e %  
+fino a 1.5 L non ho ipoperfusione sistemica e posso rimanere conservativo e raggiungere un ospedale  
+la pressione spesso non conta molto in quanto la compensazione è importante, la HF e RR iniziano a salire e salgono in maniera stabile  
+da 1.5 L inizia l'oligoanuria e si rimpicciolisce il polso  
+oltre i 2 L si ha anche alterazione del sensorio fino al coma
+
+la valutazione approssimativa della pressione sistolica può essere effettuata con la valutazione dei polsi periferici  
+il radiale > 70, femorale circa 60, carotideo circa 50, e c'è la necessità di massaggio cardiaco al di sotto dei 50
+
+la tachicardia c'è praticamente sempre, la bradicardia è un brutto segno, può indicare anche lesioni midollari
+
+14 gauge - 500 ml/minuto di cristalloidi / 300 ml/minuto di colloidi  
+con 2 cannule possiamo infondere molto rapidamente  
+spremisacca, ci sono meccanismi che permettono la pressurizzazione della soluzione e l'infusione arteriosa
+
+con trauma cranico la pressione non ha un requisito minimo di 90 mmHg ma di 120, per garantire la perfusione cerebrale
+
+GCS per la valutazione della D, oltre allo score AVPU (alert, vocali stimoli, painful stimoli, unresponsive)
+
+lacerazioni o contusioni parenchimali sono molto più gravi e importanti delle lesioni dirette all'encefalo
+
++ ipotensione --> ipoperfusione
++ ipossia --> ipoossigenazione
++ ipocapnia --> vasocostrizione
++ ipercapnia --> vasodilatazione --> ipertensione endocranica --> inadeguato DO₂ cerebrale
+
+tutte portano ad inadeguato DO₂ cerebrale  
+l'ipertensione si tratta con manipolo EV ipertonico  
+VIP rule - PaO₂ > 60 mmHg PaCO₂ = 34-36 mmHg PAS > 110 mmHg sono i 3 parametri fondamentali
+
+CPP / CVR = CBF  
+CPP = MAP - ICP (80-10) = 70 mmHg  
+CVR = (MAP - JVP) / CBF (80-10)/30% CO
+
+Perfusion Pressure, Vascular Resistances, Jugular Pressure, Blood Flow
+
+curva di autoregolazione cerebrale - se CPP è tra 50 e 100 mmHg il flusso ematico cerebrale è costante ma diventa esponenzialmente
+decrescente e crescente al disotto e al disopra di questi valori, inoltre c'è una relazione lineare tra PaCO₂ e CPP,
+mentre la PaO₂ segue una curva che rende il flusso stabile a tutte le pressioni superiori a 50 mmHg e esponenzialmente inferiore al di sotto
+
+####Monitoraggio strumentale in paziente con trauma cranico
+
+NIRS - near infrared spectroscopy, ossimetro per la valutazione dell'ossimetro cerebrale, anche senza la pulsatilità, la saturazione è mista, comprende
+arterie, vene e capillari
+
+monitoraggio della PIC con vari cateteri intracranici, ci sono vari device  
+in attesa di evoluzioni che non hanno indicazioni chirurgiche alla TC o ci sono fattori di rischio come età > 40 anni o PAS < 90 mmHg o
+posture decerebrate/decorticate mono o bilaterali
+
+il limite di PIC dipende dalla distanza dal trauma, dall'età, dall'apertura o meno della scatola cranica e dal tempo  
+< 20 mmHg - osservazione  
+> 20 mmHg - drenaggio LCR / lieve iperventilazione con PaCO₂ 30-35 mmHg / mannitolo con CEO₂ > 45% / iperventilazione aggressiva (28-30) con CEO₂ < 25% /
+barbiturici (burst suppression) / craniectomia decompressiva / coma farmacologico
+
+la SJO₂ si misura per calcolare SaO₂ - SJO₂ e valutare l'estrazione di ossigeno = CEO₂ 25-45%  
+le indicazioni sono iperventilazione terapeutica o GCS < 8  
+possibile l'uso di un catetere a fibre ottiche per il monitoraggio in continuo
