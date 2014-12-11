@@ -1206,3 +1206,12 @@ Laparoceli
 + difetto di sutura
 
 overlap di almeno 4 cm, l'overlap è importante in laparoscopia per evitare la recidiva
+
+Vie biliari
+----
+
+####Tumori
+
+####Approccio Chirurgico
+
+la stragrande maggioranza di sta roba è sul Dionigi

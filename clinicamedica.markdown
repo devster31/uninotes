@@ -1147,3 +1147,8 @@ controversie sull'effettivo rischio cardiovascolare nei COX2-inhib
 NSAID attualmente mai utilizzati oltre 21 gg, nella terapia acuta su cronica è indicato l'uso per 3 gg
 
 il farmaco più sicuro per periodi prolungati nel paziente a rischio cardiovascolare = Naproxene Sodico
+
+Endocarditi, Miocarditi, Pericarditi
+----
+
+assente
