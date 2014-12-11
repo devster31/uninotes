@@ -785,3 +785,55 @@ Lesioni da arma da fuoco
 
 + distanza - caratteristiche foro ingresso (stellato, fiamma, affumicatura, tatuaggio), proiettili singoli o multipli
 + direzione - analisi balistica
+
+Medicina dei Trapianti
+----
+
+consenso informato e scritto anche nel caso di donazione di midollo, occorre la maggiore età
+
+il cadavere non è di nessuno, i familiari non hanno il diritto di permettere l'espianto, il problema esiste solo nel vivente (cuore battente)
+
+donatore samaritano - valutazione psichiatrica
+
+secondo lui la donazione da vivente non dovrebbe essere accettata, ma è legale, gratuita e autorizzata da un giudice (fegato, pancreas, rene, intestino, polmone)
+
+per la cornea occorre il consenso scritto dei familiari anche nel cadavere
+
+trapianto di gonadi è vietato per incompatibilità di patrimonio genetico, ma dopo la fecondazione eterologa il problema non dovrebbe esistere
+
+principio statale del silenzio assenso nel caso della donazione di organi
+
+la legge italiana prevede il non-dissenso, non l'accettazione all'espianto
+
+dovrebbe essere completamente anonima
+
+Accoltellamenti
+----
+
+lesioni da strusciamento
+
+con il coltello si crea un rapporto particolare con la ferita che porta ad accoltellamento multipli e svariate ferite
+
+Lesioni da folgorazione
+----
+
+se ti scarichi a terra la corrente passa velocemente e il passaggio della corrente uccide il soggetto  
+la folgorazione può anche avvenire a brevissima distanza, per formazione di archi elettrici  
+in alcuni casi la cute fa effetto Joule e la lesione si confonde con l'ustione, succede nel punto in cui la corrente entra  
+non si ha la bruciatura da effetto Joule se l'area è molto grande per il passaggio di corrente  
+dielectric break
+
+Lesività da arma da fuoco
+----
+
+la borra se visibile denota che il colpo è stato esploso a distanza estremamente ravvicinata
+
+differenza di lesione dipendentemente se l'osso ha battuto su superficie piana o superficie specifica, come un'arma  
+soprattutto visibile sulle ossa del cranio
+
+omicidio di mafia, ricerca dei residui metallici di polvere da sparo, camuffati dal fatto che l'omicida si mette a smontare il motore del mezzo appena dopo
+l'omicidio; ci sono molti problemi nell'identificazione del colpevole negli omicidi senza movente, e la scientifica ha sempre dei dubbi
+
+la coagulazione muscolare di un corpo carbonizzato flette gli arti e fa assumere una posizione "a lottatore"
+
+frattura della base cranica - ecchimosi a farfalla binoculare
