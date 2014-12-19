@@ -3556,3 +3556,73 @@ barbiturici (burst suppression) / craniectomia decompressiva / coma farmacologic
 la SJO₂ si misura per calcolare SaO₂ - SJO₂ e valutare l'estrazione di ossigeno = CEO₂ 25-45%  
 le indicazioni sono iperventilazione terapeutica o GCS < 8  
 possibile l'uso di un catetere a fibre ottiche per il monitoraggio in continuo
+
+Thermal Hypothermia - Scolletta
+----
+
++ surface cooling methods - ascellare, femorale, inguinale, collo / sono sacche di ghiaccio (non controllate) o liquid pads (con ricircolo controllato da macchinario)
++ core cooling methods - vena periferica (con diminuzione della temperatura della soluzione salina, regolate da velocità di infusione,
+  possibile sovraccarico) / vena centrale (sonda ricircolante, controllato elettronicamente, mantenimento preciso e riscaldamento lento e controllato)
+
+  strumento portatile con gas refrigerante e canule nasali (rhino chill), l'obbiettivo principale è raffreddamento principale del cervello, specialmente
+  utile nell'ipotermia intra-arrest, che permette il raffreddamento durante il massaggio cardiaco
+
+  + induction ≤ 34 C - in 30-120 minuti
+  + manteinance ≤ 24h, ma non molto superiore, la più impegnativa per il rianimatore
+  + rewarming - molto più lento del raffreddamento (0.25-0.5 C per hour)
+
+  l'estrazione in ipotermia è inferiore all'aspettativa, ma l'utilizzo di ossigeno periferico è più basso comunque, quindi il mantenimento di SvO₂ > 70% è l'obbiettivo,
+  CVP (8-12 mmHg), Co, SVR, Mean ABP (65-100 mmHg)
+
+  il monitoraggio respiratorio è certo in quanto sono sicuramente intubati - difficile fare un EGA in quanto sono molto vasocostretti  
+  il metabolismo degli elettroliti è spesso sotto stretto controllo, K, Mg, Ca e P, e il controllo glicemico con infusione insulina continua (glicemia tra 110-180 mg/dl)
+
+  side effect
+
+  + cold diuresis (ipovolemia)
+  + bradicardia, aumento PR, QT e aritmie
+  + alterazione enzimi di laboratorio
+  + infezioni
+  + shivering (breathing work increased, aumento consumo di ossigeno)
+  + seizures
+  + effetti cardiovascolari
+
+  Targeted Temperature Management vs Hypotermia - è più importante il mantenimento di una temperatura stabile che della temperatura bassa
+
+  + global neuroprotection
+  + Cardiac Arrest - VF / TV
+  + early phase (during CPR)
+  + anticipate side effect
+  + many devices available
+
+  Polmone Urgente
+  ----
+
+  scambio di pari quantità di gas in generale, e lo scambio gassoso non ha molto a che vedere con la ventilazione  
+  scambi alveolari sono spesso più importanti del movimento d'aria, lo scambio gassoso comprende scambi alveolari e nella circolazione verso le cellule
+
+  ipossia
+
+  + anossica - O₂ saturation
+  + stagnante - cardiac output, O₂ uptake (basso trasporto, bassa estrazione)
+  + anemica - hemoglobin
+
+  PaO₂ circa = PiO₂  
+  PiO₂ = FiO₂ x (pAtm - pH₂O) - (PaCO₂ / RQ)
+
+  normal P(A-a)O₂ is < 15 mmHg  
+  arriva a 40 mmHg e oltre in varie situazioni
+
+  1. Atmospheric Pressure (Pb) - Hypobaric Hypoxia (Grocott NEJM 2009)
+  2. Alveolar Ventilation (Va) -  per aumentare la saturazione non ha utilità l'aumento della ventilazione
+
+  Va = RR x (Vt - Vd)  
+  PaCO₂ = VCO₂ / Va
+
+  PaO₂
+
+  + forgotten causes
+  + diffusion
+  + shunt
+
+  baby lung e pronazione del paziente
