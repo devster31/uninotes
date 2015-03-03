@@ -1152,3 +1152,16 @@ Endocarditi, Miocarditi, Pericarditi
 ----
 
 assente
+
+Aterosclerosi - discorsi
+----
+
+il rischio cardiovascolare veniva calcolato come esponenzialmente additivo, fino a poco tempo fa, recentemente riclassificato
+  come tabelle di normalità dei vari fattori di rischio (glicemia, profilo lipidico, pressione arteriosa)  
+studio FRAMING, nuovo algoritmo con controlli diversi in basi ai fattori di rischio base  
+le nuove classificazioni sono con valori relativi in base ai fattori di rischio concomitanti nel paziente  
+
+prima causa del fallimento terapeutico è la non compliance  
+come seconda opzione viene considerata una misdiagnosi  
+varie tabelle sono usate per calcolare approccio terapeutico e terapia, vedi slide  
+figura 4 presa dal Goodman & Gilman  

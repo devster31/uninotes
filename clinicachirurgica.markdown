@@ -1215,3 +1215,107 @@ Vie biliari
 ####Approccio Chirurgico
 
 la stragrande maggioranza di sta roba è sul Dionigi
+
+Tirocinio 3 Marzo - Casi Clinici
+----
+
+## primo caso
+
+urine ipercromiche, dolore colico in epigastrio e ipocondrio destro - sospetto colica biliare  
+addome dolente e dolorabile, punto cistico, segni di Murphy (++-) e Blumberg (+--) positivi  
+Segno di Giordano, McBurney e Rovsing negativi  
+
+Bilirubina totale e diretta aumentata, fosfatasi alcalina e Gamma-GT aumentate  
+ECT con colecisti ripiena di calcoli, dilatazione delle vie biliari intra ed extraepatiche con formazione iperecogena intracoledocica distale,
+epatomegalia, non liquido libero in addome, milza di dimensioni lievemente superiori  
+
+colica biliare in litiasi colecisto-coledocica come diagnosi → ricovero in gastroenterologia per rimozione dei calcoli in ERCP  
+potenzialmente utile la TC, anche se non è la migliore nella valutazione dei calcoli, più utile nella valutazione della flogosi  
+potenzialmente la MRCP, o la colangio-RM, normalmente però non disponibile in setting urgenza (succo d'ananas aumenta la specificità)  
+ecoendoscopia come approfondimento se sospettiamo tumori o altro tipo di neoplasia (valutazione anche dei linfonodi e strutture vascolari,
+  vena porta, vasi mesenterici, splenica, rendono difficoltoso l'intervento chirurgico o definiscono l'inoperabilità)  
+come ulteriore approfondimento PTC (colangiografia percutanea transepatica)  
+
+#### Colecistite Acuta
+
+terapia antibiotica a largo spettro dopo inquadramento diagnostico  
+senza miglioramento colecistostomia con paziente a rischio o precoce (<48h), se c'è miglioramento precoce (48-72h) o tardiva entro 4-6 settimane  
+
+doppio score anestesiologico ASA e Mallampati  
+punti di repere sono Triangolo Epato-cistico (faccia viscerale del fegato, colecisti, dotto cistico, epatico comine e destro) e
+ Triangolo di Calot (arteria cistica, dotto cistico ed epatico comune)  
+
+###NOTES
+
+natural orifice transluminal surgery, la via transvaginale ha avuto la maggiore diffusione, accessi attraverso il retto o lo stomaco
+  sono meno utilizzati per i possibili rischi dovuti alla creazione volontaria di una lesione nel viscere  
+  preservando cervice e utero si passa attraverso la faccia posteriore della vagina, entrando in peritoneo, in questa tecnica si ha 1
+  braccio solo per operare  
+tumore della colecisti sono spesso senza sintomi, rapidamente progressivi ed aggressivi  
+
+#### Colangiocarcinoma
+
++ intraepatico
++ VPP
+  + prossimale, o ilare o di Klatskin
+  + media
+  + distale
++ della colecisti
++ periampollare
++ Busmuth-Corlette
+  + tipo 1
+  + tipo 2
+  + tipo 3a
+  + tipo 3b
+  + tipo 4
+
+i marcatori aumentano la possibilità della diagnosi ma non sono diagnostici, possono essere utilizzati per follow-up  
+CEA e CA 19.9 sono i due più comuni nei tumori del GI  
+RM, TC o US per lo staging preoperatorio, eventuale CPRE per la definizione istologica o colangioscopia per la visualizzazione diretta  
+classificazione Child per il fegato  
+
+l'intervento chirurgico è una Wedge Resection epatica con linfadenectomia, si utilizzano gli 8 segmenti epatici, delimitati secondo vascolarizzazione  
+
+come terapie alternative in stadi avanzati ed inoperabili si può fare un drenaggio percutaneo della bile, chemio, radio e fotodinamica  
+
+## secondo caso
+
+dolore tipo colica biliare, lievissima febbre, vomito biliare, ittero  
+gamma-GT alte, bilirubina totale alta diretta, CA 19.9 alto (pancreas o vie biliari)  
+ECT con epatomegalia, dilatazione del dotto comune e delle vie intraepatiche, colecisti distesa, formazioni litiasiche, pancreas normale
+  milza notevolmente aumentata di volume
+linfonodo di Morgagni di circa 3 cm → o tumorale o infiammatorio  
+in anamnesi ETP stomaco localmente avanzato operato precedentementemente
+
++ HCC
++ linfonodo reattivo benigno
++ ETP stomaco
+
+come diagnosi o TC o RM, esclusa per l'incidente di caccia  
+cirrosi micronodulare, non segni di ripresa di malattia neoplastica nota all'anamnesi in ambito toraco-addominale  
+
+ERCP per DDx linfonodo reattivo benigno vs ETP vie biliari  
+colecistectomia open con posizionamento del drenaggio di Kehr (protezione del duodeno)
+
+##### Sindrome di Mirizzi
+
+compressione dei dotti biliari da calcolosi della colecisti, idrope della colecisti o ascesso, empiema, fistole tra colecisti e coledoco
+
+Chirurrrgia del Colon-retto
+----
+
+interventi spesso sproporzionati all'anatomia standard, si utilizza l'anatomia chirurgica, spesso comprende stazioni linfonodali e margini
+  di sicurezza della resezione, vasi compresi  
+colon diviso solamente in destro e sinistro  
+per esempio nel retto possiamo usare le valvole di Houston come punto di repere  
+importante nel retto la fascia mesorettale  
+anatomia vascolare con arterie ocoliche e anastomosi  
+
++ assenza o insufficienza delle anastomosi tra sigmoidea e emorroidarie superiori (punto debole di Sudek)
++ anastomosi ceco-colica
++ anastomosi tra ileo-colica e colica di dx
++ anastomosi tra colica media e colica sx alla flessura epatica
++ anastomosi tra colica media e colica sx fino alla flessura splenica (punto debole di Griffith)
++ anastomosi tra le ultime sigmoidee (punto debole di Toupet)
+
+arterioso venoso e linfatico, l'importanza per la resezione è essenzialmente vascolare ma l'infiltrazione è linfatica  
