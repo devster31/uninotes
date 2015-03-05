@@ -1165,3 +1165,22 @@ prima causa del fallimento terapeutico è la non compliance
 come seconda opzione viene considerata una misdiagnosi  
 varie tabelle sono usate per calcolare approccio terapeutico e terapia, vedi slide  
 figura 4 presa dal Goodman & Gilman  
+
+Polemica Puccetti
+----
+
+progetto SCORE  
+iperlipemia familiare combiniata - non vuol dire mista è una dislipidemia subdola  
+linee guida per la dislipidemia ed ipercolesterolemia, file allegato  
+è stato superato il concetto di livelli target di colesterolo, l'obbiettivo è un controllo percentuale  
+statina + ezetimibe  
+
+controllo della terapia farmacologica statinica  
+
+inspessimenti medio-intimali (IMT) - efficacia anti-aterosclerotica della terapia  
+associazione statina-fibrato (gemfibrozil/fenofibrato) - pericolo di associazione soprattutto per gemfibrozil  
+
+fattore di rischio cardiovascolare nel paziente diabetico - NASH  
+formula per calcolo del colesterolo LDL, Friedman??  
+fino a 200 TG le LDL sono un parametro sensibili, oltre quello andrebbe calcolato colesterolo non-HDL, il target è HDL + 30  
+aspirina + clopidogrel hanno un rischio di sanguinamento superiore agli anticoagulanti orali nel lungo periodo  

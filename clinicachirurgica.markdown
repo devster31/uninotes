@@ -1390,3 +1390,24 @@ tra i fattori prognostici ci sono
 + positività dei margini di resezione
 + carattere indifferenziato
 + diametro < 2cm
+
+Tirocinio 5 marzo - casi clinici
+----
+
+paziente di 22 anni con ematuria (da circa 2 mesi) e dolore addominale  
+viva dolorabilità a livello della parete posteriore del canale anale  
+indici di flogosi alterati e leucocitosi neutrofila, lieve anemia  
+l'esame delle urine sembra indicare la presenza di UTI con Klebsiella Pneumoniae  
+ECT addome negativa per lesioni vescicali, renali ed ureterali, non ha altri reperti patologici  
+Cistoscopia → risulta un edema nella parete poster-laterale superiore della vescica per compressione ab-estrinseco
+probabilmente da ascesso esterno  
+lesione ascessuale visibile con ECT transanale  
+MRI addome-pelvi rileva ileite terminale con coninvolgimento del meso con tramite fistoloso, valvola ileo-cecale
+deformata come da retrazione, ipotesi flogistica  
+diagnosi finale di Crohn, sospettabile solamente da calo ponderale e ascesso  
+
+dopo l'intervento emoglobina ridotta, sotto 8 g/dl, sudorazione profusa con paziente pallido e diuresi contratta  
+seconda giornata ECT addome di controllo sostanzialmente normale  
+terza giornata alvo aperto a feci e gas e recupero dell'emoglobina  
+ottava giornata cistografia RX di controllo normale con rimozione del catetere vescicale  
+nona giornata dimissione con mesalazina e fermenti lattici (VSL3) in terapia  
