@@ -1233,7 +1233,7 @@ colica biliare in litiasi colecisto-coledocica come diagnosi → ricovero in gas
 potenzialmente utile la TC, anche se non è la migliore nella valutazione dei calcoli, più utile nella valutazione della flogosi  
 potenzialmente la MRCP, o la colangio-RM, normalmente però non disponibile in setting urgenza (succo d'ananas aumenta la specificità)  
 ecoendoscopia come approfondimento se sospettiamo tumori o altro tipo di neoplasia (valutazione anche dei linfonodi e strutture vascolari,
-  vena porta, vasi mesenterici, splenica, rendono difficoltoso l'intervento chirurgico o definiscono l'inoperabilità)  
+vena porta, vasi mesenterici, splenica, rendono difficoltoso l'intervento chirurgico o definiscono l'inoperabilità)  
 come ulteriore approfondimento PTC (colangiografia percutanea transepatica)  
 
 #### Colecistite Acuta
@@ -1243,14 +1243,14 @@ senza miglioramento colecistostomia con paziente a rischio o precoce (<48h), se 
 
 doppio score anestesiologico ASA e Mallampati  
 punti di repere sono Triangolo Epato-cistico (faccia viscerale del fegato, colecisti, dotto cistico, epatico comine e destro) e
- Triangolo di Calot (arteria cistica, dotto cistico ed epatico comune)  
+Triangolo di Calot (arteria cistica, dotto cistico ed epatico comune)  
 
 ###NOTES
 
 natural orifice transluminal surgery, la via transvaginale ha avuto la maggiore diffusione, accessi attraverso il retto o lo stomaco
-  sono meno utilizzati per i possibili rischi dovuti alla creazione volontaria di una lesione nel viscere  
-  preservando cervice e utero si passa attraverso la faccia posteriore della vagina, entrando in peritoneo, in questa tecnica si ha 1
-  braccio solo per operare  
+sono meno utilizzati per i possibili rischi dovuti alla creazione volontaria di una lesione nel viscere  
+preservando cervice e utero si passa attraverso la faccia posteriore della vagina, entrando in peritoneo, in questa tecnica si ha 1
+braccio solo per operare  
 tumore della colecisti sono spesso senza sintomi, rapidamente progressivi ed aggressivi  
 
 #### Colangiocarcinoma
@@ -1283,7 +1283,7 @@ come terapie alternative in stadi avanzati ed inoperabili si può fare un drenag
 dolore tipo colica biliare, lievissima febbre, vomito biliare, ittero  
 gamma-GT alte, bilirubina totale alta diretta, CA 19.9 alto (pancreas o vie biliari)  
 ECT con epatomegalia, dilatazione del dotto comune e delle vie intraepatiche, colecisti distesa, formazioni litiasiche, pancreas normale
-  milza notevolmente aumentata di volume
+milza notevolmente aumentata di volume
 linfonodo di Morgagni di circa 3 cm → o tumorale o infiammatorio  
 in anamnesi ETP stomaco localmente avanzato operato precedentementemente
 
@@ -1301,7 +1301,7 @@ colecistectomia open con posizionamento del drenaggio di Kehr (protezione del du
 
 compressione dei dotti biliari da calcolosi della colecisti, idrope della colecisti o ascesso, empiema, fistole tra colecisti e coledoco
 
-Chirurrrgia del Colon-retto
+Chirurgia del Colon-retto
 ----
 
 interventi spesso sproporzionati all'anatomia standard, si utilizza l'anatomia chirurgica, spesso comprende stazioni linfonodali e margini
@@ -1319,3 +1319,74 @@ anatomia vascolare con arterie ocoliche e anastomosi
 + anastomosi tra le ultime sigmoidee (punto debole di Toupet)
 
 arterioso venoso e linfatico, l'importanza per la resezione è essenzialmente vascolare ma l'infiltrazione è linfatica  
+
+Tirocinio 4 marzo - casi clinici (Lorenzo Senescende)
+----
+
+73 anni, vaga dolenzia addominale, ittero cutaneo-mucoso  
+
+emocromo, coagulazione (cirrosi), funzionalità epato-pancreatica (bilirubina, transaminasi, fosfatasi, amilasi, lipasi, gamma-gt),  
+funzionalità renale, creatinina, altri  
+ittero ostruttivo dalle analisi del sangue  
+ostruzione delle vie biliari (intrinseco o estrinseco): calcolosi, compressione da pancreas (tumore / autoimmune è raro)  
+analisi dei tumori, CA 19.9, CEA, come sempre i marker contano un cazzo  
+
+ECO → colecisti senza calcoli ma con fango biliare, pancreas non valutabile, vie biliari non dilatate  
+colangio-RM → abbastanza ridondante  
+TC addome → massa ipodensa nella testa del pancreas con Wirsung dilatato a monte, la mancanza di dilatazione delle vie biliari fa
+supporre che l'ittero sia di tipo medico  
+ECO-endoscopia + agoaspirato (EUS-FNA) NON ERCP (manca la biopsia con agoaspirato) per la conferma bioptica della massa  
+adenoacarcinoma duttale moderatamente differenziato  
+
+tumori resecabili, borderline e non resecabili  
+nel caso del pancreas i borderline hanno coinvolgimento della VMS o VP con distorsione o stenosi o occlusione con adeguata
+quantità di vaso per effettuare la ricostruzione o infiltrazione della AMS ≤ 180 gradi  
+metastasi o linfonodi oltre al campo chirurgico rendono il tumore non resecabile  
+intervento di scelta duodenocefalopancreasectomia  
+protesi biliare in questo caso no, da considerare in caso di dilatazione delle vie biliari, i drenaggi preoperatori non sono
+efficaci per diminuire la mortalità post-operatoria  
+le uniche indicazioni sono l'ittero sintomatico (dolore, colangite), resezione chirurgica differita, bilirubinemia 15 mg/dl  
+
+va valutato lo stato nutrizionale  
+bilancio azotato utile solo durante la renutrizione  
+valutazione anestesiologica e cardiocircolatoria, ECG e farmacologica, nel caso della valutazione anestesiologica lo score
+va da 1 a 5  
+profilassi antitrombotica (farmacologica e manuale) e antibiotica  
+
+#### Duodenocefalopancreasectomia sec. Whipple
+
+non viene risparmiato lo stomaco e viene rimossa parte dell'antro, possibile lo sparing dello stomaco  
+la ricostruzione viene effettuata sec. Child, con anastomosi pancreatico-digiunale, epatico-digiunale e gastro-digiunale  
+
++ fistola pancreatica
++ ritardato svuotamento gastrico
++ infezione
++ metaboliche (diabete, insufficienza pancreatica esocrina)
++ emorragia
++ ascesso intraddominale
+
+fistole biliari, duodenali o gastriche, o la pericolosa postoperative pancreatic fistula (POPF)  
+per deiescenza dell'anastomosi, come controllo si fa l'amilasi dai drenaggi  
+3x il normale valore sierico tra la terza e la quinta post-operatoria  
+grado A, B o C, se è grave viene fatto un intervento chirurgico per correggere il difetto  
+
+in questo paziente la adiuvante si fa, è un tumore a prognosi infausta che giustifica nella stragrande maggioranza dei casi
+una chemio adiuvante  
+se possibile entro le 3-4 settimane
+
+#### Progonsi
+
+80-90% non resecabili alla diagnosi con prognosi a 6 mesi  
+nei resecabili l'80-90% non sopravvivono oltre i 3 anni  
+dopo chirurgia la sopravvivenza a 5 anni è circa il 15%  
+comune la recidiva locale
+
+in particolare dopo chirurgia:  
+mediana a 27 mesi, globale a 3 anni 42%, senza recidiva a 3 anni 25%  
+5 anni < 20%, N0 36%, N1 14%  
+tra i fattori prognostici ci sono
+
++ stato linfonodale
++ positività dei margini di resezione
++ carattere indifferenziato
++ diametro < 2cm
