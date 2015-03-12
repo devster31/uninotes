@@ -433,7 +433,7 @@ antibiotico inizia subito dall'inizio della ventilazione meccanica
 + ascesso perirenale - come sopra
 + ascesso perirenale associato a staffilococco - MSSA / MRSA
 
-altre <!---incompleto--->
+altre <!---incompleto-->
 
 #####Infezioni Addominali
 
@@ -1184,3 +1184,140 @@ fattore di rischio cardiovascolare nel paziente diabetico - NASH
 formula per calcolo del colesterolo LDL, Friedman??  
 fino a 200 TG le LDL sono un parametro sensibili, oltre quello andrebbe calcolato colesterolo non-HDL, il target è HDL + 30  
 aspirina + clopidogrel hanno un rischio di sanguinamento superiore agli anticoagulanti orali nel lungo periodo  
+
+Sindromi Edemigene - Puccetti
+----
+
++ cardiaca
++ renale
++ epatica
+
+di gran lunga le tre cause prevalenti come categoria
+
++ aumento della pressione capillare
+  + insufficienza renale acuta
+  + scompenso cardiaco
+  + cirrosi epatica
+  + farmaci
+  + varici con alterazione valvole
+  + tromboflebiti / flebotrombosi (prima distinzione mono-bilaterale)
+  + edema idiopatico
++ diminuzione della pressione oncotica
+  + perdita proteica
+    + sindrome nefrosica
+    + enteropatie protido-disperdenti
+  + diminuita sintesi
+    + cirrosi epatica
+    + malnutrizione
++ aumento della permeabilità capillare
+  + ipossia
+  + flogosi
+  + reazioni allergiche (angioedema)
++ ostruzione linfatica
+  + svuotamento del cavo ascellare
+  + atresia congenita linfatici
+  + linfoadenomegalie da tumori maligni
+  + ostruzione da altre cause
++ mixedema ipotiroideo
+
+### DDx
+
+##### Anamnesi
+
++ durata - acuto vs cronico
++ dolore - presente TVP, assente nel linfedema
++ riposo notturno - edema venoso migliora di notte
++ farmaci - ca-ant (non diidropiridinici), steroidi, estroprogestinici, FANS
++ neoplasie o irradiazione addomino-pelvica
++ sindrome delle apnee notturne - ipertensione polmonare
+
+##### Esame Obbiettivo
+
++ BMI - apnee notturne e IVC
++ distribuzione - unilaterale (TVP, IVC, linfedema) / bilaterale (sistemiche vs locali) / generalizzato (sistemico)
++ fovea - TVP, IVC e sistemiche
++ vene varicose
++ alterazione cutanee
++ segni di malattia sistemica
+
+##### Esami di Laboratorio
+
++ emocromo
++ elettroliti
++ creatinina, esami urine
++ glicemia
++ elettroforesi proteica
++ ormoni tiroidei
+
+##### Esami Specifici
+
+in base al sospetto clinico
+
++ edema acuto - D-dimero, ecocolordoppler arti inferiori
++ età > 45 anni - ecocardiogramma per escludere HPT polmonare o scompenso
++ sospetto di scompenso - ECG, ecocardiogramma, ex torace, BNP
++ epatopatia - ALT, AST, bil tot, ALP, PT, albumina
++ sindrome nefrosica - urine con valutazione del sedimento urinario, lipidi sierici
++ SD nelle apnee notturne - polisonnografia ed ecocardio
++ linfedema - TC addomino-pelvica
++ sospetto da farmaci - riduzione della dose o sostituzione
+
+Caso Clinico doppio - Sindromi Edemigene
+----
+
+maschio 59 anni caucasico, edemi bilaterali ingravescenti da circa un mese con dispnea da sforzo e contrazione della diuresi,
+tendenza alla nicturia - ipertrofia prostatica / scompenso cardiaco / insufficienza renale
+
+iperteso, segno della fovea positivo, toni cardiaci ovattati, ipoventilazione bibasilare, polsi periferici malvalutabili,
+linfoadenopatie superficiali assenti, BMI > 27
+
+caso molto simile, con edemi ingravescenti ma in donna 26enne parrucchiera e senza obbiettività clinica
+
+nell'uomo proteinuria 3.9, cuore ok, eco addome solo lieve steatosi, sospetto per sindrome nefrosica
+
+nella donna molto pià probabile l'autoimmunitario, molto scadente l'ipotesi cardiaca, nella donna spesso va fatta una biopsia renale
+glomerulopatia a lesioni minime, terapia steroidea con ottima risoluzione (tipica dell'infanzia)
+
+in base all'elettroforesi dell'uomo possiamo fare diagnosi di gammopatia monoclonale, banda lambda e β2-microglobulina,
+le plasmacellule alla biopsia osteo-midollare sono al 19%, la diagnosi finale è mieloma multiplo IgG,
+le catene lambda sono responsabili dell'amiloidosi
+
+nella donna l'elettroforesi ha indicato aumento poiclonale delle IgG, sospetto di autoimmunitario ragionevole
+
+differenza tra Hb e Gr, trait spesso diagnosticabile con riduzione emoglobinica vs riduzione globuli rossi
+
+Malattia di Berger nel caso fosse a base IgA
+
+Sindrome Emolitico-Uremica vs Moskowitz (Porpora trombotica-trombocitopenica) pediatrica vs adulta
+
+Oncologia - Tumore della Mammella
+----
+
+1 donna su 8, rischio aumenta con l'età, anche maschile
+
+#### Caso Clinico
+
+ripresa di malattia linfonodale ed ossea in paziente con carcinoma della mammella dx già trattata nel 2009 in altra sede  
+familiarità positiva fisiologica poco rilevante se non cicli di anticoncezionale da 13 anni  
+niente di rilevante nella remota  
+nel 2009 nodulo QSE mammella dx, all'agoaspirato ca infiltrante ER 95%, PgR 80%, Mib1 70%, c-erb B2 neg
+
+tumore d'organo praticamente inesistente ma nella mammella è più diffuso un tumore d'organismo, come in questo caso  
+metastasi a distanza, recidiva in loco e recidiva nella mammella controlaterale
+
+la signora fa CHT neoadiuvante, FEC → docetaxel  
+si fa quadrantectomia + linfoadenectomia  
+all'esame istologico carcinoma duttale infiltrante, G2, diffuso a 4+/15 linfonodi, infasione neoplastica dei linfatici perineurali,
+nessuna infiltrazione dei margini di resezione, T1c, N2a, PgR 35%, Mib 13%, cambiamento istologico da chemioterapia
+
+ripresa di malattia, mastectomia con inserzione di protesi, massa sottosternale in contatto con pericardio senza infiltrazione
+
+RX cranio e scintigrafia ossea mostrano metastasi nella teca cranica e nel corpo sternale, nel cranio lesione osteolitica netta
+
+all'esame obbiettivo emitorace dx con riduzione del MVF rispetto al sx, lieve gibbo scoliotico  
+esame istologico carcinoma lobulare infiltrante, ricerca di E-Caderina negativa
+
+ecomammaria + microbiopsia
+
+trattamento con taxolo settimanale, bevacizumab (vEGF), tamoxifene
+
