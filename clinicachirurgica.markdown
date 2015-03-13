@@ -1411,3 +1411,131 @@ seconda giornata ECT addome di controllo sostanzialmente normale
 terza giornata alvo aperto a feci e gas e recupero dell'emoglobina  
 ottava giornata cistografia RX di controllo normale con rimozione del catetere vescicale  
 nona giornata dimissione con mesalazina e fermenti lattici (VSL3) in terapia  
+
+Continua il Colon-Retto - De Stefano
+----
+
+sequenza polipo-carcinoma  
+
++ polipo iperplastico - arresto delle cellule della zona rigenerativa, non ha rapporto con la degenerazione maligna
++ polipo amartomatoso - proliferazione infiammatoria dello stroma, scarsissima relazione con la degenerazione maligna (diarrea, sanguinamento, occlusione)
+  + poliposi giovanile (sporadici)
+  + Peutz-Jeghers (familiare)
+  + Cronkhie-Canada (familiare)
++ polipo adenomatoso - alterazione dinamica replicativa nonostante la normale migrazione verso la zona maturativa
+  + tublare
+  + villoso
+  + sporadico
+  + ereditario (poliposi maggiore di 100)
+    + FAP
+    + Gardner
+    + Turcot
+    + Lynch
+
+nell'adenoma tubulare si ha slittamento della zona replicativa dalla base all'apice dei tubi ghiandolari e un progressivo
+ingrandimento del focolaio adenomatoso mediante diffusione di cellule adenomatose lungo i tubuli circostanti e mediante
+neoformazione di nuovi tubuli adenomatosi  
+
+nell'adenoma villoso la prima tappa è simile ma a differenza dell'adenoma tubulare una estroflessione fibropapillare dei
+focolai proliferativi ectopici da luogo alle neoformazioni lasciando la muscolaris mucosae alla base delle espansioni villose
+(risale in alto lungo il peduncolo)  
+
+Displasia
+
++ lieve
++ moderata trasformate in basso grado
++ grave trasformata in alto grado
++ boderline
+
+mutazioni germinali vs somatiche (familiari vs sporadiche)
+
+carcinoma in adenoma → resezione colica  
+displasia grave → polipectomia endoscopica  
+la differenza è l'invasività della muscolaris mucosae che distingue tra le 2 (massima estensione alla tonaca propria)  
+paragone e differenza tra colon e stomaco per la cancerizazione dei polipi adenomatosi (nello stomaco si ha spessissimo
+invasione di muscolaris mucosae nella stessa circostanza)  
+tutto il discorso è molto più facile per il polipo villoso, nel quale è anche più probabile l'invasione della muscolaris
+mucosae e la trasformazione maligna  
+
+#### Screening
+
++ SOF - test al guaiaco / test immunologico - ogni 2 anni
++ endoscopia - rettosigmoidoscopia / pancoloscopia - ogni 5-10 anni
+
+#### Colonscopia
+
+virtuale e non
+
++ cromoscopia - indocarminio
++ colorazione vitale - blu di metilene
++ magnificazione - cresilvioletto
+
+colonscopia terapeutica
+
++ rimozione dei corpi estranei
++ dilatazioni pneumatiche
++ controllo emorragie
++ decompressione (volvoli)
++ trattamento palliativo
++ escissione polipi
+
+#### Polipectomia Endoscopica
+
+rimozione dei polipi effettuata con incappiamento e strozzamento prima dell'escissione chirurgica  
+escissione fatta anche con metodo 'piecemeal', rimuovendo un pezzo alla volta del polipo  
+somministrazione di vasocostrittori per fermare l'emorragia eventuale (polidocandolo)
+
+in caso di 
+
++ grosse dimensioni
++ chiara evidenza neoplastica maligna
++ impossiblità tecniche
++ ricomparsa della lesione a breve distanza
+
+la sorveglianza post-polipectomia si divide in 3 sezioni in base ai soggetti a rischio  
+vengono aggiustati i tempi nei vari casi istologici diversi
+
+l'aspirina riduce l'incidenza di carcinomi colorettali  
+evoluzione con NSAID Sulindac, inibitore delle COX con attività anti-neoplastica  
+la dieta più opportuna è la dieta ad alto contenuto di fibre
+  
+incidenza 20 vs 40 %  
+presentazione clinica tardiva vs meno tardiva  
+stadiazione avanzata vs meno avanzata  
+sopravvivenza -50% vs +50%
+
+|   |  lesioni dx |  lesioni sx  |
+|---|---|---|
+|  incidenza  |  20%  |  40%  |
+|  presentazione clinica  |  tardiva  |  meno tardiva  |
+|  stadiazione  |  avanzata  |  meno avanzata  |
+|  sopravvivenza  |  -50%  |  +50%  |
+
+il delay di trattamento tra colon sx e dx cambia da 4 a 7 mesi per la minore incidenza di malattia  
+il trattamento è molto più tempestivo nel caso di riferimento ad un chirurgo, che rende molto più rapida la diagnosi
+
+la prognosi è peggiore per il colon trasverso perché la resezione non comprende tutti i linfonodi mesenterici
+come dovrebbe e vengono rimossi solamente alcuni
+
+la diagnostica passa da endoscopia -> ecografia endorettale -> MRI/TC/PET -> laparoscopia diagnostica + LDP  
+la PET è ancora poco usata per l'alto tasso di falsi positivi e la difficile interpretazione delle lesioni
+
+#### Stadiazione
+
+classificazione di Dukes in 3 fasi (A, B, C) in base all'infiltrazione dei vari strati
+
++ A - mucosa, sottomucosa o muscolare
++ B - oltrepassa la muscolare
++ C - linfonodale
++ D - metastasi
+
+classificazione di Astler-Coller
+
++ A - mucosa
++ B1 - muscolare senza oltrepassarla, linfonodi negativi
++ B2 - oltrepassa la muscolare, linfonodi negativi
++ C1 - non oltrepassa la muscolare, linfonodi positivi
++ C2 - oltrepassa la muscolare, linfonodi positivi
+
+i nuovi stadi UICC corrispondono a A = 0, B1 = 1, B2 = 2, C1 e C2 = 3
+
