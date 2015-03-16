@@ -1321,3 +1321,62 @@ ecomammaria + microbiopsia
 
 trattamento con taxolo settimanale, bevacizumab (vEGF), tamoxifene
 
+Miocardiopatie - Auteri
+----
+
++ primitive
++ secondarie
+
+spesso si preferisce una classificazione fisiopatologica-clinica
+
+#### Dilatativa (congestizia)
+
+dispnea, astenia, ortopnea, dispnea parossistica notturana, edemi periferici e palpitazioni, raramente presente
+anche la dilatazione prima della comparsa di sintomi clinici
+
+valutazione della pressione differenziale e aumento della PVC
+
++ pallore cutaneo e sudorazione
++ aumento dell'aia di ottusità cardiaca
++ comaprsa di III e IV tono
++ comparsa di soffio olosistolico da rigurgito atrio-ventricolare
++ turgore delle giugulari
++ epatomegalia dolorosa
++ reflusso epato-giugulare
+
+classificazione NYHA in 4 classi  
+con ECO + ECG possiamo individuare alcuni dei segni più comuni di cardiopatia ad eziologia sconosciuta
+
++ dilatazione delle camere cardiache
++ aumento dei diametri ventricolari
++ riduzione della frazione di eiezione
++ ipocinesia diffusa
++ trombi intracardiaci
+
+##### Altre cause di miocardiopatie
+
++ miocardiopatie della gravidanza
++ miocardiopatie da malattie neuromuscolari
+  + m. di Duchenne
+  + atassia di Friedreich
+  + distrofia miotonica
+  + distrofia dei cingoli
++ miocardiopatie da farmaci
+  + doxorubicin (suscettibilità genetica??)
+  + ciclofosfamide
+  + 5FU
+  + triciclici
+  + fenotiazine
+  + litio (per effetti elettrolitici)
+  + β-agonisti
+
+#### Ipertrofica
+
+senza dilatazione delle camere ventricolari, ipertrofia distrettuale a differenza delle forme secondarie a HPT e valvulopatie  
+gradiente di efflusso (stenosi subaortica ipertrofica), prevale la disfunzione diastolica
+
+emodinamicamente l'ostruzione è dinamica e variabile (possibile effetto del movimento della mitrale contro il setto)
+
+diagnosi ECG con ampie onde Q, varie aritmie, cardiomegalia alla RX torace, ECO fondamentale con aumento dello spessore del
+setto, piccolo volume della camera sx e movimento sistolico anteriore della mitrale, scintigrafia per valutare la perfusione,
+il cateterismo non è necessario per la diagnosi, ma utile per la valutazione del gradiente di efflusso
