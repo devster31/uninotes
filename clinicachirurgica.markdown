@@ -1517,7 +1517,8 @@ il trattamento è molto più tempestivo nel caso di riferimento ad un chirurgo, 
 la prognosi è peggiore per il colon trasverso perché la resezione non comprende tutti i linfonodi mesenterici
 come dovrebbe e vengono rimossi solamente alcuni
 
-la diagnostica passa da endoscopia -> ecografia endorettale -> MRI/TC/PET -> laparoscopia diagnostica + LDP  
+la diagnostica passa da endoscopia -> ecografia endorettale -> MRI/TC/PET -> laparoscopia d
+iagnostica + LDP  
 la PET è ancora poco usata per l'alto tasso di falsi positivi e la difficile interpretazione delle lesioni
 
 #### Stadiazione
@@ -1539,3 +1540,136 @@ classificazione di Astler-Coller
 
 i nuovi stadi UICC corrispondono a A = 0, B1 = 1, B2 = 2, C1 e C2 = 3
 
+oggi sono stati sostituiti tutti con stadiazione TNM standard
+
+la stadiazione è importante per i tumori del colon e retto intraperitoneale, ma fondamentale nel caso del retto
+extraperitoneale
+
+#### Preparazione all'intervento
+
+detersione del colon e riduzione della flora batterica  
+l'obbiettivo sono evitare le stenosi (diete a basso residuo, purganti, clisteri, irrigazione iso ed ipertonica),
+e chemioprofilassi antibiotica (neomicina, eritromicina, metronidazolo)
+
+#### Tecnica
+
+adeguati margini liberi e linfoadenectomia sono i due presupposti base per l'intervento  
+circa 2 cm di margine, legatura dei vasi all'origine e completa dissezione linfonodale regionale
+
+tutti questi principi sono applicabii facilmente al colon ma devono essere adattati al retto, che ha più
+linfonodi e soprattutto la possibilità di comprendere la parte di retto extraperitoneale
+
+la pulizia linfonodale è un presupposto indispensabile ma deve essere effettuata in maniera intelligente  
+i margini oncologici di sicurezza sono passati da 5 cm a 2 cm di oggi e potenzialmente 0.5 cm nel futuro
+soprattutto per quanto riguarda il retto, nel quale 2 cm di margine significano un intervento totale, il rischio
+di recidive locali però è aumentato, e alcune complicanze post-intervento pure
+
+Neoplasia del Fegato - continua lezione assente
+----
+
+### Colangiocarcinoma
+
++ origina dall'epitelio di rivestimento dei dotti biliari
++ rappresenta il 10-20% delle neoplasie epatiche, incidenza in aumento
++ maschi 60-70 anni
++ può interessare il parenchima (intraepatico)
++ vie biliari extra-epatiche
++ raramente insorge su cirrosi (in genere su fegato sano)
+
++ intraepatico (5-15%)
++ ilare (Klatskin) (50-60%)
++ extra-epatico distale (20-25%)
+
+i fattori di rischio comprendono:
+
++ calcolosi
++ colangite sclerosante
++ M. di Caroli / Coledococele
++ emocromatosi
++ infezione parassitaria da Clonorchis Sinensis
+
+diffusione 20-50% per via linfatica all'ilo epatico, linfonodi peripancreatici e paraortici
+
+la clinica comprende ittero ostruttivo nel 90% dei casi, malessere, perdita di peso nel 30-50%,
+dolore addominale nel 30-40% dei casi, sono sintomi aspecifici e tardivi, i colangiocarcinomi
+sono spesso diagnosticati tardivamente in fase avanzata
+
+si hanno feci ipocoliche, urine ipercromiche aumento bilirubina diretta
+
+la clinica e la diagnosi non differiscono in maniera sostanziale dall'epatocarcinoma, comprendono TC,
+colangio-RMN, ERCP, con ostruzione a monte del carcinoma, visibile anche con ecografia (dilatazione),
+l'ECO è l'esame di primo livello che non è diagnostico ma sospetta localizzazione e ostruzione delle vie biliari
+
+le indagini di secondo livello sono necessarie per stadaizione e valutazione dell'operabilità
+
+una nuova metodica che si sta diffondendo è l'ecoendoscopia EUS che permette una valutazione più precisa,
+l'applicazione principale comprende tumori di esofago, stomaco, retto per la valutazione dell'infiltrazione del tumore
+nella parete, il vantaggio di questa tecnica è la possibilità di eseguire agobiopsie transluminali
+
+il marker di riferimento in questo caso è CA19.9, come sempre poco utile se non followup
+
+colangiocarcinoma non trattato con radiofrequenza né indicazioni al trapianto
+
++ resezione
++ metodi palliativi
++ stent
++ bypass della stenosi (PTC)
+
+le resezioni con margine positivo hanno una sopravvivenza pessima, volendo con tecniche di inchiostratura
+o con valutazioni intraoperatoria dei margini di resezione
+
+il Klatskin è particolare, viene classificato con il sistema Bismuth in vari tipi in base al coinvolgimento
+dei rami delle vie biliari
+
+metodo di analisi 'brushing' per esame citologico (sia endoscopico sia PTC)
+
+gli scopi principali del trattamento sono:
+
++ resezione della neoplasia
++ risoluzione dell'ittero
+
+la pianificazione avviene in base a
+
++ sede della neoplasia
++ entità della resezione epatica
++ funzionalità residua
+
+nel Klatskin la resezione spesso comprende una ansa alla Roux e parziale epatectomia, ogni tanto viene mantenuto
+un drenaggio biliare percutaneo
+
+nella parte intermedia si fa una semplice resezione della via biliare
+
+nel terzo inferiore si fa una duodenocefalopancreasectomia, come per i tumori del pancreas (intervento di Whipple)
+
+la palliazione consiste nel posizionamento di un drenaggio permamente delle vie biliari, ci sono varie tecniche
+tra cui il posizionamento intraepatico, transcutaneo
+
+### Carcinoma della Colecisti
+
++ flogosi cronica della parete della colecisti
++ parassitosi
++ nitrosammine, sostanze chimiche
+
+la patogenesi è sostanzialmente la progressione da displasia severa -> carcinoma in situ -> carcinoma invasivo
+
++ 60% fondo della colecisti
++ 30% corpo
++ 10% infundibolo
+
+la forma infiltrativa è la più frequente e il 90% sono adenoacarcinomi, fondamentale l'assenza di ostruzione al flusso
+della bile e quindi l'assenza di sintomatologia specifica (riscontro incidentale dopo colecistectomia)
+
+negli stadi avanzati si ha dolore gravativo, perdita di peso, anoressia, ittero, massa palpabile, vomito
+
+CA19.9 e CEA (correlano con lo stadio) ma non sono diagnostici
+
+la stadiazione distingue in un T1a e T1b, nel primo caso sono forme limitate alla mucosa che richiedono una semplice
+colecistectomia, nel secondo caso va fatta una resezione epatica del letto della colecisti + linfadenectomia
+
+negli altri casi si fa resezione epatica IV/V e linfadenectomia o epatectomia dx con infiltrazione dell'ilo epatico
+
+per questo tumore la differenza è che alcuni casi vengono operati per calcoli
+
+### Ampullomi
+
+sono i meno maligni, si possono trattare con papillectomia endoscopica degli stadi iniziali
