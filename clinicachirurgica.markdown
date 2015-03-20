@@ -1673,3 +1673,53 @@ per questo tumore la differenza è che alcuni casi vengono operati per calcoli
 ### Ampullomi
 
 sono i meno maligni, si possono trattare con papillectomia endoscopica degli stadi iniziali
+
+Colon-retto - De Stefano
+----
+
+#### TNM
+
+il T1 mucoso viene considerato Tis se limitato alla mucosa, stadio Tis ormai si è allargato rispetto alla definizione standard
+
+long therapy vs shock therapy dopo intervento chirurgico intestinale, serve per coprire l'ambiente molto infetto
+naturale nell'intestino, quindi si fanno anche diete a basso residuo e purganti/clisteri per la pulizia da feci
+
+#### criteri utili per la TEM nelle neoplasie maligne
+
++ < 3 cm
++ no circonferenziale
++ no ulcerato
++ N0 T1 (T1sm) all'endoscopia e MRI
++ margini liberi e sufficienti (0,5 cm)
+
+TEM = Transanal Endoscopic Microsurgery
+
+suturatrice circolare per anastomosi termino-terminale negli interventi del retto
+
++ emicolectomia dx (tipica, ampia)
++ resezione medio-colica (tipica, ampia)
++ emicolectomia sx (tipica, classica)
+
+anastomosi ileo-colica letero-laterale isoperistaltica, posso scegliere la antiperistaltica per diminuire
+le scariche di diarrea nel primo periodo post-ricanalizzazione
+
+nella sinistra invece si possono fare le latero-terminali, termino-terminali e latero-laterali, in ordine di preferenza
+
+per il retto si fa resezione retto-colica anteriore o amputazione del retto (intervento di Miles)
+
+resezione retto-colica anteriore extraperitoneale
+
++ bassa - 2 cm dalla linea pettinata / conservazione degli elevatori / asportazione mesoetto in toto / nerve sparing
++ ultrabassa - linea pettinata / conservazione degli sfinteri / asportazione mesoretto in toto / nerve sparing
+
+nel caso di neoplasie del retto medio-basso
+
++ escissione del mesoretto
++ conservazione delle strutture nervose
++ margine distale libero
+  + intervento immediato
+  + intervento dilazionato
+
+la RT-CHT neoadiuvante porta al downstaging normalmente, artificio chirurgico??  
+definizione del TRG in base alla risposta alla neoadiuvante
+
