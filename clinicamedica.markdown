@@ -1380,3 +1380,12 @@ emodinamicamente l'ostruzione è dinamica e variabile (possibile effetto del mov
 diagnosi ECG con ampie onde Q, varie aritmie, cardiomegalia alla RX torace, ECO fondamentale con aumento dello spessore del
 setto, piccolo volume della camera sx e movimento sistolico anteriore della mitrale, scintigrafia per valutare la perfusione,
 il cateterismo non è necessario per la diagnosi, ma utile per la valutazione del gradiente di efflusso
+
+Sindrome Metabolica
+----
+
+la resistenza insulinica si misura con l'indice HOMA o QUICKI, poco usato il secondo, la formula dipende dalla
+unità di misura dell'insulina, vedi formule sul sito
+
+IR is insulin resistance and  %β is the β-cell function. Insulin is given in mU/L. Glucose and insulin are both during fasting.
+This model correlated well with estimates using the euglycemic clamp method (r = 0.88).
