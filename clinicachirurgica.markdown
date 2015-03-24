@@ -1723,3 +1723,77 @@ nel caso di neoplasie del retto medio-basso
 la RT-CHT neoadiuvante porta al downstaging normalmente, artificio chirurgico??  
 definizione del TRG in base alla risposta alla neoadiuvante
 
+Metastasi e tumori nel fegato
+----
+
++ estensione locale
++ diffusione linfatica
++ diffusione ematogena
++ impianto tumorale per insemenzamento
+
++ linfonodale
++ locoregionale
++ ematogena
++ peritoneale
+
++ sviluppo centrifugo
++ accrescimento per infiltrazione (visceri cavi)
++ invasione linfatica
++ invasione vascolare
++ infiltrazione di organi adiacenti
+
+metastasi sincrone vs metacrone
+
+il primo passo normalmente per le metastasi intestinali è il fegato, studiato in prima battuta con ECO e poi TC
+
+la chirurgia è ancora il gold standard per il trattamento dei carcinomi del colon-retto, con accurata selezione del paziente
+
++ aspettativa di completa rimozione
++ controllo della patologia primitiva
++ assenza di altre metastasi epatiche
++ numero < 5
++ riserva epatica sufficiente
++ dimensione delle lesioni
++ sede anatomica delle lesioni
+
+sono alcuni dei parametri più importanti per la selezione del paziente
+
+la radioterapia è un'alternativa accettabile all'intervento chirurgico in pazienti che non lo possono sostenere,
+un'altra alternativa è la CHT locale per cercare di ridurre lo stadio del tumore, e poi resecarlo, possibile farla anche
+in maniera specifica locale con infusione diretta
+
+nel caso del colon la prognosi è buona, nel caso dello stomaco l'aggressività spesso impedisce l'intervento combinato
+con resezione di tumore e metastasi contemporaneamente
+
+Pancreas
+----
+
+pancreatite acuta
+
++ pancreas divisum
++ altre
+
+molte pancreatiti sono di tipo edematoso, le altre sono necrotico-emorragiche che spesso lasciano cisti
+
++ effetti locali (edema, emorragia, necrosi)
++ effetti sistemici (iperglicemia, ipocalcemia, shock)
+
+DDx comprende RX addome diretta per escludere una perforazione intestinale  
+ECG per escludere un infarto inferiore  
+analisi del sangue per le amilasi e lipasi, le patologie del pancreas acute sono poche e questi esami sono significativi  
+TC con mdc offre una valutazione prognostica per decidere se intervenire con la chirurgia o solo con la terapia medica
+
++  medica - liquidi, terapia antibiotica, antidolorifici (non morfina), inibitori pompa protonica, e specifica (somatostatina, octreotide, gabesato mesilato)
++  endoscopica - ERCP (in casi selezionati)
++  chirurgica - pancreatite necrotica, ascessi, complicanze tardive
+
+complicanze
+
++ breve termine
+  + emorragia
+  + shock
++ lungo termine
+  + cisti
+  + pseudocisti
+
+#### Pseudocisti
