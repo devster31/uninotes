@@ -1723,6 +1723,70 @@ nel caso di neoplasie del retto medio-basso
 la RT-CHT neoadiuvante porta al downstaging normalmente, artificio chirurgico??  
 definizione del TRG in base alla risposta alla neoadiuvante
 
+i problemi principali nella chirurgia del colon rimangono i linfonodi, molto meno la vascolarizzazione o le difficoltà
+tecniche, nel caso del retto invece si hanno sia pluriregionalità linfonodali sia difficoltà tecniche di realizzazione
+dell'anastomosi
+
+la divisione in intraperitoneale ed extraperitoneale è in questo caso fondamentale in quanto separa grossolanamente
+tipi di interventi eseguibili con una suturatrice per via anale e quelli che invece non possono esserlo, con anastomosi
+meno tranquille e rimozione del mesoretto cercando di risparmiare i plessi nervosi vicini
+
+#### Trattamento chirurgico nelle neoplasie multiple
+
+nei casi di FAP e Lynch si impone la rimozione dell'intero colon retto compreso, il rischio rimarrebbe troppo alto in caso
+contrario, ma questo tipo di interventi viene fatto in elezione
+
+FAP (Gardner, Turcot), e Lynch non poliposica
+
+in questo caso i tipi di intervento sono:
+
++ colectomia totale
+  + tipica
+  + con parte del retto
++ retto-colectomia totale
++ proctocolectomia
+  + con conservazione degli sfinteri
+  + senza conservazione degli sfinteri
+
+ileo-ano anastomosi in caso di colectomia totale
+
++ semplice
++ con pouch - per casi di incontinenza o danneggiamento dello sfintere
+
+ileo-ano stomia in caso di procto-colectomia totale
+
++ temporanea con pouch
++ definitiva
+
+lo studio preliminare per la valutazione della funzionalità sfinteriale è fondamentale prima dell'intervento
+per giudicare la possibilità tecnica dell'intervento
+
++ rettocolectomia
++ proctocolectomia
++ proctocolectomia con conservazione dello sfintere
++ rettocolectomia con mucosectomia
+
+il followup nel caso di mantenimento del retto
+
++ controllo ogni anno o ogni 2 anni
++ controlli per almeno 20 anni
++ terapie chemiopreventive (sulindac)
+
+#### Chirurgia in urgenza
+
++ emorragia
++ occlusione
++ perforazione
+
+occlusione - 20% dei casi di carcinoma, più frequenti a sinistra  
+l'occlusione alta richiede intervento immediato, mentre l'occlusione bassa richiede meno urgenza
+
+approccio in 1/2/3 tempi nel caso di interventi del colon sx
+
++ esteriorizzazione sec. Mikulicz
++ resezione sec. Hartmann
++ resezione con anastomosi primaria
+
 Metastasi e tumori nel fegato
 ----
 
@@ -1797,3 +1861,231 @@ complicanze
   + pseudocisti
 
 #### Pseudocisti
+
+raccolte contenenti materiale necrotico, coaguli e succo pancreatico, delimitate da parete fibrosa senza epitelio proprio
+
+sono esiti di pancreatite acuta, quando le raccolte fluide formatesi per necrosi ghiandolare o spandimento di succhi
+pancreatici, determinano una reazione flogistica nei tessuti circostanti con foramzione di aderenze fibrose delimitanti
+la pseudocisti
+
++ dolore
++ febbricola
+
++ suppurazione
++ rottura 
+  + peritoneo (ascite, peritonite)
+  + stomaco o tenue (guarigione)
+  + colon (sovrinfezione da coli)
++ emorragia intracistica (grave se da arteria splenica o pancreatico-duodenale)
+
+l'intervento più eseguito è la pseudocisto-digiuno-stomia, il drenaggio in ileo normalmente risolve la situazione
+ammesso che la pseudocisti non sia in collegamento con il Wyrsung, e quindi non si possa rifornire/ricreare
+
+la pseudocisto-gastro-stomia sarebbe un intervento più semplice ma al contrario dell'ansa alla Roux non protegge
+la cisti dal passaggio di cibo
+
+#### Pancreatite Cronica
+
+malattia infiammatoria cronica che conduce alla progressiva distruzione irreversibile del parenchima con conseguente
+insufficienza sia esocrina che endocrina della ghiandola
+
+coinvolge inizialmente il sistema duttale pancreatico, e successivamente il parenchima acinoso ed insulare
+
+M:F = 3:1 perché tra i fattori di rischio ci sono abuso di alcol e fumo di sigaretta
+
+##### calcificante
+
+precipitazione di materiale proteico insolubile (plugs proteici) sui quali si depositano sali di calcio,
+consegue disepitelizzazione dei dotti -> flogosi -> fibrosi stenosante -> sostutuzione fibrosa del parenchima
+
++ fase precoce - entro i primi 5 anni con riacutizzazioni dolorose, con dolore persistente e profondo scatenato da alcol
+e pasti ad alto contenuto lipidico
++ fase tardiva - dopo 10 anni dall'esordio con riduzione delle crisi ma segni di progressiva insufficienza ghiandolare
+
+anatomo-patologicamente le 2 fasi si distinguono bene con aumento di volume in fase precoce e riduzione
+di volume con aumento di consistenza della ghiandola in fase tardiva
+
+##### Diagnosi
+
+con clinica, laboratorio e diagnostica per immagini (ECT, TC, MRI, ERCP)
+
++ dolore ricorrente
++ calo ponderale
++ malassorbimento
++ diabete
++ ittero
+
+calcificazioni all'Rx in 50% dei casi, all'ERCP si dimostrano le irregolarità stenotiche o ectasiche del sistema duttale
+
+colangio-MRI con secretina ed EcoEndoscopia sono 2 metodi che possono dare informazioni utili aggiuntive
+
+##### Terapia
+
++ analgesisi
++ terapia enzimatica sostitutiva
++ insuilna in caso di insufficienza pancreatica
++ inserimento di stent per favorire il deflusso lungo il dotto pancreatico, durante la fase di ingrandimento
+volumetrico della ghiandola che potrebbe impedire il deflusso
++ estrazione di calcoli
++ asportazione - stenosi delle vie biliari non altrimenti risolvibili (duodenocefalopancreasectomia o splenopancreasectomia distale)
+
+#### Tumori
+
+neoplasia sempre più frequente
+
++ NET
++ carcinomi
+
+fattori di rischio familiarità, fumo di sigaretta, alimentazione, caffè, alcol, carginogeni industriali, pancreatite cronica
+
+sede
+
++ testa - 60-70%
++ corpo - 20-30%
++ coda - rare
+
+i sintomi variano poco, la differenza più grossa è l'ittero ostruttivo alla diagnosi nei casi di carcinoma alla testa,
+quasi mai associato a dolore (coliche)
+
+gli strumenti per la diagnosi non cambiano, viene aggiunto il marcatore tumorale, CA19-9 come indicazione generale
+
+ECT - ci da una valutazione delle vie biliari, meno accurata per la valutazione del tumore  
+TC - stadiazione pre-operatoria clinica per valutazione di resecabilità, metastasi, infiltrazione linfonodale e loco-regionale
+con coinvolgimento dei vasi mesenterici
+ERCP - possibilità di eseguire il brushing per l'esame citologico e l'eventuale posizionamento di stent per la risoluzione
+dell'ittero
+
++ tendenza alla precoce diffusione
++ loco-regionale e linfatica 
++ a distanza nel gefato
++ intraaddominale soprattutto peritoneale per insemenzamento
+
++ duodeno-cefalo-pancreasectomia - con o senza conservazione di piloro/stomaco e ricostruzione
++ resezione distale
++ pancreasectomia totale
+
+Patologia Renale - Collini
+----
+
+varianti arterie polari superiori o inferiori, possibile origine dall'iliaca  
+vascolarizzazione terminale in quasi ogni parte del rene  
+arteria renale -> interlobare -> arciforme -> interlobulare -> glomerulo
+
+segmenti renali
+
++ polo superiore
++ polo inferiore
++ mesorene suddiviso in anteriore (superiore e inferiore) e posteriore
+
+tumori del parenchima vs tumori della pelvi (differente tipo di epitelio)
+
++ malformazioni
+  + agenesia renale
+  + rene a ferro di cavallo - embriologicamente massa unica che si divide durante il periodo fetale
+  + ptosi renale - inginocchiamento dell'uretere perché l'origine vascolare e ureterale è la stessa della posizione fisiologica
+  + megauretere congenito
++ cisti renali
+  + cisti semplici
+  + rene multicistico
+  + APKD - malattia policistica dell'adulto (anche fegato viene coinvolto spesso) insufficienza renale ma non epatica
++ lesioni vascolari renali
+  + aneurismi dell'arteria renale - resezione chirurgica o embolizzazione
+  + infarto renale - attesa o eventuale nefrectomia
++ litiasi renale (ossalato di calcio, fosfato di calcio, acido urico), quadro clinico variabile, la sintomatologia comprende
+colica renale, ematuria, disuria, idronefrosi; la diagnostica si fa con stick urinario, ECT renale, analisi del sedimento, esami 
+della funzionalità renale (creatinina); trattamento con liquidi, antibiotici, antispastici, antidolorifici;
+la chirurgia comprende litotripsia extracorporea (ESWL), percutanea, ureteroscopica o chirurgia a cielo aperto
++ traumi renali - la clinica comprende ematuria, dolore, shock emorragico ed uretrorragia (traumi uretrali, coaguli),
+trattati con attesa, chirurgia resettiva, nefrectomia semplice, embolizzazione, cistostomia sovrapubica o cateterismo acuto nei traumi
+uretrali
+  + renali
+    + contusione (80%)
+    + lacerazione
+    + rottura del parenchima
+    + lesione via escretrice
+  + ureterali (spesso iatrogeni)
+  + vescicali
+    + contusione (10%)
+    + rottura extraperitoneale (vescica da scoppio)
+    + rottura intraperitoneale (come sopra)
+  + uretrali (spesso portano a stenosi)
++ tumori renali - dolore, ematuria macro e microscopica, massa al fianco, idronefrosi, ma alla grande la più frequente è il
+reperto occasionale in alcuni casi si scopre come sindrome paraneoplastica; ECT, TC con mdc, MRI, arteriografia renale,
+citologia mediante agoaspirato, biopsia percutanea ECT o TC guidata (non sempre da fare per rischio di disseminazione), (urografia)
+  + adenoma
+  + carcinoma 
+    + a cellule chiare (90%)
+    + a cellule renali
+    + papilloma (10%) - spesso multifocale
+    + della pelvi (a cellule transizionali - maligno)
+  + oncocitoma (5% - benigno) - non distingubile dal carcinoma
+  + nefroblastici - Wilms
+  + angiomiolipoma (benigno)
++ tumori della pelvi renale ed uretere
+  + papillomi o carcinomi a cellule transizionali
+  + tumore superficiale - elettrosezione endoscopica o laser (uretere)
+  + pelvi, uretere prossimale o medio - nefroureterectomia con resezione di pastiglia vescicale (tende a recidivare)
+  + uretere distale - possibile resezione uretere distale e reimpianto in vescica o autotrapianto del rene (solo superficiali)
+
+trattamento della ptosi solo se sintomatica o in caso di infezioni  
+in caso di inginocchiamento si fa plastica del giunto pielo-uretrale VLS  
+nel caso di megauretere si fa resezione e reimpianto in vescica con tecnica anti-reflusso
+
+nel caso dei tumori del rene la linfoadenectomia NON ha significato curativo, ma va sempre rispettato il margine di sicurezza
+
++ nefrectomia parziale
++ nefrectomia semplice (senza linfonodi, capsula o surrene)
++ nefrectomia radicale (con o senza linfoadenectomia)
++ embolizzazione preoperatoria  + radicale 
+  + con radioterapia
+  + con embolizzazione arteriosa palliativa
+  + con resezione cavale per M0
+  + nefrectomia citoriduttiva per M1
+
+radioterapia solo a fini palliativi, chemioterapia fondamentalmente inefficace, l'embolizzazione è utile per ridurre il
+sanguinamento operatorio, la nuova frontiera è l'immunoterapia e la terapia antiangiogenetica
+
+durante l'operazione vanno clampate le arterie e vene renali, per evitare un'ischemia si usa una tecnica chiamata "clampaggio intermittente"
+
++ tecnica open
++ mini-invasiva laparoscopica
++ hand assisted
++ robotica
+
+Follow-Up con ECT ogni 6 mesi e TC ogni anno
+
+Malattie Infiammaotorie croniche intestinali - De Stefano
+----
+
+la difficoltà è la gestione nel tempo dei pazienti, in molti casi soprattutto la scelta della tempistica dell'intervento  
+in particolare le differenti complicazioni tra Crohn e RCU determinano differenti tipi di followup e interventi risolutivi
+
+#### Terapia
+
+1. 5 ASA - azulfidina e mesalamina
+2. corticosteroidi o altro tipo di immunosoppressori - azatioprina, metotrexate, ciclosporina
+3. vengono spesso associati antibiotici e antimicotici - metronidazolo, ciprofloxacina, ampicillina
+4. immunomodulanti - anticorpi monoclonali (infliximab)
+5. dieta (NTP)
+
+in caso di attacco severo si va in nutrizione parenterale totale e si utilizzano farmaci di seconda linea ad alte dosi per 3-6 gg
+
+intervento con plastica Z per stenosi < 2cm o metodo diverso per > 2 cm -> stricturoplastica  
+RCU -> intervento di Turnbull  
+
+Malattia Diverticolare
+----
+
+generalmente tenuta sotto controllo con presidi farmaco-igienici-dietetici per anni senza indicazione chirurgica
+
++ paramomicina
++ sulfamidici (+ trimetoprim)
++ neomicina
+
+l'indicazione chirurgica si pone in caso di:
+
++ crisi ripetute di infiammazione
++ stenosi (tumefazione palpabile)
++ associazione di disturbi urinari
++ associazione di perdite vaginali purulente
++ peritonite

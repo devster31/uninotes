@@ -1293,7 +1293,17 @@ Sindrome Emolitico-Uremica vs Moskowitz (Porpora trombotica-trombocitopenica) pe
 Oncologia - Tumore della Mammella
 ----
 
-1 donna su 8, rischio aumenta con l'età, anche maschile
+1 donna su 8, rischio aumenta con l'età, anche maschile (100 volte meno frequente)  
+aumento con l'età, molto importante dopo 50 anni, aumento in coincidenza con gli anticoncezionali orali e pomate
+ormonali  
+reale incremento (30%), maggior numero di diagnosi precoci (60%), maggiore probabilità di diagnosi precoce 
+per aumento della vita media (10%)
+
+precedente LCIS o DCIS è un grosso fattore di rischio  
+radiazioni della mammella soprattutto a 10-19 anni o 20-30 anni sono ad alto rischio  
+precedente carcinoma dell'ovaio o dell'endometrio o del colon-retto
+
+tutta sta roba è nel ppt.
 
 #### Caso Clinico
 
@@ -1389,3 +1399,158 @@ unità di misura dell'insulina, vedi formule sul sito
 
 IR is insulin resistance and  %β is the β-cell function. Insulin is given in mU/L. Glucose and insulin are both during fasting.
 This model correlated well with estimates using the euglycemic clamp method (r = 0.88).
+
+Storia naturale della malattia - Francini
+----
+
+discorso complicato su un povero paziente con migliaia di metastasi, tumore altamente indifferenziato
+
+stupida battuta sull'immunoistocomica
+
+Tumore del Colon-Retto
+----
+
+caso clinico - paizente maschio, anni 77, chemioterapia in 2 cicli, malattia metastatica a fegato e polmoni
+
+screening fatto con le solite tecniche:
+
++ sangue oggulto nelle feci - bassa diagnosi di adenomi
++ retto-sigmoidoscopia - non diagnostica per lesioni distali
++ rx clisma opaco - bassa sensibilità e falsi positivi
++ colonscopia - invasivitò, costi e rischi
+
+fattori di rischio, abbastanza conosciuti, ambientali e stile di vita - incremento degli acidi biliari, protettivo di fibre, vit C, vegetali, frutta, cereali, calcio e acido folico
+
+classificazione di Dukes:
+
++ stadio A - mucosa e sottomucosa
++ stadio B - fino alla muscolare (B1) o sierosa (B2)
++ stadio C - linfonodi locoregionali
++ stadio D - metastasi a distanza
+
+sostituita ormai da TNM
+
+colon dx, flessura epatica e colon trasverso spesso asintomatici
+
+la sintomatologia iniziale spesso comprende:
+
++ sanguinamento occulto
++ alterazioni dell'alvo
++ dolori addominali e colica
+
+nelle fasi avanzate:
+
++ calo ponderale
++ anemia normocromica normocitica da stillicidio cronico
+
+nei carcinomi bassi, del retto, psosiamo avere 
+
++ tenesmo
++ rettorragia
+
+a dx - spesso massa vegetante nel lume  
+a sx - spesso stenosanti a manicotto, più precocemente occludenti
+
+complicazioni
+
++ perforazione
++ fistolizzazione
++ volvolo
++ ernia inguinale
+
+Scompenso Cardiaco
+----
+
+#### Trattamento
+
+l'obbiettivo principale nello scompenso acuto è stabilizzare le condizioni emodinamiche del paziente identificando
+e trattando i fattori reversibili dello scompenso (infezioni, aritmie, embolia polmonare)
+
+l'approccio farmacologico si basa sull'utilizzo di farmaci ev come diuretici dell'ansa, nitrati, inotropi
+(dobutamina, dopamina, milrinone, levosimendan)
+
++ riduzione dell'apporto giornaliero di sodio
++ riduzione dell'apporto di alcol
++ riduzione del peso negli obesi
++ abolizione del fumo di sigaretta
++ vaccinazioni vs influenza e pneumococco
++ programmi di riabilitazione cardiaca
+
+le classi di farmaci sono:
+
++ ACE inibitori - cardine
++ sartani - cardine
++ β-bloccanti
++ glicosidi cardioattivi - utili in alcune situazioni
++ idralazina, nitrati
++ diuretici - dell'ansa, riducono pre e post carico e pressione di riempimento
++ vasodilatatori
++ anticoagulanti / antiaggregante
++ antiaritmici
+
++ rivascolarizzazione
++ risincronizzazione ventricolare 
++ pace-maker / ICD
++ ultrafiltrazione - ausilio nello scompenso acuto refrattario
++ ossigenoterapia
+
+Diabete - Casi Clinici - Gennari
+----
+
+donna, anziana, DM2, HPT arteriosa, cardiopatia ischemico-ipertensiva, pregressa ischemia cerebrale, stenting carotide comune sx,
+già in terapia con antiaggregante, β-bloccante, diuretici, statina, insulina rapida e a lento rilascio
+
+ulcera post-traumatica gamba dx  
+ECG normale, paziente stabile
+
+sospetto di encefalite all'esame neurologico  
+terapia psichiatrica con benzodiazepine e SSRI, aumento dell'anticoagulazione con acido acetilsalicilico
+
+nuovi rischi diabetici a 6.5% HbA1C o ≥ 126 mg/dL fasting plasma glucose (FPG)
+
+GLP-1, nuova generazione di farmaci, inibitore di DPP-4, stesso tipo di effetto per aumento dell'emivita del GLP-1
+
+complicanze del diabete (duh!!)
+
+Glomerulonefrite - Auteri - finalmente si leva di torno
+----
+
++ nel primo caso gli autoanticorpi agistono direttamente contro strutture glomerulari, o antigeni ematici rimangono intrappolati nel glomerulo
++ nel secondo caso gli anticorpi reagiscono con antigeni solubili ed il complesso antigene-anticorpo si deposita nei glomeruli
+
+Francini - 14-4-2015
+----
+
+colangiocarcinoma misdiagnosis con carcinoma endometriale - caso clinico → vedi slide
+
+carcinoma endometriale:
+
++ chirurgia - efficace negli stadi iniziale
++ radioterapia - invasione del miometrio > 50% efficace come adiuvante
++ chemioterapia - trattamento adiuvante con istotipi aggressivi e malattia metastatica
++ ormonoterapia - non efficace come trattamento adiuvante post-chirurgico, utile nel trattamento del carcinoma
+avanzato o recidivato
+
+Francini - 16-4-2015
+----
+
+#### Cancro dello stomaco 
+
+diagnosi per EGDS, clinica molto poco significativa se non per bassa Hb da sanguinamento cronico
+
+tumore di Krukenberg → salpingectomia bilaterale [pagina wikipedia](http://en.wikipedia.org/wiki/Krukenberg_tumor)
+
+tumore completamente regredito dopo neoadiuvante, da T4 a T0N0 con liquido peritoneale negativo  
+nonostante questo la CHT adiuvante può aumentare la sopravvivenza post-operatoria
+
+#### Cancro del polmone
+
+anche in questo caso esame obbiettivo poco specifico, ma il sospetto fa eseguire HRTC, attenzione alla fascia d'età
+
+neoadiuvante seguita da RT e adiuvante
+
+sindrome di Pancoast - dolore alla spalla intenso, fino alla zona ulnare dell'avambraccio e mano con atrofia
+
+[osteoartropatia ipertrofica](http://it.wikipedia.org/wiki/Osteoartropatia_polmonare_ipertrofica)
+
+#### Carcinoma dell'ovaio
